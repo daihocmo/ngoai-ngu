@@ -1,0 +1,65 @@
+site_name: Phương pháp học ngoại ngữ thông qua Immersion và Comprehensible Input.
+site_description: Tự học ngoại ngữ và thành thạo thông qua các tài nguyên miễn phí.
+site_author: onlyduyy  
+theme:
+  name: material
+  features:
+    - navigation.sections
+  palette:
+    primary: indigo
+
+nav:
+  - Home: 'index.md'
+  - 'Động lực':
+    - 'Động lực học': 'cai-thien-dong-luc.md'
+    - 'Để học thật tốt ngoại ngữ': 'de-hoc-tot-ngoai-ngu.md'
+  - 'Hướng dẫn':
+    - 'Học ngoại ngữ': 'guide.md'
+    - 'Vùng ngôn ngữ': 'language-domain.md'
+    - 'Lặp lại ngắt quãng': 'srs.md'
+    - 'Cách đọc để học': 'reading.md'
+  - 'Đầu vào dễ hiểu':
+    - 'Hướng dẫn': 'input.md'
+    - 'Những thứ khác': 'other-things.md'
+  - 'Đắm mình trong ngôn ngữ':
+    - 'Tổng quan': 'overview.md'
+    - 'Siêu đắm chìm': 'mass.md'
+    - 'Đắm mình chủ động': 'active.md'
+    - 'Đắm mình thụ động': 'passive.md'
+  - 'Quá trình học':
+    - 'Đào câu': 'sentence-mining.md'
+    - 'Anki các thứ': 'anki.md'
+    - 'Hộp thời gian': 'timeboxing.md'
+    - 'Thông qua Phim Ảnh': 'phim-anh.md'
+    - 'Xem Youtube': 'youtube.md'
+    - 'Đọc sách trên Kindle': 'kindle.md'
+      
+theme:
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: grey
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: grey
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.sections
+    - search.suggest
+    - search.highlighting
+    - search.share
+  name: material
+
+extra:
+  generator: false
