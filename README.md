@@ -1,5 +1,3 @@
-- Home: 'index.md)
-
 ### Động lực
 - [Động lực học](./docs/cai-thien-dong-luc.md)
 - [Để học thật tốt ngoại ngữ](./docs/de-hoc-tot-ngoai-ngu.md)
