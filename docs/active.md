@@ -1,12 +1,10 @@
-# [Active immersion](https://tatsumoto.neocities.org/blog/active-immersion.html)
-
-March 17, 2023 — Tatsumoto
+[Active immersion](https://tatsumoto.neocities.org/blog/active-immersion.html) - March 17, 2023 — Tatsumoto
 
 Active immersion is a crucial part of language learning and requires full attention to the content you are consuming. In this article, we will look in more detail at what active immersion is and how to practice it. We will also discuss the different types of active immersion, and how to deal with the ambiguity that can arise when immersing.
 
 ---
 
-## [](https://tatsumoto.neocities.org/blog/active-immersion#what-is-active-immersion "Permanent link")What is active immersion
+### What is active immersion
 
 Active immersion is the most crucial element in language learning. During active immersion, you are paying your full attention to the material you are consuming, be it audio, video, or text.
 
@@ -14,7 +12,7 @@ It is where language acquisition really takes place. Your attention alerts the b
 
 It can even be argued that doing active immersion alone is sufficient to become fluent. Of course, passive immersion helps, but it is not imperative. One can also stop using the SRS and still reach fluency, although it will take longer. But without active immersion everything falls apart. As we know very well from experiences of other people, just memorizing words and grammar is not going to lead anywhere.
 
-## [](https://tatsumoto.neocities.org/blog/active-immersion#starting-to-immerse "Permanent link")Starting to immerse
+### Starting to immerse
 
 It is vital to discover content that captures your interest. Explore the available content in your target language, experiment with different media, different genres. To be able to immerse for hours and hours every day, the content must be "compelling", as Steven Krashen often calls it. You have a long journey of learning ahead of you, so it's essential to have a strong passion and enthusiasm for something in the language. Only compelling content will be able to captivate you and hold your attention.
 
@@ -26,7 +24,7 @@ If a chosen immersion medium becomes boring, then let it go and move on to somet
 
 We have compiled a list of places where one can find immersion content to make it easy for beginners to get started. [Click here](https://tatsumoto.neocities.org/blog/resources.html#immersion-material) to explore it.
 
-## [](https://tatsumoto.neocities.org/blog/active-immersion#dealing-with-ambiguity "Permanent link")Dealing with ambiguity
+### Dealing with ambiguity
 
 When beginning to learn a new language, you're going to consume unfamiliar content that may seem impossible to understand at first. For a while, you're going to have to deal with not understanding or not understanding everything. However, it is important to acknowledge that this is a natural part of the language acquisition process and to remind yourself that it is only temporary.
 
