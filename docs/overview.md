@@ -2,11 +2,11 @@ Trích dẫn từ bài viết của Donkuri
 
 # Immersion
 
+Đây là tổng hợp một số các câu thường được hỏi về Immersion.
+
 ## Thoughts on immersion and learning as a whole
 
 In this section, I would like to discuss immersion as a whole. Some pitfalls, some tips and hopefully some encouragement.
-
----
 
 ### How can I get a Japanese routine going?
 

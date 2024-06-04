@@ -1,8 +1,8 @@
 To study efficiently and help you keep track of the learning process one of the first things you're going to want to do is obtain a spaced repetition system. In this article let's cover the theory behind spaced repetition, why you need it and what system to use.
 
----
 
-## [](https://tatsumoto.neocities.org/blog/spaced-repetition#whats-spaced-repetition "Permanent link")What's spaced repetition
+
+## What's spaced repetition
 
 > When you have memorized something, you need to review that material, otherwise you will forget it.
 

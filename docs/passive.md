@@ -12,7 +12,7 @@ Passive immersion is a form of immersion which does not require your full attent
 
 In terms of attention quality, passive immersion sits at the bottom. It's the most relaxed immersion activity. During intensive immersion you are totally focused, you are looking everything up in a dictionary and making flashcards. During free-flow immersion you are paying attention to the content but don't look anything up and don't make flashcards. And during passive immersion you're only partially engaged, you are just listening to the audio playing in the background.
 
-## [](https://tatsumoto.neocities.org/blog/passive-immersion#when-to-do-passive-immersion "Permanent link")When to do passive immersion
+## When to do passive immersion
 
 As pointed out before, active immersion is the primary activity in language acquisition. Under ideal circumstances, all your immersion would be active immersion, and would take up your entire day. However, the reality is that busy people are not able to incorporate a large amount of active immersion into their daily schedules. Nevertheless, most of us still have moments in our day when we can listen to our target language.
 

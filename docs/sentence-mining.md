@@ -1,5 +1,7 @@
 [Bài viết thuộc Refold](https://refold.la/roadmap/stage-2/a/basic-sentence-mining)
 
+Có không nhiều những hướng dẫn về "Đào câu" bằng Tiếng Việt nên đây là bản dịch mình dịch bên Tiếng Anh sang, trang gốc của bài viết bằng Tiếng Anh sẽ được để ở trên.
+
 ## Basic Sentence Mining
 
 Sentence mining is the process of taking words and sentences directly from your immersion and learning them with the SRS. You can start sentence mining as early as you like, but most people prefer to start this process after they have learned the most basic grammar structures and have memorized the most frequently used words. If you haven’t completed your study of the most common words, then feel free to wait on sentence mining, or you can do both simultaneously. It’s your choice.

@@ -45,6 +45,7 @@ I think the only thing I could say is focus on listening and absorbing the langu
 This is a super specific situation though so there is probably way more you can learn from people at the event than anyone here. Ask others who speak it as a 2nd language for their advice, and gather any resources you can, be they recordings, self-published books or out of print books, whatever exists for the language. But really, just take the advice of folks around you, keep learning about the culture, and be as patient with yourself as you can. This sounds like a really special experience and opportunity
 
 ## Tips to start
+
 I’m of the idea to start immersing as soon as possible using only content I want to immerse in (not graded readers for example)…usually within the first month of learning, but it’s all depending on your patience, motivation and plan.
 
 Patience: when you start immersing early, you need to understand that you won’t understand much…if that makes any sense…and that per sentence you will take some time to understand parts of it and that sometimes you won’t understand all of it…and that’s ok…just move on…avoid using translation tools as you miss a lot because translations are rarely one to one

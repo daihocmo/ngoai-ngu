@@ -1,25 +1,20 @@
-# [Immersion with YouTube](https://tatsumoto-ren.github.io/blog/immersion-with-youtube.html)
+# [Immersion with YouTube](https://tatsumoto-ren.github.io/blog/immersion-with-youtube.html) - Dẫn tới bài viết gốc bằng Tiếng Anh
 
 March 20, 2022 — Tatsumoto
 
-YouTube is a popular website where people can upload and watch videos. Through watching YouTube you can immerse with native Japanese content. Such content can be of particular interest to people who want to understand colloquial Japanese, speech with a lot of mumbling, slurs and slang. There are many language-dense streams and podcasts on YouTube that can be used for background listening. You can also find news channels with more formal speech.
+Youtube là một trang web chia sẻ và xem đủ các loại video rất phổ biến. Bạn có thể tìm được hàng sa số các nội dung thuộc ngôn ngữ mục tiêu - Targeted Language(s) của bạn. Từ các nội dung rất đời thường, những buổi phát trực tiếp hàng tiếng đồng hồ cho đến các bảng tin.
 
----
-
-## [](https://tatsumoto-ren.github.io/blog/immersion-with-youtube.html#how-to-access "Permanent link")
-
-## How to access
+## Những cách xem Youtube khác mà bạn có thể thử
 
 Like many popular big tech websites today, YouTube uses proprietary JavaScript code, which is not safe to run. If you go to the website, it won't work if you block proprietary JavaScript code from running. In addition to that, YouTube contains privacy violating trackers and collects data about users. To access the videos, use various alternative ways that minimize tracking.
 
-There are several ways you can watch YouTube.
+(Đại khái là việc truy cập thẳng Youtube sẽ khiến cho quyền riêng tư của bạn bị ảnh hưởng)
 
-1. [Invidious](https://github.com/iv-org/invidious). Invidious is an alternative front-end to YouTube. It lets you choose from a number of instances based on their health. A list of Invidious instances can be found on [https://api.invidious.io/](https://api.invidious.io/). Invidious gives you direct download links for every video.
-2. [yt-dlp](https://wiki.archlinux.org/index.php/yt-dlp). yt-dlp is a program to download videos. To search for videos and obtain their links, you still need to use a front end such as Invidious or [youtube-viewer](https://github.com/trizen/youtube-viewer).
-3. [mpv](https://wiki.archlinux.org/title/Mpv). `mpv` is a video player. It can utilize a built-in `yt-dlp` hook to play YouTube videos. I recommend downloading videos before watching them, however. Storing immersion material locally makes [sentence mining](https://tatsumoto-ren.github.io/blog/sentence-mining.html) substantially easier.
-4. Not using YouTube at all. Explore privacy-respecting platforms like [PeerTube](https://joinpeertube.org/) ([https://video.076.moe](https://video.076.moe)) and [Odysee](https://odysee.com/). Chances are, you'll find Japanese immersion content there too. `yt-dlp` works on these websites as well.
 
-## [](https://tatsumoto-ren.github.io/blog/immersion-with-youtube.html#subtitles "Permanent link")
+1. [Invidious](https://github.com/iv-org/invidious). Đây là một Alternative Frontend, xem không quảng cáo! Bạn có thể truy cập thông qua [Các Instances](https://api.invidious.io/).
+2. [yt-dlp](https://wiki.archlinux.org/index.php/yt-dlp). Bạn có thể tải Video thông qua đây, hoặc sử dụng một ứng dụng hỗ trợ `yt-dlp` ví dụ như: 
+3. [mpv](https://wiki.archlinux.org/title/Mpv). `mpv` là một trình xem video hỗ trợ đủ các loại định dạng, bạn có thể dùng để xem Youtube thông qua `yt-dlp` nhưng nó khá là phức tạp.
+4. Không sử dụng Youtube: Ví dụ như xem trên [PeerTube](https://joinpeertube.org/) ([https://video.076.moe](https://video.076.moe)) hay [Odysee](https://odysee.com/). Cũng có kha khá nội dung trên đó
 
 ## Subtitles
 

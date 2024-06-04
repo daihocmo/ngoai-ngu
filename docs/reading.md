@@ -1,4 +1,4 @@
-[Original post](https://redlib.pussthecat.org/r/languagelearning/comments/jh6498/92_books_later_how_to_learn_a_language_by_reading/)
+[Original post](https://reddit.com/r/languagelearning/comments/jh6498/92_books_later_how_to_learn_a_language_by_reading/)
 
 I think it's important to mention that your experience will probably vary greatly depending on which languages you already speak and which language you're learning.
 
@@ -24,10 +24,13 @@ Then goes on to say that it's too much reading, which is true, but even beyond t
 
 I personally find that in general reading newspaper articles is easier and potentially more useful if literature is just too frustrating. Newspaper articles have a few advantages for a learner:
 
-    They're usually fairly short, it's not a big commitment
-    They favor clarity and simplicity over style. No fancy turns of phrases, no obscure synonyms to avoid repetitions. They're generally written in formal but not bookish register, the same way the native speakers of the language would speak in a formal context (not true for all languages and cultures, admittedly).
-    They focus on a given subject which makes it easier to guess what something means from context. In a book an author could be describing a battlefield and then suddenly talk about what the character ate for breakfast or how about how much they like Ray Charles. A news article will typically focus on a single topic.
-    Similarly the focus on a single topic and the need for clarity means that the same key words are often repeated many time which helps memorization.
+They're usually fairly short, it's not a big commitment
+
+They favor clarity and simplicity over style. No fancy turns of phrases, no obscure synonyms to avoid repetitions. They're generally written in formal but not bookish register, the same way the native speakers of the language would speak in a formal context (not true for all languages and cultures, admittedly).
+
+They focus on a given subject which makes it easier to guess what something means from context. In a book an author could be describing a battlefield and then suddenly talk about what the character ate for breakfast or how about how much they like Ray Charles. A news article will typically focus on a single topic.
+
+Similarly the focus on a single topic and the need for clarity means that the same key words are often repeated many time which helps memorization.
 
 Reading in your target language is obviously beneficial, but it's important not to overdo it and lose motivation. If somebody is learning English I won't advise them to read Infinite Jest or Paradise Lost. I wouldn't even recommend them to read something like Harry Potter (a very common recommendation) unless they already have a decent level in the language, otherwise they'll just have to look up 30 words per page and it'll be hugely frustrating.
 

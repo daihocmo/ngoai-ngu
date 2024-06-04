@@ -44,11 +44,11 @@ In order to remain engaged and maintain motivation, it is probably not a good id
 
 When first getting started, things like science fiction or fantasy novels will be too difficult to read. Choosing content that has **simpler language** is another great technique for beginners. For example, slice of life shows or romantic comedies can be a good choice. However, avoid content made for children as it is often not enjoyable for adults. The language is too simple even for a beginner language learner. The plot is too silly and dumbed down. After learning your first 1,000 words from a pre-made Anki deck, you won't need to restrict yourself so much, as _frontloading_ vocabulary in the beginning greatly improves comprehension.
 
-## [](https://tatsumoto.neocities.org/blog/active-immersion#types-of-active-immersion "Permanent link")Types of active immersion
+## Types of active immersion
 
 Learners often wonder [how often they should look up words while actively immersing](https://tatsumoto.neocities.org/blog/pausing-how-often-should-i-look-things-up.html). You can look up every word and strive to comprehend 100% of the material, look up nothing and just let your brain slowly absorb the language, or try to balance the two. In practice, trying to decide when to look up and when not to look up can be tiresome and lead to decision fatigue. Do you look up every Nth unknown word? Or do you look up every N minutes? Do you have to measure the time? There are many uncertainties. Rather than trying to find a center point between the two extremes, it is recommended that you carry them out as separate exercises, _intensive_ and _free-flow_ immersion.
 
-## [](https://tatsumoto.neocities.org/blog/active-immersion#intensive-immersion "Permanent link")Intensive immersion
+## Intensive immersion
 
 When you look up everything trying to comprehend 100%, it is known as intensive immersion. During intensive immersion you're in a more conscious mode where you're thoroughly analyzing the language as you're going. As you immerse, you are carefully examining the language, utilizing dictionary lookups to decipher the meaning of each sentence, and creating SRS cards to ensure that you don't forget what you have learned.
 
@@ -58,7 +58,7 @@ A plethora of tools exist to facilitate intensive immersion, There are dictionar
 
 In the beginning, you won't always be able to fully understand every single sentence during intensive immersion. You may not be able to understand some sentences even with the aid of a dictionary. This is to be expected. If a sentence is too difficult to understand or there are too many unfamiliar words, it is best to save it for later in Anki and come back to it in a few weeks, or even months. It is better to focus on the simpler phrases first, the things your mind is ready to absorb. As your comprehension grows, the formerly challenging language will become easier and easier.
 
-## [](https://tatsumoto.neocities.org/blog/active-immersion#free-flow-immersion "Permanent link")Free flow immersion
+## Free flow immersion
 
 If you sit all day and mine sentences, you're going to lose your mind, or die from exhaustion. Free-flow immersion is when you allow yourself to relax without having to mine or look up words, while still paying attention to the content. You don't disrupt the flow with pausing and lookups. Instead, you're embracing ambiguity and letting your subconscious take the lead and interpret what is being said on its own. Free-flow immersion is a mid-ground between passive immersion and intensive immersion.
 
@@ -72,7 +72,7 @@ Remember, we all learned our native language entirely through free-flow immersio
 
 During free-flow immersion, it is a good idea to try to understand without relying on TL subtitles. Listening practice is imperative for achieving all around fluency.
 
-## [](https://tatsumoto.neocities.org/blog/active-immersion#finding-the-ratio "Permanent link")Finding the ratio
+## Finding the ratio
 
 Every day, you are supposed to be engaging in passive, free-flow, and intensive immersion. All three play a role in the process of language acquisition. It is easy to determine when to do each one; passive immersion is best when you are occupied with something, intensive immersion is the best option when you have the energy and motivation to look up words, and free-flow immersion is the best choice when you are too tired for intensive immersion.
 

@@ -1,11 +1,13 @@
-It works. However, I want to note that it's very easy to get lost trying to find input sources that are actually at your level. Instead of spending hours upon hours searching for that perfect show/cartoon where people speak precisely at the level that you can understand, it's better to just pick something that seems interesting to you and just watch it even if it happens to be way above your level. Otherwise chances are you'll just end up not watching anything at all. Either way you're not gonna understand a damn thing in the beginning, so don't sweat the small details too much.
+# Input là gì và tại sao bạn thực sự cần nó
 
-If you do want a recommendation for a beginner-friendly show, I've yet to find anything better than 楽しいムーミン一家. It's even easier to understand than shows like Pokemon. And it's also really good.
+## Câu trả lời ngắn gọn
+
+It works. However, I want to note that it's very easy to get lost trying to find input sources that are actually at your level. Instead of spending hours upon hours searching for that perfect show/cartoon where people speak precisely at the level that you can understand, it's better to just pick something that seems interesting to you and just watch it even if it happens to be way above your level. Otherwise chances are you'll just end up not watching anything at all. Either way you're not gonna understand a damn thing in the beginning, so don't sweat the small details too much.
 
 Also, don't make the mistake of thinking you can get away with not reading. Most of your vocabulary gain is gonna be through the written medium. The idea of comprehensible input applies to books too.
 
-# Input là gì và tại sao bạn thực sự cần nó
 
+## Bài viết chính
 (Bài viết thuộc bản dịch của cộng đồng Antimoon Việt Nam, mình chỉ chia sẻ lại)
 Tác giả gốc: Tomasz P. Szynalski (Bài viết bằng Tiếng Anh)
 ## Mô hình của việc học ngoại ngữ
@@ -15,7 +17,7 @@ Có khi nào bạn tự hỏi rằng sao bạn có thể nói ngôn ngữ mẹ �
 1. Bạn thu nhận **_input_** (Ở đây input được hiểu là "đầu vào" trong ngôn ngữ, tức những gì bạn thu nhận, thu nạp được) - bạn đọc và nghe những mẫu câu ở những ngôn ngữ nhất định. Nếu bạn hiểu những câu này, nó sẽ được lưu trữ trong đầu bạn. Cụ thể hơn, chúng được lưu trữ trong phần não chịu trách nhiệm về mặt ngôn ngữ của bạn.
 2. Khi bạn muốn nói hoặc viết điều gì đó ở ngôn ngữ đấy (Khi bạn muốn tạo ra **_output_** - tức đầu ra ngôn ngữ, bao gồm nói và viết), bộ não của bạn sẽ tìm kiếm mẫu câu mà bạn đã nghe hoặc đọc trước đây - một mẫu câu tương ứng với điều bạn muốn thể hiện. Sau đó, nó bắt chước câu nói (Tạo ra một câu giống hệt hoặc tương tự vậy) và bạn nói câu của "chính bạn" ở ngôn ngữ đó. Quá trình này diễn ra trong vô thức: bộ não của bạn đảm đương nó một cách tự động.
 
-## Đôi lời bình về mô hình học ngoại ngữ
+### Đôi lời bình về mô hình học ngoại ngữ
 
 Mô hình này thực sự rất đơn giản. Bộ não không thực sự tìm kiếm cả câu mà chỉ tìm kiếm các phần của câu. Nó có thể tự tạo lên những mẫu câu dài và phức tạp từ những phần nhỏ đó. Vậy nên, nó không chỉ "bắt chước" một mẫu câu tại thời điểm đó, ngược lại, nó sử dụng rất nhiều mẫu câu cùng lúc để xây dựng lên những câu ban đầu.
 
@@ -43,7 +45,7 @@ Mô hình mô tả quá trình một đứa trẻ học và tiếp thu ngôn ng�
 
 Và **mô hình đó cũng đúng khi áp dụng vào việc học một ngôn ngữ khác**. Thực thế, chúng tôi nghĩ rằng đây là cách duy nhất để học ngoại ngữ được tốt
 
-## Mô hình này có ý nghĩa gì với những người học ngoại ngữ?
+### Mô hình này có ý nghĩa gì với những người học ngoại ngữ?
 
 Sau đây là những gì quan trọng về mô hình dưới góc nhìn của việc học ngoại ngữ:
 
@@ -51,7 +53,7 @@ Sau đây là những gì quan trọng về mô hình dưới góc nhìn của v
 - **_Output (Đầu ra, bao gồm speaking và writing) không quá quan trọng._** Nó không phải là cách mà bạn nên dùng để cải thiện kĩ năng ngoại ngữ. Hãy nhớ rằng, [bạn có thể khiến chính mình mắc sai lầm thông qua việc output từ sớm và output thiếu cẩn thận](https://www.antimoon.com/how/mistakes-damage.htm).
 - **_Bạn không cần các cấu trúc ngữ pháp._** Bạn đã học ngôn ngữ đầu tiên của mình mà không hề học các thì (hiện tại, quá khứ, tương lai) hay là trợ động từ. Bạn có thể học ngoại ngữ bằng cách đó nữa.
 
-## Input có thể thay đổi Tiếng Anh của bạn như thế nào?
+### Input có thể thay đổi Tiếng Anh của bạn như thế nào?
 
 Nếu bạn đã đọc một vài cuốn sách bằng Tiếng Anh, bạn sẽ thấy Tiếng Anh của mình trở nên tốt hơn. Bạn sẽ sử dụng nhiều từ vựng và ngữ pháp ở trường hay trong e-mail. Bạn sẽ bất ngờ bởi Tiếng Anh xuất hiện trong đầu bạn một cách tự nhiên khi bạn nói hoặc viết. Những thứ như thì quá khứ đơn hay cách dùng từ since sẽ tự nhiên thành một phần trong bạn. Bạn dùng nó tự động, không cần nghĩ trước khi output. Những cấu trúc câu sẽ tự nhiên xuất hiện trong đầu bạn
 
