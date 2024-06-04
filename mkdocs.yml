@@ -24,14 +24,15 @@ nav:
     - 'Siêu đắm chìm': 'mass.md'
     - 'Đắm mình chủ động': 'active.md'
     - 'Đắm mình thụ động': 'passive.md'
+  - 'Công cụ':
+    - 'Anki': 'anki.md'
+    - 'Kindle': 'kindle.md'
   - 'Mẹo học':
     - 'Sentence Mining': 'sentence-mining.md'
     - 'Timeboxing': 'timeboxing.md'
     - 'Phim ảnh': 'phim-anh.md'
     - 'Youtube': 'youtube.md'
-  - 'Công cụ':
-    - 'Anki': 'anki.md'
-    - 'Kindle': 'kindle.md'
+
      
 theme:
   palette:
