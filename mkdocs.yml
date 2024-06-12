@@ -19,6 +19,8 @@ nav:
       - Comprehension: input.md
       - SRS: srs.md
       - Language Domain: language-domain.md
+  - FAQ:
+      - 'FAQ': 'faq.md'
   - Immersion:
       - Overview: overview.md
       - Mass: mass.md
