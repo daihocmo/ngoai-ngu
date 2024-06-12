@@ -1,37 +1,40 @@
-site_name: Phương pháp học ngoại ngữ thông qua Immersion và Comprehensible Input.
-site_description: Tự học ngoại ngữ và thành thạo thông qua các tài nguyên miễn phí.
+site_name: Tu luyện ngoại ngữ - Daihocmo
+site_description: Phương pháp học mọi ngoại ngữ thông qua Immersion và Comprehensible Input, completely free.
 site_author: onlyduyy  
 theme:
   name: material
   features:
-    - navigation.sections
+    - navigation.instant
   palette:
     primary: indigo
 
 nav:
-  - Home: 'index.md'
-  - 'Động lực':
-    - 'Động lực học': 'cai-thien-dong-luc.md'
-    - 'Để học thật tốt ngoại ngữ': 'de-hoc-tot-ngoai-ngu.md'
-  - 'Tìm hiểu':
-    - 'Tự học': 'guide.md'
-    - 'Đọc': 'reading.md'
-    - 'Đầu vào dễ hiểu': 'input.md'
-    - 'Lặp lại ngắt quãng': 'srs.md'
-    - 'Vùng ngôn ngữ': 'language-domain.md'
-  - 'Đắm mình trong ngôn ngữ':
-    - 'Tổng quan': 'overview.md'
-    - 'Siêu đắm chìm': 'mass.md'
-    - 'Đắm mình chủ động': 'active.md'
-    - 'Đắm mình thụ động': 'passive.md'
-  - 'Công cụ':
-    - 'Anki': 'anki.md'
-    - 'Kindle': 'kindle.md'
-  - 'Mẹo học':
-    - 'Sentence Mining': 'sentence-mining.md'
-    - 'Timeboxing': 'timeboxing.md'
-    - 'Phim ảnh': 'phim-anh.md'
-    - 'Youtube': 'youtube.md'
+  - Home:
+      - Khởi đầu: index.md
+      - Động lực học: cai-thien-dong-luc.md
+      - Để học thật tốt ngoại ngữ: de-hoc-tot-ngoai-ngu.md
+  - Guide:
+      - Tự học: guide.md
+      - Reading: reading.md
+      - Comprehension: input.md
+      - SRS: srs.md
+      - Language Domain: language-domain.md
+  - Immersion:
+      - Overview: overview.md
+      - Mass: mass.md
+      - Active: active.md
+      - Passive: passive.md
+  - Setup:
+      - Anki: anki.md
+      - Kindle: kindle.md
+      - Dictionary: dictionary.md
+  - Mining:
+      - Sentence Mining: sentence-mining.md
+      - Timeboxing: timeboxing.md
+  - Resources & Recommendations:
+      - Resources: 'resources.md'
+      - Recommendations: 'recommendations.md'
+
 
      
 theme:
@@ -55,7 +58,7 @@ theme:
         name: Switch to light mode
   features:
     - navigation.instant
-    - navigation.sections
+    - navigation.tabs
     - search.suggest
     - search.highlighting
     - search.share
