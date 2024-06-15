@@ -1,7 +1,6 @@
 As learners, we can divide our target language into domains to better navigate the territory. Being aware of language domains helps find the most optimal path to fluency.
 
 
-
 ## What is a domain?
 
 A domain is a subset of the target language that is characterized by frequent use of certain vocabulary. Such vocabulary is often specific to the domain and is used noticeably more than in other areas of the language, in other domains. Words that are commonly used in one domain tend to be less frequently used in other domains.

@@ -1,12 +1,11 @@
-# [Passive immersion](https://tatsumoto.neocities.org/blog/passive-immersion.html)
 
-March 17, 2023 — Tatsumoto
+Đây là bản dịch của bài viết [Passive immersion](https://tatsumoto.neocities.org/blog/passive-immersion.html) trên trang của Tatsumoto.
 
 When we talk about immersion, we usually divide it into active and passive. _Active immersion_ requires full attention to the content and can be practiced through reading and watching content in the target language. _Passive immersion_ means listening to the language while engaging in other activities. When listening passively you're not fully focused on the content, instead you're doing something else while having the speech in your target language play in the background.
 
----
 
-## [](https://tatsumoto.neocities.org/blog/passive-immersion#what-is-passive-immersion "Permanent link")What is passive immersion
+
+## What is passive immersion
 
 Passive immersion is a form of immersion which does not require your full attention. It basically means playing audio or video in your target language and listening while actively doing something else.
 
@@ -22,7 +21,7 @@ As noted in one of the previous articles, there are countless opportunities to d
 
 I use [MPD](https://wiki.archlinux.org/title/Music_Player_Daemon) as my audio player. By having all my immersion content play all the time in MPD, I can easily accumulate several hours a day of passive listening without any extra effort.
 
-## [](https://tatsumoto.neocities.org/blog/passive-immersion#role-of-passive-immersion "Permanent link")Role of passive immersion
+## Role of passive immersion
 
 In the beginning passive immersion doesn't contribute much to comprehension gains, instead it helps you start distinguishing sounds and phonemes of your target language. Focus your attention on hearing the sounds. Maybe at first you won't even be able to hear where one word ends and another one starts, but as you progress, expect passive listening to boost your phonetic awareness and eventually start contributing to your comprehension. While you're listening, your brain is subconsciously learning even if it might not feel that way.
 
@@ -32,7 +31,7 @@ Passive immersion doesn't do much without active immersion. You shouldn't neglec
 
 Remember, all types of immersion will yield more results over time, so don't be discouraged if as a beginner you don't understand much. As your vocabulary and listening skills improve, you will comprehend more of your passive immersion content. At some point, you'll be able to listen to new media, such as podcasts, audiobooks, and talk shows, and understand them the first time, close to 100%, without having to actively study them.
 
-## [](https://tatsumoto.neocities.org/blog/passive-immersion#rules-of-passive-immersion "Permanent link")Rules of passive immersion
+## Rules of passive immersion
 
 Passive immersion can lead to very little or no language gains if done wrong. Stick to the following whenever you engage in passive immersion.
 
@@ -41,7 +40,7 @@ Passive immersion can lead to very little or no language gains if done wrong. St
 
 Later you will discover how to extract audio from what you have watched and how to rotate immersion content. The topics are covered in [Tech for passive immersion](https://tatsumoto.neocities.org/blog/passive-listening.html).
 
-## [](https://tatsumoto.neocities.org/blog/passive-immersion#choosing-content "Permanent link")Choosing content
+## Choosing content
 
 The best source of passive immersion is audio from TV shows you've already watched. Another option is to listen to an audiobook of a novel you've previously read. These two options help the most because you already know the story. The material will be more interesting and easier to understand. Moreover, re-listening provides your brain with opportunities to pick up on pieces that you might have missed the first time.
 

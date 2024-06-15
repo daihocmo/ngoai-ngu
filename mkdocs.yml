@@ -9,33 +9,38 @@ theme:
     primary: indigo
 
 nav:
-  - Home:
-      - Khởi đầu: index.md
-      - Động lực học: cai-thien-dong-luc.md
-      - Để học thật tốt ngoại ngữ: de-hoc-tot-ngoai-ngu.md
-  - Guide:
-      - Tự học: guide.md
-      - Reading: reading.md
-      - Comprehension: input.md
-      - SRS: srs.md
-      - Language Domain: language-domain.md
-  - FAQ:
-      - 'FAQ': 'faq.md'
-  - Immersion:
-      - Overview: overview.md
-      - Mass: mass.md
-      - Active: active.md
-      - Passive: passive.md
-  - Setup:
-      - Anki: anki.md
-      - Kindle: kindle.md
-      - Dictionary: dictionary.md
-  - Mining:
-      - Sentence Mining: sentence-mining.md
-      - Timeboxing: timeboxing.md
-  - Resources & Recommendations:
-      - Resources: 'resources.md'
-      - Recommendations: 'recommendations.md'
+  - 'Home':
+      - 'Khởi đầu': index.md
+      - 'Động lực học': cai-thien-dong-luc.md
+      - 'Tại sao cần tự học?': can-tu-hoc.md
+      - 'Đừng nói và viết': 'no-output.md'
+  - 'Guide':
+      - 'Tự học': guide.md
+      - 'Đọc': doc.md
+      - 'Đầu vào (Input)': input.md
+      - 'SRS': srs.md
+      - 'Language Domain': language-domain.md
+  - 'Lộ trình học':
+      - 'Tổng hợp': 'lo-trinh-hoc.md'
+  - 'FAQ':
+      - 'Câu hỏi thường gặp': 'faq.md'
+      - 'Học qua phim': 'phim-anh.md'
+  - 'Setup':
+      - 'Anki': anki.md
+      - 'Kindle': kindle.md
+      - 'Từ điển': dictionary.md
+      - 'Youtube': youtube.md
+  - 'Immersion':
+      - 'Tổng quan': overview.md
+      - 'Mass': mass.md
+      - 'Active': active.md
+      - 'Passive': passive.md
+  - 'Mining':
+      - 'Đào câu': sentence-mining.md
+      - 'Timeboxing': timeboxing.md
+  - 'Resources & Recommendations':
+      - 'Tài nguyên': 'resources.md'
+      - 'Gợi ý khác': 'recommendations.md'
 
 
      

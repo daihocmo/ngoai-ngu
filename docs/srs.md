@@ -10,7 +10,7 @@ Bạn có thể làm gì để giúp bản thân tiến bộ? Chỉ có một c�
 
 Đây là một ý tưởng mà nhiều người có: Khi bạn học một từ mới, hãy viết nó vào một cuốn sổ. Cứ sau vài ngày, hãy mở sổ ghi chép và xem lại tất cả các từ bạn đã học. Điều này ban đầu có hiệu quả - bạn không còn quên mọi thứ mình học được nữa.
 
-![notebook-approach.jpg](https://www.antimoon.com/how/notebook-approach.jpg)
+![notebook-approach.jpg](./img/notebook-approach.jpg)
 
 *Sổ ghi chép từ vựng sẽ dày lên rất nhanh.*
 
@@ -46,11 +46,11 @@ Khi bạn sử dụng SRS, nó sẽ **thu thập thông tin về bộ nhớ củ
 Mô hình bộ nhớ trong phần mềm lặp lại ngắt quãng dựa trên nghiên cứu khoa học về trí nhớ con người. Phát hiện quan trọng là **ký ức trở nên mạnh mẽ hơn sau mỗi lần ôn lại**. Ví dụ: sau khi bạn học một từ mới, bạn có thể nhớ nó trong 2 ngày (với xác suất là 90%). Nếu bạn xem lại nó sau 2 ngày, bạn sẽ nhớ nó thêm 5 ngày nữa. Nếu bạn xem lại sau 5 ngày đó, bạn sẽ nhớ nó thêm 10 ngày nữa. Sau đó, thêm 20 ngày nữa. Và như thế. Thời gian giữa các lần ôn tập ngày càng dài hơn.\
 Hình bên dưới được gọi là **đường cong lãng quên**. Hãy để tôi giải thích nó hoạt động như thế nào. Giả sử bạn học một từ mới vào ngày thứ 0 và bạn không bao giờ ôn lại nó. Đường cong quên cho bạn biết xác suất bạn sẽ nhớ từ này mỗi ngày sau đó. Ví dụ: sau 2 ngày thì còn khoảng 90%, nhưng sau 20 ngày thì chỉ còn khoảng 30%. Vào ngày thứ 50, xác suất nhớ lại thành công chỉ là 10% - từ đó gần như chắc chắn sẽ bị lãng quên. (Thực tế nó còn phụ thuộc vào độ khó của từ.)
 
-![forgetting-curve-1.png](https://www.antimoon.com/how/forgetting-curve-1.png)
+![forgetting-curve-1.png](./img/forgetting-curve-1.png)
 
 Sử dụng SRS khiến bạn phải ôn lại từ đó khi xác suất nhớ được nó vẫn còn cao (thường là 90%). Sau mỗi lần ôn, khả năng nhớ sẽ tốt hơn: xác suất nhớ lại giảm chậm hơn theo thời gian (đường cong quên lãng ngày càng phẳng hơn). Nói cách khác, quá trình quên bị chậm lại.
 
-![forgetting-curve-2.png](https://www.antimoon.com/how/forgetting-curve-2.png)
+![forgetting-curve-2.png](./img/forgetting-curve-2.png)
 
 *Đường cong quên lãng sau mỗi lần xem lại. Những nét đứt biểu hiện sự quên nếu không ôn qua các lần*
 

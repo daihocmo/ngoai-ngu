@@ -1,115 +1,103 @@
-[Bài viết thuộc Refold](https://refold.la/roadmap/stage-2/a/basic-sentence-mining)
 
 Có không nhiều những hướng dẫn về "Đào câu" bằng Tiếng Việt nên đây là bản dịch mình dịch bên Tiếng Anh sang, trang gốc của bài viết bằng Tiếng Anh sẽ được để ở trên.
 
-## Basic Sentence Mining
+Đây là bản dịch của bài viết về [Sentence Mining trên Refold](https://refold.la/roadmap/stage-2/a/basic-sentence-mining)
 
-Sentence mining is the process of taking words and sentences directly from your immersion and learning them with the SRS. You can start sentence mining as early as you like, but most people prefer to start this process after they have learned the most basic grammar structures and have memorized the most frequently used words. If you haven’t completed your study of the most common words, then feel free to wait on sentence mining, or you can do both simultaneously. It’s your choice.
+## Đào câu cơ bản (Sentence Mining)
 
-Sentence mining unifies study and immersion. By studying words and sentences that come directly from your immersion content, you ensure that you are focusing your study on the words that are the most relevant to you as you start to gain footing in your first domain. Since you will be handpicking which words and sentences to learn yourself, you will have a rich connection to them. This will help you build strong memories quickly and easily.
+Đào câu là quá trình lấy các từ và câu trực tiếp từ quá trình "tiêu thụ nội dung vào ngoại ngữ" của bạn và học (ôn tập) chúng bằng SRS. Bạn có thể bắt đầu đào câu từ rất sớm, nhưng hầu hết mọi người đều bắt đầu quá trình này sau khi họ đã học được các cấu trúc ngữ pháp cơ bản nhất và đã ghi nhớ những từ được sử dụng thường xuyên nhất. Nếu bạn chưa hoàn thành việc học phần từ vựng phổ biến nhất, bạn có thể học xong rồi mới thực hiện đào câu hoặc bạn có thể thực hiện cả hai cùng một lúc. Do bạn chọn.
 
-Sentence mining is a creative, exploratory process, and everyone has their own method. Over time you will discover a method uniquely suited to your preferences and lifestyle.
+"Đào" câu là sự hài hòa giữa học và tiêu thụ nội dung vào ngoại ngữ. Bằng cách học các từ và câu trực tiếp từ nội dung bạn đã tiêu thụ, bạn đang dành sự tập trung của bản thân vào những từ phù hợp nhất với mình trong Vùng ngôn ngữ mà mình chọn (Language Domain). Vì bạn sẽ tự mình lựa chọn những từ và câu để học nên giữa bạn và từ vựng đó sẽ được hình thành một mối liên kết và xây dựng khả năng ghi nhớ từ một cách nhanh chóng và dễ dàng.
 
-Here are some basic guidelines to get you started.
+"Đào" câu là một quá trình khám phá và sáng tạo. Theo thời gian, bạn sẽ khám phá ra một phương pháp của riêng bạn.
 
-### Choosing What to Mine
+Dưới đây là một số hướng dẫn cơ bản để giúp bạn khởi đầu trong hành trình "Đào câu" của mình
+ 
 
-With every hour of immersion, you will encounter many unknown words that you could learn. But, some words are going to be more worth your time than others. Because you will only be able to make a limited number of SRS cards each day, it’s important to choose what to mine carefully.
+### Chọn nội dung để khai thác
 
-The first thing to consider is whether you truly need a card to learn something. If you think you’ll remember a word without the support of the SRS, then don’t make a card for it. Some words are very similar to words in your native language (NL), and you will probably only need to hear them once or twice to learn them. Other times a word is built up of components you’re familiar with, and once you see the connection, the meaning sticks. And sometimes words just stick on their own, for no reason that you can point to.
+Với mỗi giờ tiêu thụ nội dung vào nội dung, bạn có thể sẽ gặp rất nhiều từ chưa biết mà bạn có thể học. Tuy nhiên, một số từ sẽ có giá trị thời gian của bạn hơn những từ khác. Vì bạn chỉ có thể tạo một số lượng thẻ SRS giới hạn mỗi ngày nên hãy cẩn thận lựa chọn những gì để bắt đầu đào câu 
 
-That said, initially, most words will be difficult to learn without the SRS. When narrowing down what to mine, keep in mind that the most efficient path to increasing your potential to understand—and therefore acquire—your target language (TL) is to mine sentences that are low-hanging fruit:
+Điều đầu tiên cần xem xét là liệu bạn có thực sự cần thẻ để học không. Nếu bạn nghĩ rằng mình sẽ nhớ được một từ mà không cần SRS thì không cần làm thẻ từ đó. Một số từ rất giống với các từ trong ngôn ngữ gốc của bạn (NL - Native Language) và có thể bạn chỉ cần nghe chúng một hoặc hai lần để học chúng. Đôi khi, một từ được tạo thành từ các thành phần mà bạn quen thuộc và khi bạn thấy được mối liên kết giữa chúng, ý nghĩa sẽ được giữ nguyên. 
 
-#### 1. Prioritize words that feel familiar.
+Điều đó có nghĩa là, ban đầu, hầu hết các từ đều sẽ khó học nếu không có SRS. Khi thu gọn những gì cần "đào", hãy nhớ rằng con đường hiệu quả nhất để tăng khả năng hiểu và từ đó tiếp thu ngôn ngữ mục tiêu (TL - Targeted Language) của bạn là "đào" những câu dễ hiểu.
 
-Words that occur frequently in your immersion provide a high return on investment. If a word seems to be drawing your attention or feels familiar to you, that’s a good indication that it’s a common word.
+#### 1. Ưu tiên những từ mà bạn cảm thấy quen thuộc.
 
-#### 2. Choose words that seem accessible.
+Bạn nên làm thẻ từ vựng cho những từ xuất hiện thường xuyên trong quá trình học tập của bạn. Nếu một từ nào đó khiến bạn chú ý hoặc khiến bạn cảm thấy quen thuộc thì đó là dấu hiệu của một từ phổ biến.
 
-If you look up a word and the definition feels hard to grasp, then skip it for now. Your time and efforts are better spent learning words that are already within reach.
+#### 2. Chọn những từ trông dễ tiếp cận.
 
-#### 3. Prioritize words that you _want to_ learn.
+Nếu bạn tra một từ và cảm thấy khó hiểu định nghĩa thì hãy tạm thời bỏ qua nó. Sẽ là tốt hơn nếu bạn dành thời gian và nỗ lực để học những từ trong tầm với của mình.
 
-If a word is interesting and just seems to be calling out to you, that’s reason enough to learn it. An emotional connection to a word makes it much easier to memorize, reducing the “cost” of learning it. This can make learning a word worth it, even if it doesn’t seem particularly useful or frequently used.
+#### 3. Ưu tiên những từ mà bạn _muốn_ học.
 
-### Mine Sentences, Not Words
+Chỉ cần từ đó khiến bạn muốn học là bạn có thể bắt đầu rồi. Sự yêu thích của bạn với một từ vựng nhất định sẽ giúp bạn ghi nhớ từ đó dễ hơn nhiều. Điều này có thể khiến việc học từ vựng đó thực sự rất đáng, ngay cả khi nó có thể không thực sự hữu ích hoặc được sử dụng thường xuyên.
 
-As a general rule, you should create cards for phrases and sentences, rather than isolated words. There are three reasons for this.
+### Đào câu, không phải từ
 
-The first is that, oftentimes, simply knowing the meaning of a word isn’t enough to fully grasp how it’s used in the wild. Antimoon illustrates this idea beautifully with the definition of “account for”:
+Bạn nên tạo thẻ cho các cụm từ và câu thay vì các từ riêng lẻ. Có ba lý do cho việc này.
+
+Đầu tiên, chỉ biết nghĩa của một từ (Nghĩa ở đây là nghĩa bạn đọc trong từ điển, chứ chưa gắn liền với ngữ cảnh) là không đủ để nắm bắt hoàn toàn cách nó được sử dụng. Antimoon thể hiện điều này thông qua ví dụ về từ "account for”, đây là định nghĩa Anh - Anh của nó:
+
 > If a particular thing _accounts for_ a part or proportion of something, that part or proportion consists of that thing, or is used or produced by it.
-On its own, this definition doesn’t give you a real sense of what “account for” really means or how it’s used. However, that dictionary also provides an example sentence that makes things a lot clearer:
+
+Bản thân định nghĩa này không giúp bạn hiểu ý nghĩa thực sự của "account for” hoặc cách nó được sử dụng. Tuy nhiên, có một câu ví dụ khiến mọi việc rõ ràng hơn rất nhiều:
 
 > Computers account for 5% of the country’s commercial electricity consumption.
 
-In this way, a good example sentence is often crucial for really grasping a word’s usage.
+Bằng cách này, để thực sự nắm bắt được cách sử dụng của một từ, bạn nên (cần) một câu ví dụ tốt 
 
-The second reason for making cards based on sentences is that many words have multiple meanings. For example, the word “bark” means something completely different depending on whether you’re talking about dogs or trees.
+Lý do thứ hai để làm thẻ dựa trên câu là vì một từ có thể (hoặc chắc chắn có) nhiều nghĩa. Ví dụ: từ “bark” có nghĩa khác hoàn toàn tùy thuộc vào việc bạn đang nói về "dogs" hay "trees".
 
-Trying to memorize every meaning of a word with a single card often results in cards that are excessively difficult and cumbersome to review. It’s much more effective to learn the meanings of words one at a time. This is an example of the minimum information principle, which is explained in more depth in the following section.
+Việc cố gắng ghi nhớ từng nghĩa một của CHỈ một từ bằng một thẻ thường dẫn đến việc ôn tập lại các thẻ trở nên quá mệt mỏi và nặng nhọc. Sẽ hiệu quả hơn nhiều khi học một nghĩa duy nhất của một từ trong một thẻ. Đây là một ví dụ về minimum information principle (nguyên tắc thông tin tối thiểu), được giải thích kĩ hơn ở phần kế tiếp.
 
-Creating cards for sentences rather than individual words is the most straightforward way to narrow your focus to a single usage of the target word: simply focus on the meaning of the word in that particular sentence. Additionally, because the sentences will have come from your immersion content, you will be learning the particular meaning that’s most relevant to you.
+Tạo thẻ cho các câu thay vì các từ riêng lẻ là cách đơn giản nhất để thu gọn sự tập trung của bạn vào một cách sử dụng duy nhất của một từ đó: chỉ cần tập trung vào nghĩa của từ trong câu cụ thể (context) đó. Ngoài ra, vì các câu sẽ đến từ nội dung do chính bạn chọn nên bạn sẽ học được ý nghĩa cụ thể của từ đó một cách phù hợp nhất với mình.
 
-The final reason for making cards for sentences is that they’re easier to remember. Compared to an isolated word, a sentence provides a larger chunk of meaning for your brain to latch onto, and this makes it easier to internalize.
+Lý do cuối cùng để làm thẻ cho các câu vì nó sẽ dễ nhớ hơn. So với một từ riêng lẻ, một câu cung cấp nhiều ý nghĩa sẽ giúp bạn dễ ghi nhớ và tiếp thu hơn.
 
-This will be particularly true if the sentence came from an actual book or show that you watched. You’ll be able to recall what character said the sentence and what scene it was used in. This personal connection to the sentence will make it much easier to integrate the target word into your knowledge of the language.
+Điều này đặc biệt đúng nếu câu đó đến từ một cuốn sách hay mà bạn đã đọc hoặc chương trình mà bạn đã xem. Bạn sẽ có thể nhớ lại cảnh nhân vật nào đã nói câu đó và nó được sử dụng trong hoàn cảnh nào. Liên kết giữa bạn với câu đó sẽ giúp đưa từ mục tiêu (target word) vào kho ngôn ngữ của riêng bạn dễ dàng hơn nhiều.
 
-### Select One Target (1T) Sentences
+### Chọn câu 1T
 
-It’s best to mine sentences that contain only one unknown element (word or grammar structure) each. These are known as “one target” or “1T” sentences.
+Sẽ tối ưu nhất nếu bạn "đào" các câu chỉ chứa một yếu tố không xác định (cấu trúc từ hoặc ngữ pháp). Chúng được gọi là câu “một mục tiêu” (One Target) hoặc “1T”.
 
-Some people worry that sticking to 1T sentences is slow and inefficient, but the opposite is true. Lots of targeted, crisp flashcards will get you to your goal more quickly and with less effort. This idea is known as the [minimum information principle](https://www.supermemo.com/en/archives1990-2015/articles/20rules).
+Một số người lo lắng việc sử dụng câu 1T là chậm và không hiệu quả, nhưng sự thật thì ngược lại. Rất nhiều thẻ mục tiêu với ghi chú rõ ràng sẽ giúp bạn đạt được mục tiêu nhanh hơn và tốn ít công sức hơn. Đây chính là [nguyên tắc thông tin tối thiểu](https://www.supermemo.com/en/archives1990-2015/articles/20rules).
 
-If you have three words that you want to learn, it is much better to have three different cards, each of which is focused on an individual target word.
+Nếu bạn muốn học ba từ, sẽ tốt hơn hết nếu bạn có ba thẻ khác nhau, mỗi thẻ tập trung vào một từ mục tiêu riêng lẻ.
 
-If you put all three words on a single card, then if you forget one of them, you will have to fail the card, even though you remembered two of the words. This means you’ll end up doing redundant reviews on the two you remembered.
+Nếu bạn ghi cả ba từ vào một thẻ và trong khi ôn tập bạn quên một trong số chúng, bạn sẽ phải đánh trượt thẻ (Chấm điểm để SRS thực hiện thuật toán), mặc dù bạn đã nhớ được hai từ. Điều này có nghĩa là bạn sẽ phải ôn tập tiếp hai từ bạn đã nhớ.
 
-Having to recall all three unknown words at the same time will also make the card harder to understand, making it less likely that you will fully internalize each of the words.
+Việc phải nhớ lại cả ba từ chưa biết cùng lúc cũng sẽ khiến thẻ khó nhớ và khó tiếp thu hơn.
 
-It would also increase the risk of introducing memory interference: even though the three words don’t have any intrinsic relationship to one another, learning them together may cause you to falsely associate them in your mind.
+Đồng thời việc ghi nhớ trên sẽ làm tăng nguy cơ gây nhiễu trí nhớ: mặc dù ba từ này không có bất kỳ mối quan hệ thực sự (intrinsic relationship) nào với nhau, việc học chúng cùng nhau có thể khiến bạn tạo mối liên kết sai giữa chúng trong đầu.
 
-### What to Put On Cards
+### Cho gì vào thẻ từ?
 
-In this stage, keep your card as simple as possible: put the text of the sentence on the front. On the back, put the definition of the target word, and (optionally) a screenshot of the scene that the sentence was taken from.
+Ở giai đoạn này, hãy làm thẻ đơn giản nhất có thể: đặt nội dung của câu lên mặt trước. Ở mặt sau, ghi định nghĩa của từ mục tiêu và (cái này tùy bạn) ảnh chụp màn hình của cảnh mà câu được lấy ra (Trong một video hoặc một bộ phim).
 
-Remember: you’re not trying to produce the language; the goal of these cards is to improve your _comprehension_. So, keep your cards simple and grade yourself based on how well you were able to understand the sentence on the front.
+Hãy nhớ rằng: mục tiêu của những thẻ này là nâng cao khả năng hiểu biết của bạn. Vì vậy, hãy giữ cho thẻ của bạn đơn giản và tự chấm điểm dựa trên mức độ hiểu câu ở mặt trước của bạn.
 
- ![sample card front](https://refold.la/static/c4962d7b3805119200b014437789f3d4/13ae7/sample-card-front.png "sample card front")![sample card back](https://refold.la/static/ed21e2b8cd5dfacc2231cf7404190b62/13ae7/sample-card-back.png "sample card back")
+Đây là một ví dụ:
 
-### When to Mine[](https://refold.la/roadmap/stage-2/a/basic-sentence-mining#When-to-Mine)
+**Mặt trước**
 
-There are two overall approaches to sentence mining: automated and manual.
+![sample card front](./img/sample-card-front.png)
 
-Automated mining consists of using software that automatically extracts 1T sentences from your immersion material and makes them into cards. This is an advanced technique and takes quite a bit of technical fiddling to get working, so we recommend waiting to experiment with this until later.
+**Mặc sau**
 
-Manual sentence mining consists of hand-picking what sentences to learn from your immersion content and creating cards yourself. You can do manual sentence mining either during intensive immersion while reading a TV show, or during free-flow immersion. Try both, you may find that both are fine, or that one suits you better than the other.
+![sample card back](./img/sample-card-back.png)
 
-There are two ways to go about manual sentence mining: synchronous and asynchronous.
+### Khi nào cần đào
 
-In synchronous mining, when you come across a sentence you want to learn while immersing, you pause your immersion and make a card for it right then and there. The benefit of this approach is that your active immersion and sentence mining become unified into a single activity. This can help to streamline your overall language learning routine.
+Có hai cách tiếp cận chung để "đào" câu: "tự động" và "thủ công". 
 
-Some people find synchronous mining disruptive to their immersion. They prefer asynchronous mining, which separates card creation from immersion. In asynchronous mining, while immersing, you simply make note of sentences and words you want to learn. You can do this by copying and pasting the sentence into a text file or noting down the timestamp of the sentence. Then, at a later time, you go through the sentences you have collected and create cards for them in bulk.
+Khai thác tự động bao gồm việc sử dụng phần mềm giúp tự động lấy câu 1T từ nội dung tiêu thụ của bạn và biến chúng thành thẻ. Đây là một việc cần mày mò nên để làm sau nha
 
+"Đào" câu thủ công bao gồm việc tự tay chọn những câu nào để học từ nội dung tiêu thụ của bạn và tự tạo thẻ. Bạn có thể thực hiện "đào" câu thủ công trong quá trình tiêu thụ nội dung, trong lúc intensive immersion (tiêu thụ nội dung sâu) hoặc free-flow immersion (Tiêu thụ nội dung tự do). Hãy thử cả hai để bạn có thể biết rằng cả hai đều phù hợp với bạn hoặc cách này phù hợp hơn cách kia (Bạn nên tra cụ thể về hai cách sau). 
 
-Bổ sung:
+Có hai cách để thực hiện "đào" câu thủ công: đồng bộ (synchronous) và không đồng bộ (asynchronous). 
 
-Hi, I've been learning Japanese using sentence mining for 10 months and I highly recommend it. The other comment is wrong, you don't need a sentence bank at all. The idea behind sentence mining is that you "mine" sentences from your daily immersion in the language. The point of sentence mining is not to learn sentences, but to learn words in context.
+Trong "Đào câu đồng bộ" (synchronous mining). khi bạn bắt gặp một câu mà bạn muốn học trong khi tiêu thụ nội dung, bạn sẽ tạm dừng quá trình đó lại và tạo một thẻ cho câu ngay lúc đó. Lợi ích của cách tiếp cận này là quá trình tiêu thụ nội dung chủ động và "đào" câu của bạn sẽ thống nhất thành một hoạt động duy nhất. Điều này có thể giúp cho thói quen học ngôn ngữ tổng thể của bạn được hợp lý hóa hơn. 
 
-You consume media everyday and when you see a sentence of which you know every word but one, you save that sentence and you use it to learn that word, in the context that you found it. At the end of the day you make Anki cards with the sentences you saved. Sentence on the front of the card and definition of the missing word on the back of the card.
-
-You can learn more in detail how it works and which tools to use in the "sentence mining" section of this guide.
-
-You can also create audio cards, instead of text cards, this video goes over how to quickly mine from Netflix.
-
-Feel free to ask me any questions, up to now I've mined around 2000 sentences.
-
-
-### Phần khác
-
-When mining do you just add a card with the word?
-
-You add the whole sentence. This way you have a sentence with 1 word you don't know and now know how the word works in a sentence + some context in which the word can be used.
-
-Also you don't add literally every word you don't know, that would be too much. Add words you want to learn, are relevant to you and think are useful.
-
-The amount of new cards a day is entirely up to you and how much you will be able to remember. 30 is usually a pretty good number.
+Một số người thấy "Đào câu đồng bộ" làm gián đoạn quá trình tiêu thụ nội dung của họ. Họ thích "Đào câu không đồng bộ" , tách biệt việc tạo thẻ khỏi quá trình tiêu thụ nội dung. Trong "Đào câu không đồng bộ", vào lúc tiêu thụ nội dung, bạn chỉ cần ghi chú các câu và từ bạn muốn học. Bạn có thể làm điều này bằng cách sao chép và dán câu vào tệp văn bản bất kì hoặc đánh dấu mốc thời gian của câu (Trong phim hoặc video bạn xem). Sau đó, bạn xem qua các câu bạn đã thu thập và tạo các thẻ cho chúng.

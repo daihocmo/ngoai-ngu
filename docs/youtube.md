@@ -1,12 +1,10 @@
-# [Immersion with YouTube](https://tatsumoto-ren.github.io/blog/immersion-with-youtube.html) - Dẫn tới bài viết gốc bằng Tiếng Anh
+# Immersion with YouTube
 
 March 20, 2022 — Tatsumoto
 
 Youtube là một trang web chia sẻ và xem đủ các loại video rất phổ biến. Bạn có thể tìm được hàng sa số các nội dung thuộc ngôn ngữ mục tiêu - Targeted Language(s) của bạn. Từ các nội dung rất đời thường, những buổi phát trực tiếp hàng tiếng đồng hồ cho đến các bảng tin.
 
 ## Những cách xem Youtube khác mà bạn có thể thử
-
-Like many popular big tech websites today, YouTube uses proprietary JavaScript code, which is not safe to run. If you go to the website, it won't work if you block proprietary JavaScript code from running. In addition to that, YouTube contains privacy violating trackers and collects data about users. To access the videos, use various alternative ways that minimize tracking.
 
 (Đại khái là việc truy cập thẳng Youtube sẽ khiến cho quyền riêng tư của bạn bị ảnh hưởng)
 

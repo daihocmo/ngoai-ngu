@@ -1,15 +1,7 @@
-# Input là gì và tại sao bạn thực sự cần nó
-
-## Câu trả lời ngắn gọn
-
-It works. However, I want to note that it's very easy to get lost trying to find input sources that are actually at your level. Instead of spending hours upon hours searching for that perfect show/cartoon where people speak precisely at the level that you can understand, it's better to just pick something that seems interesting to you and just watch it even if it happens to be way above your level. Otherwise chances are you'll just end up not watching anything at all. Either way you're not gonna understand a damn thing in the beginning, so don't sweat the small details too much.
-
-Also, don't make the mistake of thinking you can get away with not reading. Most of your vocabulary gain is gonna be through the written medium. The idea of comprehensible input applies to books too.
-
-
 ## Bài viết chính
-(Bài viết thuộc bản dịch của cộng đồng Antimoon Việt Nam, mình chỉ chia sẻ lại)
+(Bài viết thuộc bản dịch của cộng đồng Antimoon - Vietnamese Wiki, mình chỉ chia sẻ lại)
 Tác giả gốc: Tomasz P. Szynalski (Bài viết bằng Tiếng Anh)
+
 ## Mô hình của việc học ngoại ngữ
 
 Có khi nào bạn tự hỏi rằng sao bạn có thể nói ngôn ngữ mẹ đẻ của bạn dễ dàng đến vậy không? Bạn muốn nói một điều gì đó (Thể hiện ý nghĩa nào đó) và những cụm từ và mẫu câu đúng (về mặt ngữ pháp và cả về nghĩa - ND) xuất hiện trong đầu bạn. Phần lớn quá trình là vô thức: điều gì đó xuất hiện trong đầu bạn. Bạn không chắc rằng "chúng" đến từ đâu. Mô hình này sẽ giải thích điều này :
