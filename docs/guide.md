@@ -1,28 +1,28 @@
-## Immersion
-Immersion is probably the best approach to learning a foreign language, but also one that requires much time and effort. It is more than simply watching foreign movies or visiting particular websites. As the word itself suggests, you must be completely absorbed in the language. Therefore, your success will highly depend on how much you can dedicate yourself to it.
+## Bắt đầu học một ngoại ngữ mới
 
-If you are able to live in a foreign country, for example, this approach will benefit you tremendously, since you will be forced to use the language to accomplish even the most basic tasks and, with time, this will effectively hardwire the language to your brain.
+Ở trên mạng đã có rất nhiều những hướng dẫn khởi đầu học ngoại ngữ chất lượng. Mình quyết định để ở đây để cho bạn có thể đọc, tự nghiên cứu và tìm ra con đường học ngoại ngữ cho mình.
 
-If, on the other hand, you plan on just watching a movie every now and then, then the effects of this approach will be close to negligible.
+Trang hướng dẫn ngoại ngữ này sẽ tập trung vào Immersion nhằm tăng tối đa thời lượng tiếp xúc của bạn với ngoại ngữ để từ đó nâng cao khả năng ngôn ngữ và làm nó trở lên tự nhiên, gần với ngôn ngữ mà người bản ngữ sử dụng.
 
-Immersion works because, given enough exposure, the brain is able to identify patterns (such as grammar) subconsciously. However in order to do that it needs constant exposure, whether that be by books, movies, or talking to native speakers, it just needs to be immersed. The more exposure you can get, the faster you will learn.
+Việc bắt đầu luôn với Immersion thực sự rất khó. Vậy nên, bạn có thể sẽ muốn học trước một lượng ngôn ngữ nhất định trước khi bắt tay vào thực hiện Immersion. Level gợi ý của mình để bạn có thể bắt đầu thực hiện Immersion là A2-B1.
 
-So if you are able to immerse yourself in a language, I highly recommend this approach as it is very beneficial and rewarding.
+## Nếu bạn muốn học Tiếng Anh từ đầu
 
-I think the only thing I could say is focus on listening and absorbing the language, don't worry so much about speaking it until you feel ready (unless the group has specific expectations for you as a participant I suppose)
+Nếu ngôn ngữ bạn muốn học là Tiếng Anh và muốn bắt đầu từ đầu thì bạn có thể tham khảo lộ trình [Tự học Tiếng Anh từ con số 0 lên đến hết Level B1 (CEFR) trong 160 ngày](https://daihocmo.github.io/tu-luyen-tieng-anh/). Tất nhiên bạn có thể học nhiều hơn mỗi ngày nếu bạn muốn nhanh hơn. Và bạn cần nhớ rằng, ngoài giờ học chính theo chương trình, bạn buộc phải dành thời gian tiêu thụ nội dung dưới dạng "Comprehensible" để giúp cải thiện phản xạ ngoại ngữ
 
-## Tips to start
+## Sử dụng ứng dụng học ngoại ngữ
 
-I’m of the idea to start immersing as soon as possible using only content I want to immerse in (not graded readers for example) usually within the first month of learning, but it’s all depending on your patience, motivation and plan.
+Nếu bạn đang tìm một ứng dụng đầy đủ thì Duolingo có thể sẽ là một lựa chọn (Có quá nhiều ứng dụng học ngoại ngữ ngoài kia và bạn nên bỏ qua tất cả, ngoại trừ Anki).
 
-Patience: when you start immersing early, you need to understand that you won’t understand much…if that makes any sense…and that per sentence you will take some time to understand parts of it and that sometimes you won’t understand all of it…and that’s ok…just move on…avoid using translation tools as you miss a lot because translations are rarely one to one
+Nhưng, **MỘT TRONG NHỮNG SAI LẦM** rất lớn của người học Duolingo đó là CHỈ học trên Duolingo, điều đó là không đủ để thực sự trở lên thành thạo bất kì một ngôn ngữ mục tiêu nào.
 
-Motivation: what’s your motivation? When you start immersing early on you have to ensure you have a solid motivation….because it can be easy to get frustrated…having a solid motivation will help you get past beginning stages
+Để có thể thực hiện được điều đó, ngoài sử dụng Duolingo ra, bạn cần phải tiêu thụ một lượng lớn nội dung để phát triển kĩ năng Nghe - Đọc trước (Đọc truyện, sách, báo hoặc Xem Youtube, Netflix .etc.), rồi khi Nghe - Đọc càng phát triển thì tự khả năng Nói cũng sẽ phát triển theo.
 
-Plan: don’t just start listening or reading something without understanding and call that immersion…because you will not have learned anything. You have to do what’s called comprehensible input and depending on how far your NL is from your TL, you may need to use anki to practice unknown words.
+Việc học không chỉ từ một nguồn tài nguyên như Duolingo sẽ giúp nguồn học liệu của bạn phong phú hơn. Đồng thời, khiến quá trình học của bạn được củng cố thêm nhiều hơn
 
-Also, depending on the differences between NL and TL, you may a need to learn pronunciation before starting to immerse. And maybe very, very basic grammar (I usually just buy a beginner grammar book and use anki to memorize beginner level grammar before starting immersion)
+## Tự tìm hiểu từ đầu thông qua "How to Teach Yourself a Foreign Language"
 
-If the NL is very different from the TL, I typically start only reading after learning basic grammar and pronunciation…then about a year later I start listening.
+Dành cho những bạn có mức Tiếng Anh đủ tốt (Từ B2 trở lên). Trước khi bạn muốn học một ngôn ngữ khác ngoài Tiếng Anh mình thực sự gợi ý nên đạt được ít nhất B2 Tiếng Anh để có thể đi tìm tài liệu học cho các ngôn ngữ khác dễ hơn. 
 
-With time, patience and dedication, you can get far…but keep in mind this route is not easy…not everyone can start immersing like this in a new language without quitting soon after…if you dont think this path is for you you could always do a bit more structured learning before doing immersion and then do graded reading…I just personally find that approach boring…
+Một trong những giáo trình mà mình tìm được đó là [How to Teach Yourself a Foreign Language](https://sajforbes.nz/languageguide/introduction/). Đây là một hướng dẫn được viết bởi một quản lý trong r/learninglanguage trên Reddit. Bạn có thể tải PDF về để đọc ngoại tuyến [tại đây](https://github.com/SAJForbes/HowtoTeachYourselfaForeignLanguage/raw/master/How%20to%20Teach%20Yourself%20a%20Foreign%20Language.pdf)
+

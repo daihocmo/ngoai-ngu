@@ -1,6 +1,7 @@
 ## Bài viết chính
 (Bài viết thuộc bản dịch của cộng đồng Antimoon - Vietnamese Wiki, mình chỉ chia sẻ lại)
-Tác giả gốc: Tomasz P. Szynalski (Bài viết bằng Tiếng Anh)
+
+Tác giả: Tomasz P. Szynalski (Bài viết bằng Tiếng Anh)
 
 ## Mô hình của việc học ngoại ngữ
 

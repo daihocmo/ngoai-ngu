@@ -20,11 +20,13 @@ Phương pháp tốt nhất được tương đối (Lý do dùng chữ tương 
 Một cộng đồng tương tự là Tatsumoto: https://tatsumoto-ren.github.io/
 
 Bạn có thể tham gia Discord của TheMoeWay để tìm đồng chí: 
-https://discord.gg/nhqjydaR8j
+
+[TheMoeWay](https://discord.gg/nhqjydaR8j)
 
 Cộng đồng học Tiếng Nhật cho người Việt:
-CLAWDIRE:
-Discord: https://discord.com/invite/RqAFdzkee5
+
+- [(vozer)Tiếng Nhật Đơn Giản](https://discord.gg/5qc4BhAzau)
+- [ベトナム語-日本語言語交換 | Học tiếng Việt - Nhật](https://discord.com/invite/RqAFdzkee5)
 
 ## Tiếng Trung
 - [Lộ trình học Tiếng Trung thông qua tiểu thuyết](https://heavenlypath.notion.site/Comprehensive-Reading-Guide-from-Beginner-to-Native-Novels-b3d6abd583a944a397b4fbbb81e0c38c) - Được viết bởi heavenlypath

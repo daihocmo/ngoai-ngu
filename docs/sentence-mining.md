@@ -1,5 +1,5 @@
-
-Có không nhiều những hướng dẫn về "Đào câu" bằng Tiếng Việt nên đây là bản dịch mình dịch bên Tiếng Anh sang, trang gốc của bài viết bằng Tiếng Anh sẽ được để ở trên.
+# Hướng dẫn đào câu (Sentence Mining) cơ bản
+Có không nhiều những hướng dẫn về "Đào câu" hay Sentence Mining bằng Tiếng Việt nên đây là bản dịch mình dịch bên Tiếng Anh sang, trang gốc của bài viết bằng Tiếng Anh sẽ được để ở trên.
 
 Đây là bản dịch của bài viết về [Sentence Mining trên Refold](https://refold.la/roadmap/stage-2/a/basic-sentence-mining)
 
@@ -84,11 +84,11 @@ Hãy nhớ rằng: mục tiêu của những thẻ này là nâng cao khả năn
 
 ![sample card front](./img/sample-card-front.png)
 
-**Mặc sau**
+**Mặt sau**
 
 ![sample card back](./img/sample-card-back.png)
 
-### Khi nào cần đào
+### Khi nào cần đào thẻ
 
 Có hai cách tiếp cận chung để "đào" câu: "tự động" và "thủ công". 
 
