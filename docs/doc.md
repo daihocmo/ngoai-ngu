@@ -46,8 +46,7 @@ Vì vậy, tôi tin rằng phương pháp này hiệu quả và tôi sẽ giới
 
 Đôi khi, chúng ta không nhận ra rằng chỉ một cuốn sách có thể giàu có đến mức nào - chỉ cần học một trong số đó là có rất nhiều điều để học.
 
-Tạm dừng và suy nghĩ[edit](https://www.antimoon.com/wiki-base/index.php?title=Khai_th%C3%A1c_t%E1%BB%91i_%C4%91a_c%C3%A1c_v%C4%83n_b%E1%BA%A3n_Ti%E1%BA%BFng_Anh&action=edit&section=2 "Edit section: Tạm dừng và suy nghĩ")
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Tạm dừng và suy nghĩ
 
 Tôi đồng ý với Maya về phương pháp "tạm dừng và suy nghĩ". Đây là quy trình tôi khuyên bạn nên xử lý các câu trong văn bản:
 
@@ -57,8 +56,7 @@ Nếu câu có chứa một cụm từ hữu ích, hãy tự hỏi: Bạn có th
 
 Nếu bạn sử dụng SRS, hãy cân nhắc việc thêm cụm từ vào bộ thẻ của bạn (ví dụ: dưới dạng thẻ câu) để đảm bảo bạn sẽ nhớ nó thật lâu. Tất nhiên, chỉ nên thêm những cụm từ hữu ích.
 
-Ghi chú quan trọng[edit](https://www.antimoon.com/wiki-base/index.php?title=Khai_th%C3%A1c_t%E1%BB%91i_%C4%91a_c%C3%A1c_v%C4%83n_b%E1%BA%A3n_Ti%E1%BA%BFng_Anh&action=edit&section=3 "Edit section: Ghi chú quan trọng")
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Ghi chú quan trọng
 
 Bạn không cần phải lúc nào cũng phải "tạm dừng và suy nghĩ". Đọc ở chế độ này có thể khá mệt mỏi, vì vậy đừng làm điều đó khi bạn cảm thấy mệt mỏi sau một buổi đọc dài. Đừng cố gắng tập trung vào từng cụm từ.
 
@@ -72,26 +70,25 @@ Bạn không cần phải nghĩ rằng Tại sao điều này lại được di�
 
 Nếu bạn không muốn ngừng đọc (để tra một từ trong từ điển hoặc thêm một cụm từ vào SRS), bạn có thể viết ra tất cả các câu thú vị hoặc bạn có thể gạch chân chúng trong sách bằng bút chì. Bằng cách này, bạn có thể xử lý những câu này sau.
 
-Một ví dụ[edit](https://www.antimoon.com/wiki-base/index.php?title=Khai_th%C3%A1c_t%E1%BB%91i_%C4%91a_c%C3%A1c_v%C4%83n_b%E1%BA%A3n_Ti%E1%BA%BFng_Anh&action=edit&section=4 "Edit section: Một ví dụ")
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+## Một ví dụ
 Bây giờ tôi sẽ trình bày ngắn gọn về phương pháp "tạm dừng và suy nghĩ". Dưới đây là hai câu tiếng Anh và ví dụ về những suy nghĩ mà bạn sẽ có được khi đọc chúng:
 
 > Former President Jimmy Carter will visit Venezuela next week to mediate talks between the government and its opposition, which have been locked in a power struggle since a failed coup.
 
-----"Former President" --- chứ không phải là "The former President", nên tôi nghĩ là mình nên dùng "President Carter" chứ không phải là "The President Carter", kể cả khi ta nói "The President will do something" khi chúng ta không đề cập đến tên của người đó
-----"to mediate talks" --- không phải là "to mediate in the talks" hoặc đại loại vậy. Tôi tự hỏi không biết nó có ổn không
-----"power struggle" --- Có lẽ mình đã từng gặp mẫu câu này.
-----"since a failed coup" --- và mình có thể nói "He's been paralyzed since an accident" (sử dụng trợ động từ) chứ không nhất thiết phải nói "He's been paralyzed since an accident happened" (sử dụng liên từ?).
-----"since a failed coup" --- chứ không phải "since the failed coup". tác giả cho rằng người đọc chưa biết về cái "coup" ở trong bài (vậy nên mới dùng mạo từ "a")
-----"coup" --- cái này phát âm là /ku:/!
+- "Former President"  chứ không phải là "The former President", nên tôi nghĩ là mình nên dùng "President Carter" chứ không phải là "The President Carter", kể cả khi ta nói "The President will do something" khi chúng ta không đề cập đến tên của người đó
+- "to mediate talks"  không phải là "to mediate in the talks" hoặc đại loại vậy. Tôi tự hỏi không biết nó có ổn không
+- "power struggle"  Có lẽ mình đã từng gặp mẫu câu này.
+- "since a failed coup"  và mình có thể nói "He's been paralyzed since an accident" (sử dụng trợ động từ) chứ không nhất thiết phải nói "He's been paralyzed since an accident happened" (sử dụng liên từ?).
+- "since a failed coup"  chứ không phải "since the failed coup". tác giả cho rằng người đọc chưa biết về cái "coup" ở trong bài (vậy nên mới dùng mạo từ "a")
+- "coup"  cái này phát âm là /ku:/!
 
 > Jennifer McCoy, of the Atlanta-based Carter Center, told reporters Saturday that Carter may be able to help break the political deadlock when he visits beginning July 6.
 
-----"Jennifer McCoy of the Carter Center" --- chứ không phải "Jennifer McCoy from the Carter Center". liệu dùng FROM sẽ bị sai
-----"Atlanta-based" --- một cách khác để nói "based in Atlanta". Có thể thử "Wroclaw-based webmaster".
-----"told reporters Saturday" chứ không phải "on Saturday" --- có lẽ đôi lúc có thể bỏ qua "on". "I met her Friday" cũng tương tự"I met her on Friday".
-----"told that Carter may be able" --- chứ không phải "told that Carter might be able". Có lẽ giáo viên của mình chưa đúng khi dạy mình "She said she might stay" thay vì "She said she may stay".
-----"to help break the deadlock" --- Có lẽ có thể sử dụng HELP mà không cần tân ngữ (nó không nói là "to help Venezuelans break the deadlock"), và không có TO (nó không nói là "help to break the deadlock"). Khác với các động từ khác như FORCE (không thể nói"The President will force break the deadlock", mà cần phải là "The President will force Venezuelans to break the deadlock.").
-----"when he visits" --- không phải "when he will visit" mặc dù điều này xảy ra trong tương lai. Mình không nghĩ là mình đã từng thấy WILL được sử dụng trong một câu như vậy.
-----"to visit beginning July 6" -- Câu này hay đây! --- Có lẽ mình đã dùng"to visit on July 6", nhưng ở đây là BEGINNING thay vì ON. Lần đầu tiên mình thấy kiểu này. Có lẽ nó là một số cách dùng từ trong báo và tin tức?
+
+- "Jennifer McCoy of the Carter Center"  chứ không phải "Jennifer McCoy from the Carter Center". Vậy thì dùng FROM ở đây là sai?
+- "Atlanta-based"  một cách khác để nói "based in Atlanta". Có thể thử "Wroclaw-based webmaster".
+- "told reporters Saturday" chứ không phải "on Saturday"  có lẽ đôi lúc có thể bỏ qua "on". "I met her Friday" cũng tương tự"I met her on Friday".
+- "told that Carter may be able"  chứ không phải "told that Carter might be able". Có lẽ giáo viên của mình chưa đúng khi dạy mình "She said she might stay" thay vì "She said she may stay".
+- "to help break the deadlock"  Có lẽ có thể sử dụng HELP mà không cần tân ngữ (nó không nói là "to help Venezuelans break the deadlock"), và không có TO (nó không nói là "help to break the deadlock"). Khác với các động từ khác như FORCE (không thể nói"The President will force break the deadlock", mà cần phải là "The President will force Venezuelans to break the deadlock.").
+- "when he visits"  không phải "when he will visit" mặc dù điều này xảy ra trong tương lai. Mình không nghĩ là mình đã từng thấy WILL được sử dụng trong một câu như vậy.
+- "to visit beginning July 6" Câu này hay đây!  Có lẽ mình đã dùng "to visit on July 6", nhưng ở đây là BEGINNING thay vì ON. Lần đầu tiên mình thấy kiểu này. Có lẽ nó là một số cách dùng từ trong báo và tin tức?

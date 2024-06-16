@@ -1,57 +1,58 @@
 
 Đây là bản dịch của bài viết [Passive immersion](https://tatsumoto.neocities.org/blog/passive-immersion.html) trên trang của Tatsumoto.
 
-When we talk about immersion, we usually divide it into active and passive. _Active immersion_ requires full attention to the content and can be practiced through reading and watching content in the target language. _Passive immersion_ means listening to the language while engaging in other activities. When listening passively you're not fully focused on the content, instead you're doing something else while having the speech in your target language play in the background.
+Khi nói về sự đắm chìm, chúng ta thường chia nó thành chủ động và thụ động. _Sự hòa nhập tích cực_ đòi hỏi sự chú ý hoàn toàn đến nội dung và có thể được thực hành thông qua việc đọc và xem nội dung bằng ngôn ngữ mục tiêu. _Tắm thụ động_ có nghĩa là vừa nghe ngôn ngữ vừa tham gia vào các hoạt động khác. Khi nghe thụ động, bạn không hoàn toàn tập trung vào nội dung, thay vào đó bạn đang làm việc khác trong khi nghe bài phát biểu bằng ngôn ngữ mục tiêu của bạn ở chế độ nền.
 
 
 
-## What is passive immersion
+## Ngâm thụ động là gì
 
-Passive immersion is a form of immersion which does not require your full attention. It basically means playing audio or video in your target language and listening while actively doing something else.
+Ngâm thụ động là một hình thức ngâm không đòi hỏi sự chú ý đầy đủ của bạn. Về cơ bản, nó có nghĩa là phát âm thanh hoặc video bằng ngôn ngữ mục tiêu của bạn và nghe trong khi tích cực làm việc khác.
 
-In terms of attention quality, passive immersion sits at the bottom. It's the most relaxed immersion activity. During intensive immersion you are totally focused, you are looking everything up in a dictionary and making flashcards. During free-flow immersion you are paying attention to the content but don't look anything up and don't make flashcards. And during passive immersion you're only partially engaged, you are just listening to the audio playing in the background.
+Xét về chất lượng chú ý, sự đắm chìm thụ động nằm ở vị trí cuối cùng. Đó là hoạt động ngâm thoải mái nhất. Trong quá trình học chuyên sâu, bạn hoàn toàn tập trung, bạn tra cứu mọi thứ trong từ điển và làm thẻ ghi nhớ. Trong quá trình đắm chìm theo dòng chảy tự do, bạn chú ý đến nội dung nhưng không tra cứu bất cứ điều gì và không làm thẻ ghi nhớ. Và trong quá trình đắm chìm thụ động, bạn chỉ tham gia một phần, bạn chỉ nghe âm thanh đang phát ở chế độ nền.
 
-## When to do passive immersion
+## Khi nào nên ngâm mình thụ động
 
-As pointed out before, active immersion is the primary activity in language acquisition. Under ideal circumstances, all your immersion would be active immersion, and would take up your entire day. However, the reality is that busy people are not able to incorporate a large amount of active immersion into their daily schedules. Nevertheless, most of us still have moments in our day when we can listen to our target language.
+Như đã chỉ ra trước đó, việc hòa nhập tích cực là hoạt động chính trong quá trình tiếp thu ngôn ngữ. Trong những trường hợp lý tưởng, tất cả sự hòa nhập của bạn sẽ là sự hòa nhập tích cực và sẽ chiếm cả ngày của bạn. Tuy nhiên, thực tế là những người bận rộn không thể kết hợp nhiều hoạt động tích cực vào lịch trình hàng ngày của họ. Tuy nhiên, hầu hết chúng ta vẫn có những khoảnh khắc trong ngày có thể nghe được ngôn ngữ mục tiêu của mình.
 
-We do passive immersion during times in a day when we can't actively engage with the language, such as when cooking, exercising, cleaning, driving or commuting. Various chores and tasks that do not require much mental effort can be done while listening to the target language. Many people may opt to listen to music or to nothing during these times, however, we advise to use those moments to learn your target language. Sometimes your busy schedule may leave little time for language learning, but passive immersion offers a solution. Utilizing passive immersion is an excellent way to fill the gaps in your day with your target language and increase your total amount of immersion time. Although your attention is divided during passive immersion, because at times you don't have a choice to immerse actively, it is still better compared to no immersion at all.
+Chúng ta đắm chìm thụ động vào những thời điểm trong ngày khi chúng ta không thể chủ động sử dụng ngôn ngữ, chẳng hạn như khi nấu ăn, tập thể dục, dọn dẹp, lái xe hoặc đi lại. Có thể thực hiện nhiều công việc và nhiệm vụ không đòi hỏi nhiều nỗ lực về tinh thần trong khi nghe ngôn ngữ mục tiêu. Nhiều người có thể chọn nghe nhạc hoặc không làm gì trong thời gian này, tuy nhiên, chúng tôi khuyên bạn nên tận dụng những khoảnh khắc đó để học ngôn ngữ mục tiêu của mình. Đôi khi lịch trình bận rộn của bạn có thể khiến bạn có ít thời gian cho việc học ngôn ngữ, nhưng việc học ngôn ngữ thụ động sẽ mang lại giải pháp. Sử dụng khả năng hòa nhập thụ động là một cách tuyệt vời để lấp đầy những khoảng trống trong ngày bằng ngôn ngữ mục tiêu của bạn và tăng tổng thời gian hòa nhập của bạn. Mặc dù sự chú ý của bạn bị phân chia trong quá trình đắm chìm thụ động, nhưng vì đôi khi bạn không có lựa chọn để đắm chìm một cách chủ động, nhưng điều đó vẫn tốt hơn so với việc không đắm chìm chút nào.
 
-As noted in one of the previous articles, there are countless opportunities to do passive listening throughout the day. The secret to passive immersion is to make it a habit. Every moment of your life has to be spent interacting with your TL. Every time you have an opportunity to listen to something, choose audio in the target language. Since passive listening is easy to do, we suggest dedicating at least 6 hours a day to it. Have headphones or earbuds with you all the time to make it effortless. Those hours can quickly add up, which has the potential to significantly improve the rate of language acquisition, contribute to your listening skills and overall comprehension.
+Như đã lưu ý ở một trong những bài viết trước, có vô số cơ hội để bạn lắng nghe thụ động suốt cả ngày. Bí quyết để đắm chìm thụ động là biến nó thành thói quen. Mỗi khoảnh khắc trong cuộc đời bạn phải được dành để tương tác với TL của bạn. Mỗi khi bạn có cơ hội nghe nội dung nào đó, hãy chọn âm thanh bằng ngôn ngữ đích. Vì nghe thụ động rất dễ thực hiện nên chúng tôi khuyên bạn nên dành ít nhất 6 giờ mỗi ngày cho việc đó. Luôn mang theo tai nghe hoặc tai nghe bên mình để thực hiện việc này một cách dễ dàng. Số giờ đó có thể tăng lên nhanh chóng, điều này có khả năng cải thiện đáng kể tốc độ tiếp thu ngôn ngữ, góp phần nâng cao kỹ năng nghe và khả năng hiểu tổng thể của bạn.
 
-I use [MPD](https://wiki.archlinux.org/title/Music_Player_Daemon) as my audio player. By having all my immersion content play all the time in MPD, I can easily accumulate several hours a day of passive listening without any extra effort.
+Tôi sử dụng [MPD](https://wiki.archlinux.org/title/Music_Player_Daemon) làm trình phát âm thanh của mình. Bằng cách phát tất cả nội dung hấp dẫn của tôi mọi lúc trong MPD, tôi có thể dễ dàng tích lũy vài giờ mỗi ngày để nghe thụ động mà không cần nỗ lực thêm.
 
-## Role of passive immersion
+## Vai trò của sự đắm chìm thụ động
 
-In the beginning passive immersion doesn't contribute much to comprehension gains, instead it helps you start distinguishing sounds and phonemes of your target language. Focus your attention on hearing the sounds. Maybe at first you won't even be able to hear where one word ends and another one starts, but as you progress, expect passive listening to boost your phonetic awareness and eventually start contributing to your comprehension. While you're listening, your brain is subconsciously learning even if it might not feel that way.
+Lúc đầu, việc tiếp thu thụ động không đóng góp nhiều vào khả năng hiểu, thay vào đó nó giúp bạn bắt đầu phân biệt các âm thanh và âm vị của ngôn ngữ mục tiêu. Tập trung sự chú ý của bạn vào việc nghe âm thanh. Có thể ban đầu bạn thậm chí không thể nghe được nơi một từ kết thúc và một từ khác bắt đầu, nhưng khi bạn tiến bộ hơn, hãy mong đợi việc nghe thụ động sẽ nâng cao nhận thức về ngữ âm của bạn và cuối cùng bắt đầu góp phần vào khả năng hiểu của bạn. Trong khi bạn đang lắng nghe, bộ não của bạn đang học hỏi một cách tiềm thức ngay cả khi nó có thể không cảm thấy như vậy.
 
-It is essential to learn to tolerate the ambiguity and keep listening to build the habit of constant, mass immersion. It will pay out greatly in the end.
+Điều cần thiết là phải học cách chấp nhận sự mơ hồ và tiếp tục lắng nghe để xây dựng thói quen hòa nhập liên tục và tập trung. Cuối cùng nó sẽ trả rất nhiều.
 
-Passive immersion doesn't do much without active immersion. You shouldn't neglect either of them.
+Ngâm thụ động sẽ không làm được gì nhiều nếu không ngâm tích cực. Bạn không nên bỏ qua một trong hai.
 
-Remember, all types of immersion will yield more results over time, so don't be discouraged if as a beginner you don't understand much. As your vocabulary and listening skills improve, you will comprehend more of your passive immersion content. At some point, you'll be able to listen to new media, such as podcasts, audiobooks, and talk shows, and understand them the first time, close to 100%, without having to actively study them.
+Hãy nhớ rằng, tất cả các kiểu đào sâu sẽ mang lại nhiều kết quả hơn theo thời gian, vì vậy đừng nản lòng nếu là người mới bắt đầu, bạn chưa hiểu nhiều. Khi vốn từ vựng và kỹ năng nghe của bạn được cải thiện, bạn sẽ hiểu được nhiều nội dung hấp dẫn thụ động hơn. Tại một thời điểm nào đó, bạn sẽ có thể nghe các phương tiện truyền thông mới, chẳng hạn như podcast, sách nói và chương trình trò chuyện, đồng thời hiểu chúng ngay lần đầu tiên, gần 100% mà không cần phải tích cực nghiên cứu chúng.
 
-## Rules of passive immersion
+## Quy tắc ngâm thụ động
 
-Passive immersion can lead to very little or no language gains if done wrong. Stick to the following whenever you engage in passive immersion.
+Việc tiếp thu thụ động có thể dẫn đến rất ít hoặc không đạt được ngôn ngữ nếu thực hiện sai. Hãy tuân thủ những điều sau bất cứ khi nào bạn tham gia vào quá trình hòa nhập thụ động.
 
--   **Re-listen.** Focus on listening passively to the content you've already engaged with actively and comprehended via dictionary lookups, attention to scenery and other means of making input more comprehensible. Re-listening creates repetition, and repetition is good for the brain. Repetition gives your brain another chance to notice new sounds and words, and to internalize previously learned knowledge. If you listen to something you haven't previously watched and comprehended, it is essentially going to be white noise, and it won't help you much.
--   **Rotate immersion content.** Repetition becomes boring if done too many times, and boredom impedes learning. It's important to rotate immersion, in other words regularly add new content and remove the old content from your playlist.
+- **Nghe lại.** Tập trung vào việc nghe thụ động nội dung bạn đã tương tác và hiểu một cách tích cực thông qua tra cứu từ điển, chú ý đến khung cảnh và các phương tiện khác để làm cho thông tin đầu vào trở nên dễ hiểu hơn. Việc nghe lại sẽ tạo ra sự lặp lại, và việc lặp lại sẽ tốt cho não. Sự lặp lại mang lại cho bộ não của bạn một cơ hội khác để nhận biết những âm thanh và từ mới cũng như tiếp thu kiến ​​thức đã học trước đó. Nếu bạn nghe thứ gì đó mà trước đây bạn chưa từng xem và hiểu thì về cơ bản nó sẽ là tiếng ồn trắng và sẽ không giúp ích gì nhiều cho bạn.
+- **Xoay vòng nội dung hấp dẫn.** Việc lặp đi lặp lại sẽ trở nên nhàm chán nếu thực hiện quá nhiều lần và sự nhàm chán sẽ cản trở việc học. Điều quan trọng là phải luân phiên đắm chìm, nói cách khác, hãy thường xuyên thêm nội dung mới và xóa nội dung cũ khỏi danh sách phát của bạn.
 
-Later you will discover how to extract audio from what you have watched and how to rotate immersion content. The topics are covered in [Tech for passive immersion](https://tatsumoto.neocities.org/blog/passive-listening.html).
+Sau này, bạn sẽ khám phá cách trích xuất âm thanh từ nội dung bạn đã xem và cách xoay nội dung hấp dẫn. Các chủ đề được đề cập trong [Công nghệ hòa nhập thụ động](https://tatsumoto.neocities.org/blog/passive-listening.html).
 
-## Choosing content
+## Lựa chọn nội dung
 
-The best source of passive immersion is audio from TV shows you've already watched. Another option is to listen to an audiobook of a novel you've previously read. These two options help the most because you already know the story. The material will be more interesting and easier to understand. Moreover, re-listening provides your brain with opportunities to pick up on pieces that you might have missed the first time.
+Nguồn hấp thụ thụ động tốt nhất là âm thanh từ các chương trình truyền hình mà bạn đã xem. Một lựa chọn khác là nghe sách nói của cuốn tiểu thuyết bạn đã đọc trước đó. Hai lựa chọn này giúp ích nhiều nhất vì bạn đã biết câu chuyện. Tài liệu sẽ thú vị và dễ hiểu hơn. Hơn nữa, việc nghe lại mang lại cho bộ não của bạn cơ hội để tiếp thu những phần mà bạn có thể đã bỏ lỡ trong lần đầu tiên.
 
-Everything you have consumed must be reused for passive listening. Watched another episode of anime? Extract the audio and add it to your playlist. Read a book? Take the audiobook and add it to your playlist. Watched a YouTube video? Download it, extract the audio and add it to your playlist. 10,000 hours of immersion won't accumulate themselves, so you have to listen [all the time](https://tatsumoto.neocities.org/blog/mass-immersion.html).
+Mọi thứ bạn đã sử dụng phải được sử dụng lại để nghe thụ động. Đã xem một tập phim hoạt hình khác? Trích xuất âm thanh và thêm nó vào danh sách phát của bạn. Đọc quyển sách? Lấy sách nói và thêm nó vào danh sách phát của bạn. Đã xem video trên YouTube? Tải xuống, trích xuất âm thanh và thêm nó vào danh sách phát của bạn. 10.000 giờ ngâm mình sẽ không tự tích lũy nên bạn phải nghe [luôn luôn](https://tatsumoto.neocities.org/blog/mass-immersion.html).
 
-Listening to podcasts and radio shows is not recommended for beginners. It is difficult to make such content comprehensible because it lacks transcriptions and visual context. Though if you're outside, and you have nothing else to listen to, you must choose something.
+Nghe podcast và chương trình radio không được khuyến khích cho người mới bắt đầu. Rất khó để làm cho nội dung đó có thể hiểu được vì nó thiếu phần phiên âm và ngữ cảnh trực quan. Tuy nhiên, nếu bạn đang ở bên ngoài và không có gì khác để nghe, bạn phải chọn thứ gì đó.
 
-If you're an advanced learner, it is okay to use purely audio-based material such as podcasts as one of the primary sources of both passive and active immersion.
+Nếu bạn là người học nâng cao, bạn có thể sử dụng tài liệu hoàn toàn dựa trên âm thanh như podcast làm một trong những nguồn chính cho cả sự hòa nhập thụ động và chủ động.
 
-[Music](https://tatsumoto.neocities.org/blog/is-music-a-good-way-to-learn-japanese.html) is the worst content for passive immersion. It contains unnatural speech, and it is difficult to hear the lyrics. We tend to mishear lyrics even when we listen to songs in our native language.
+[ m nhạc](https://tatsumoto.neocities.org/blog/is-music-a-good-way-to-learn-japanese.html) là nội dung tệ nhất cho việc đắm chìm thụ động. Nó chứa lời nói không tự nhiên và rất khó nghe lời bài hát. Chúng ta có xu hướng nghe nhầm lời bài hát ngay cả khi chúng ta nghe các bài hát bằng tiếng mẹ đẻ của mình.
 
-The effects of passive immersion depend on the content and your level of focus. Pay close attention, and you'll gain more from passive listening. Select something that ignites your interest to keep you from becoming bored, as boredom can hinder your learning. If you find yourself losing interest, switch out the material for something more enjoyable.
+Tác động của việc đắm chìm thụ động phụ thuộc vào nội dung và mức độ tập trung của bạn. Hãy chú ý thật kỹ và bạn sẽ thu được nhiều lợi ích hơn từ việc lắng nghe thụ động. Chọn thứ gì đó khơi dậy sự hứng thú của bạn để giúp bạn không cảm thấy nhàm chán, vì sự nhàm chán có thể cản trở việc học của bạn. Nếu bạn thấy mình mất hứng thú, hãy chuyển tài liệu sang thứ gì đó thú vị hơn.
 
-Tags: [guide](https://tatsumoto.neocities.org/blog/tag_guide.html)
+Thẻ: [hướng dẫn](https://tatsumoto.neocities.org/blog/tag_guide.html)
+

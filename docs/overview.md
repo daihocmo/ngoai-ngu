@@ -1,71 +1,77 @@
 Trích dẫn từ bài viết của Donkuri
 
-# Immersion
+# BÀI NÀY ĐANG LÀM CHƯA XONG
+Đường dẫn bài viết gốc
+#
+
+
+ Đắm chìm
 
 Đây là tổng hợp một số các câu thường được hỏi về Immersion.
 
-## Thoughts on immersion and learning as a whole
+## Suy nghĩ về sự hòa nhập và học tập nói chung
 
-In this section, I would like to discuss immersion as a whole. Some pitfalls, some tips and hopefully some encouragement.
+Trong phần này, tôi muốn thảo luận về sự ngâm mình một cách tổng thể. Một số cạm bẫy, một số lời khuyên và hy vọng một số khuyến khích.
 
-### How can I get a language-learning routine going?
+### Làm cách nào để tôi có thể hình thành thói quen học ngôn ngữ?
 
-I suggest not spending more time on Anki than necessary, and spending the rest of your time studying grammar, reading or listening. Ideally, get progressively more difficult reading and listening materials and keep on grinding. It really is that simple. This is both reassuring and demotivating: There is only one trick, and it works every time, but it requires dedication. The best way to setup a routine is to use (micro)habits, a concept I learned from [this book](https://www.goodhabitsbadhabits.com/). Start with simple habits and build on them progressively. The goal is to get used to having that language as a part of your life, not to burn out learning all the kana in one day just to get to reading faster. If you can that's great, but it's not necessary. Instead, take your time.
+Tôi khuyên bạn không nên dành nhiều thời gian cho Anki hơn mức cần thiết và hãy dành thời gian còn lại để học ngữ pháp, đọc hoặc nghe. Lý tưởng nhất là hãy tìm những tài liệu đọc và nghe khó dần dần và tiếp tục nghiền ngẫm. Nó thật sự đơn giản. Điều này vừa khiến bạn yên tâm vừa khiến bạn mất động lực: Chỉ có một thủ thuật duy nhất và nó luôn có tác dụng nhưng đòi hỏi sự cống hiến. Cách tốt nhất để thiết lập một thói quen là sử dụng các thói quen (vi mô), một khái niệm mà tôi học được từ [cuốn sách này](https://www.goodhabitsbadhabits.com/). Bắt đầu với những thói quen đơn giản và dần dần xây dựng chúng. Mục tiêu là làm quen với việc sử dụng ngôn ngữ đó như một phần cuộc sống của bạn, chứ không phải cố gắng học hết kana trong một ngày chỉ để đọc nhanh hơn. Nếu bạn có thể thì điều đó thật tuyệt, nhưng nó không cần thiết. Thay vào đó, hãy dành thời gian của bạn.
 
-### Immersion gets easier over time
+### Việc hòa nhập trở nên dễ dàng hơn theo thời gian
 
-Your first reading material is going to suck. You will spend a lot of time on basic grammar patterns. Almost every single sentence you will encounter will have one or multiple new words. This is normal. The key is to trust the process: **The more you read, the easier it becomes.**
+Tài liệu đọc đầu tiên của bạn sẽ rất tệ. Bạn sẽ dành nhiều thời gian cho các mẫu ngữ pháp cơ bản. Hầu như mỗi câu bạn gặp đều sẽ có một hoặc nhiều từ mới. Điều này là bình thường. Điều quan trọng là phải tin tưởng vào quy trình: **Bạn càng đọc nhiều thì mọi việc càng trở nên dễ dàng hơn.**
 
-Similarly, the first time you sit down in front of a drama episode, it will probably going to be difficult. People talk fast, the video doesn't necessary help you that much and your ear is not very well-developed yet. As you keep doing it and as you get better at reading, your listening ability will grow as well. Both reading and listening are important skills to have and you should polish them both.
+Tương tự, lần đầu tiên bạn ngồi xem một bộ phim truyền hình, có lẽ sẽ rất khó khăn. Người ta nói nhanh, video không cần thiết giúp ích nhiều cho bạn và tai bạn cũng chưa phát triển lắm. Khi bạn tiếp tục làm điều đó và khi bạn đọc tốt hơn, khả năng nghe của bạn cũng sẽ phát triển. Cả đọc và nghe đều là những kỹ năng quan trọng cần có và bạn nên trau dồi cả hai.
 
-### Is it bad to do output early on?
+### Xuất dữ liệu sớm có tệ không?
 
-It's only bad if you don't understand what you are outputting and have no way of checking that what you are saying (or writing) is correct. This means that corrected output is good at every stage of the learning process. What is bad is forcing students to output early on and this is what Krashen talked about. The myth that output is bad has nothing to do with Krashen's input hypothesis and seems to stem from [this infamous article](https://www.antimoon.com/how/mistakes-damage.htm). That being said, input is still the primary driver of your understanding. If you don't know the word "wheel", then you cannot really use it in a sentence.
+Sẽ chỉ tệ nếu bạn không hiểu những gì bạn đang đưa ra và không có cách nào kiểm tra xem những gì bạn đang nói (hoặc viết) có đúng hay không. Điều này có nghĩa là kết quả đầu ra được điều chỉnh sẽ tốt ở mọi giai đoạn của quá trình học tập. Điều tệ là buộc học sinh phải nộp bài sớm và đây chính là điều mà Krashen đã nói đến. Huyền thoại cho rằng đầu ra kém không liên quan gì đến giả thuyết đầu vào của Krashen và dường như bắt nguồn từ [bài báo khét tiếng này](https://www.antimoon.com/how/mistakes-damage.htm). Nói như vậy, đầu vào vẫn là động lực chính cho sự hiểu biết của bạn. Nếu bạn không biết từ "bánh xe", thì bạn thực sự không thể sử dụng nó trong câu.
 
-### Are textbooks inherently bad?
+### Có phải sách giáo khoa vốn đã xấu?
 
-No! Many textbooks are well made, but they are not replacements for doing the hard work. You still need to read and listen a whole lot to acquire the language. If you find a textbook you genuinely like, give it a go, but don't forget to immerse a lot. 
+KHÔNG! Nhiều cuốn sách giáo khoa được biên soạn tốt nhưng chúng không thể thay thế cho việc học tập chăm chỉ. Bạn vẫn cần phải đọc và nghe rất nhiều để tiếp thu ngôn ngữ. Nếu bạn tìm thấy một cuốn sách giáo khoa mà bạn thực sự thích, hãy thử xem, nhưng đừng quên đắm mình thật nhiều.
 
-### On the topic of motivation
+### Về chủ đề động lực
 
-There will be days when you just don't want to read. This happens to everyone. Motivation is a powerful drive to _start doing things_, but it is usually not enough since it can fade away with time. What I suggest is to turn immersion into a routine, something you do everyday without thinking too much about it. The same is true for Anki. After doing it for a few months, Anki fatigue can start to settle in and you will possibly find your time reviewing cards to be quite boring. This is when having a proper routine in place will help tremendously, as you will just do it naturally, in the same way that when faced with a door you have to go through, you don't think for a minute on the right course of action; you simply open the door.
+Sẽ có những ngày bạn không muốn đọc nữa. Điều này xảy ra với tất cả mọi người. Động lực là động lực mạnh mẽ để _bắt đầu làm mọi việc_, nhưng nó thường không đủ vì nó có thể phai nhạt theo thời gian. Điều tôi đề nghị là hãy biến việc hòa nhập thành thói quen, việc bạn làm hàng ngày mà không cần suy nghĩ quá nhiều về nó. Điều này cũng đúng với Anki. Sau khi làm việc đó được vài tháng, sự mệt mỏi của Anki có thể bắt đầu giảm bớt và bạn có thể sẽ thấy thời gian xem lại các lá bài của mình khá nhàm chán. Đây là lúc việc có một thói quen phù hợp sẽ giúp ích rất nhiều, vì bạn sẽ làm điều đó một cách tự nhiên, giống như cách khi đối mặt với một cánh cửa mà bạn phải đi qua, bạn không hề suy nghĩ một phút nào về hướng đi đúng đắn. hoạt động; bạn chỉ cần mở cửa.
 
-To summarize, it is necessary to be very interested your reading materials and to then use that excitement to get into a daily habit of reading. It is this daily exposure that will ensure your continued success.
+Tóm lại, điều cần thiết là bạn phải thật sự quan tâm đến tài liệu đọc của mình và sau đó sử dụng sự hứng thú đó để hình thành thói quen đọc hàng ngày. Chính sự tiếp xúc hàng ngày này sẽ đảm bảo cho sự thành công liên tục của bạn.
 
-### On the choice of your immersion materials
+### Về việc lựa chọn vật liệu ngâm của bạn
 
-There are many different kinds of native content you can use for immersion. Here are a few popular ones: novels, (YouTube) videos, TV, podcasts, music, video games. The best one will be the one you don't mind spending lots of time on. I suggest picking up two at the very least: a reading-based one and a listening-based one. 
+Có nhiều loại nội dung gốc khác nhau mà bạn có thể sử dụng để hòa nhập. Dưới đây là một số nội dung phổ biến: tiểu thuyết, video (YouTube), TV, podcast, âm nhạc, trò chơi điện tử. Cái tốt nhất sẽ là cái mà bạn không ngại dành nhiều thời gian cho nó. Tôi khuyên bạn nên chọn ít nhất hai bài: một bài dựa trên đọc và một bài dựa trên nghe.
 
-This is not to say that other immersion materials are bad however, quite the opposite in fact. Ideally, you would expose yourself to a wide variety of Japanese reading and listening, from visual novels and Wikipedia articles to classics, anime and newspaper articles. But if you are going to choose only one thing for your reading needs, I'd make it visual novels (provided you like them). Remember, the most important part is interest, otherwise it will be extremely hard to make reading a habit. Moving on.
+Tuy nhiên, điều này không có nghĩa là các vật liệu ngâm khác là xấu, thực tế hoàn toàn ngược lại. Lý tưởng nhất là bạn nên tiếp xúc với nhiều cách đọc và nghe tiếng Nhật khác nhau, từ tiểu thuyết trực quan và các bài viết trên Wikipedia cho đến các tác phẩm kinh điển, phim hoạt hình và báo chí. Nhưng nếu bạn chỉ chọn một thứ cho nhu cầu đọc của mình, tôi sẽ chọn tiểu thuyết trực quan (miễn là bạn thích chúng). Hãy nhớ rằng, phần quan trọng nhất là sự hứng thú, nếu không sẽ cực kỳ khó để biến việc đọc thành thói quen. Tiếp tục nào.
 
-### Is studying grammar even worth it?
+### Học ngữ pháp có đáng không?
 
-This question is more profound than it looks. Gaining a deep and meaningful mastery of a language requires recognizing the structures that are inherent to that language. Grammar helps you familiarize yourself with them. It also gives you vocabulary to discuss these structures. That being said, it is only through practical use of the language (be it via input or output) that you will truly internalize them and become fluent. In other words, grammar is useful because it lets us articulate how and why the language works, but it is not actually the language per se: It is simply an analysis of the inner workings of the language. What this means for most people is that we should be familiar with basic grammar patterns at the very least, with further grammar study done periodically as one encounters new grammar structures through immersion. Nothing wrong with going all in with grammar either and reading everything in [IMABI](https://www.imabi.org) though. Likewise, while not necessary to be fluent at all, knowing some basic classical Japanese can inform certain modern structures, for instance why is が acting like の in the phrase 我が国?
+Câu hỏi này sâu sắc hơn vẻ ngoài của nó. Để đạt được sự thông thạo sâu sắc và có ý nghĩa về một ngôn ngữ đòi hỏi phải nhận ra các cấu trúc vốn có của ngôn ngữ đó. Ngữ pháp giúp bạn làm quen với chúng. Nó cũng cung cấp cho bạn vốn từ vựng để thảo luận về các cấu trúc này. Nói như vậy, chỉ thông qua việc sử dụng ngôn ngữ trong thực tế (có thể là thông qua đầu vào hoặc đầu ra) thì bạn mới thực sự tiếp thu được chúng và trở nên thông thạo. Nói cách khác, ngữ pháp rất hữu ích vì nó cho phép chúng ta nói rõ cách thức và lý do ngôn ngữ hoạt động, nhưng thực tế nó không phải là ngôn ngữ: Nó chỉ đơn giản là một phân tích về hoạt động bên trong của ngôn ngữ. Điều này có ý nghĩa đối với hầu hết mọi người là ít nhất chúng ta nên làm quen với các mẫu ngữ pháp cơ bản, với việc nghiên cứu ngữ pháp sâu hơn được thực hiện định kỳ khi người ta gặp các cấu trúc ngữ pháp mới thông qua việc học tập. Tuy nhiên, không có gì sai khi nghiên cứu ngữ pháp và đọc mọi thứ trong [IMABI](https://www.imabi.org). Tương tự như vậy, mặc dù không cần thiết phải thông thạo chút nào, nhưng biết một số tiếng Nhật cổ điển cơ bản có thể cung cấp một số cấu trúc hiện đại nhất định, chẳng hạn như tại sao が lại đóng vai trò như の trong cụm từ 我が国?
 
-### Is it okay to watch anime with non-Japanese subtitles?
+###Xem anime không có phụ đề tiếng Nhật có được không?
 
-Sure, why not. Just make sure that you're actually listening to the Japanese and not spending all your time reading the subtitles. If all you're doing is reading English subtitles, then you're not actively immersing in the language. I actually suggest using subtitles though, because it's fun, it gets you better at reading Japanese and it's still great to help you understand what's being said. You can also have both and only glance at the English subtitle from time to time if you're totally lost. But don't compare the translation to the original, it'll most likely be way off.
+Chắc chắn rồi, tại sao không. Chỉ cần đảm bảo rằng bạn đang thực sự nghe tiếng Nhật và không dành toàn bộ thời gian để đọc phụ đề. Nếu tất cả những gì bạn đang làm là đọc phụ đề tiếng Anh thì bạn chưa tích cực hòa nhập vào ngôn ngữ đó. Tuy nhiên, tôi thực sự khuyên bạn nên sử dụng phụ đề vì nó thú vị, giúp bạn đọc tiếng Nhật tốt hơn và vẫn giúp bạn hiểu những gì đang được nói. Bạn cũng có thể xem cả hai và thỉnh thoảng chỉ xem qua phụ đề tiếng Anh nếu bạn hoàn toàn không hiểu. Nhưng đừng so sánh bản dịch với bản gốc, rất có thể nó sẽ sai lệch.
 
-### What are some details I might not be aware that might help my Japanese learning journey?
+### Một số chi tiết có thể tôi chưa biết nhưng có thể giúp ích cho hành trình học tiếng Nhật của tôi là gì?
 
-Sleep enough. Stay hydrated. Get fresh air. Do some exercise. These four things are some of the most important things you can do for yourself more generally. Not enough sleep or hydration causes headaches which many immersion learners have talked about while reading. Similarly, fresh air and walking can really boost your brain capacity to acquire new information. More generally, [exercise boosts your cognitive abilities](https://pubmed.ncbi.nlm.nih.gov/28666827/). Just as important is getting adequate sleep because [even relatively moderate sleep restriction can seriously impair waking neurobehavioral functions in healthy adults](https://pubmed.ncbi.nlm.nih.gov/12683469/). I recommend getting at least 7 hours, ideally 8. If you're a teenager, get at the very least 8 hours of sleep if you can. Likewise, doing Anki or reading when you're fresh can really help.
+Ngủ đủ giấc. Giữ nước. Có không khí trong lành. Làm một số bài tập. Bốn điều này là một số trong những điều quan trọng nhất bạn có thể làm cho chính mình nói chung. Ngủ không đủ giấc hoặc thiếu nước gây ra đau đầu mà nhiều người học ngâm đã nói đến khi đọc. Tương tự như vậy, không khí trong lành và đi bộ thực sự có thể tăng cường khả năng tiếp thu thông tin mới của não bạn. Tổng quát hơn, [tập thể dục giúp tăng cường khả năng nhận thức của bạn](https://pubmed.ncbi.nlm.nih.gov/28666827/). Điều quan trọng không kém là ngủ đủ giấc vì [ngay cả việc hạn chế giấc ngủ tương đối vừa phải cũng có thể làm suy giảm nghiêm trọng chức năng hành vi thần kinh khi thức ở người lớn khỏe mạnh](https://pubmed.ncbi.nlm.nih.gov/12683469/). Tôi khuyên bạn nên ngủ ít nhất 7 tiếng, lý tưởng nhất là 8 tiếng. Nếu bạn là thanh thiếu niên, hãy ngủ ít nhất 8 tiếng nếu có thể. Tương tự như vậy, thực hiện Anki hoặc đọc sách khi bạn còn mới mẻ thực sự có thể hữu ích.
 
-### Avoid toxic arguments regarding study methods
+### Tránh những tranh luận độc hại về phương pháp học tập
 
-If you hang around in Japanese learning communities, you are bound to see an argument regarding the efficiency of one method over another. While it is important to update our learning methods as time passes and new information becomes available, haranguing people over it is not worth your time. My opinion on the matter is that while there is such a thing as a best method _for an individual_, that doesn't mean it's best for everyone. Some people prefer textbooks, some like anime, some prefer tutoring. The method presented on this one is one method that worked best for me and for the majority of people I have encountered, but it can (and it should) be tweaked to your own personal preference. No, it is not "cheating" to use textbooks, or to study kanji in isolation, or to read from a dictionary.
+Nếu bạn tham gia các cộng đồng học tiếng Nhật, bạn chắc chắn sẽ thấy một cuộc tranh luận về tính hiệu quả của phương pháp này so với phương pháp khác. Mặc dù điều quan trọng là phải cập nhật các phương pháp học tập của chúng ta khi thời gian trôi qua và có thông tin mới, nhưng việc thuyết phục mọi người về điều đó không đáng để bạn mất thời gian. Ý kiến ​​của tôi về vấn đề này là mặc dù có một phương pháp tốt nhất _cho một cá nhân_, nhưng điều đó không có nghĩa là nó tốt nhất cho tất cả mọi người. Một số người thích sách giáo khoa, một số thích anime, một số thích dạy kèm. Phương pháp được trình bày trong phần này là một phương pháp hiệu quả nhất với tôi và với phần lớn những người tôi đã gặp, nhưng nó có thể (và nên) được điều chỉnh theo sở thích cá nhân của riêng bạn. Không, việc sử dụng sách giáo khoa, học chữ kanji một mình hoặc đọc từ điển không phải là "gian lận".
 
-### Is it stupid to mine words from a dictionary?
+### Việc khai thác từ trong từ điển có phải là điều ngu ngốc không?
 
-No. If you like reading the dictionary, read the dictionary. If you find cool words in it and you wanna add them to Anki, that's great.
+Không. Nếu bạn thích đọc từ điển, hãy đọc từ điển. Nếu bạn tìm thấy những từ hay trong đó và muốn thêm chúng vào Anki thì thật tuyệt.
 
-### Passive and active listening
+### Nghe thụ động và chủ động
 
-Passive listening is listening to the language without paying active attention to what you're listening to. It is not entirely clear to what extent passive listening helps you learn languages. It is however pretty clear that _active_ listening does help, however. Active listening requires you to focus on what is being said and to try to properly understand what is going on. You might argue that passive listening can get you better at recognizing the sounds of the language, but many people sing in other languages and their pronunciation is closer to [Animal Crossing's Animalese language](https://www.youtube.com/watch?v=IKMjg2fEGgE) than to proper pronunciation. You might then argue that input is not output, but at this point we're both confused and not sure what to do so we drop the argument and conclude that you should do passive listening if you like it, but you probably shouldn't expect to get massive listening gains from it.
+Nghe thụ động là nghe ngôn ngữ mà không chủ động chú ý đến điều bạn đang nghe. Không hoàn toàn rõ ràng việc nghe thụ động giúp bạn học ngôn ngữ ở mức độ nào. Tuy nhiên, khá rõ ràng là việc lắng nghe _active_ có ích. Lắng nghe tích cực đòi hỏi bạn phải tập trung vào những gì đang được nói và cố gắng hiểu đúng những gì đang diễn ra. Bạn có thể lập luận rằng nghe thụ động có thể giúp bạn nhận biết âm thanh của ngôn ngữ tốt hơn, nhưng nhiều người hát bằng các ngôn ngữ khác và cách phát âm của họ gần với [ngôn ngữ Animalese của Animal Crossing](https://www.youtube.com/watch? v=IKMjg2fEGgE) hơn là phát âm đúng. Sau đó, bạn có thể lập luận rằng đầu vào không phải là đầu ra, nhưng tại thời điểm này, chúng ta đều bối rối và không biết phải làm gì nên chúng ta bỏ cuộc tranh luận và kết luận rằng bạn nên lắng nghe thụ động nếu bạn thích, nhưng có lẽ bạn không nên mong đợi. để có được lợi ích nghe lớn từ nó.
 
-### Should I get [the language] classes or a tutor?
+### Tôi nên học lớp [ngôn ngữ] hay gia sư?
 
-If you'd like to, but it's not necessary by any means. 
+Nếu bạn muốn, nhưng nó không cần thiết chút nào.
 
-### I feel like I'm reading too slowly!
+### Cảm thấy mình đọc chậm quá!
 
-Read [this](https://learnjapanese.moe/readingtips/#reading-speed-tips-and-tricks). The TL;DR is that you should read more. Actually, this is almost always the solution to any Japanese-learning problem you might encounter!
+Đọc [cái này](https://learnjapanese.moe/readingtips/#reading-speed-tips-and-tricks). TL;DR là bạn nên đọc thêm. Trên thực tế, đây hầu như luôn là giải pháp cho mọi vấn đề học tiếng Nhật mà bạn có thể gặp phải!
+
