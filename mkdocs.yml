@@ -10,21 +10,20 @@ theme:
 
 nav:
   - 'Home':
-      - 'Khởi đầu': index.md
-      - 'Động lực học': cai-thien-dong-luc.md
+      - 'Khởi đầu': 'index.md'
+      - 'Động lực học': 'cai-thien-dong-luc.md'
       - 'Tại sao cần tự học?': can-tu-hoc.md
       - 'Đừng nói và viết': 'no-output.md'
   - 'Guide':
       - 'Tự học': guide.md
       - 'Đọc': doc.md
-      - 'Đầu vào (Input)': input.md
+      - 'Input': input.md
       - 'SRS': srs.md
-      - 'Language Domain': language-domain.md
+      - 'Vùng ngôn ngữ': language-domain.md
   - 'Lộ trình học':
       - 'Tổng hợp': 'lo-trinh-hoc.md'
   - 'FAQ':
       - 'Câu hỏi thường gặp': 'faq.md'
-      - 'Học qua phim': 'phim-anh.md'
   - 'Setup':
       - 'Anki': anki.md
       - 'Kindle': kindle.md
