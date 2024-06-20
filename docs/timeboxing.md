@@ -26,7 +26,5 @@ Thực hiện đánh giá SRS theo từng phần là một cách phổ biến kh
 
 ## Phần kết luận
 
-Timeboxing và Kỹ thuật Pomodoro là những công cụ có giá trị để nâng cao năng suất và quản lý thời gian hiệu quả. Bằng cách phân bổ các khoảng thời gian đã định cho các nhiệm vụ và nghỉ giải lao thường xuyên, bạn có thể duy trì sự tập trung, chống lại sự trì hoãn, ngăn ngừa kiệt sức và đạt được nhiều thành tựu hơn trong thời gian ngắn hơn. Người dùng GNU/Linux có thể chọn từ nhiều tùy chọn phần mềm Pomodoro khác nhau để tích hợp kỹ thuật này một cách liền mạch vào máy tính của họ.
-
-Khung thời gian thiên về cải thiện năng suất nói chung hơn là thứ bạn áp dụng vào việc học ngôn ngữ hoặc học tiếng Nhật nói riêng, vì vậy đây không phải là một phần bắt buộc trong chương trình giảng dạy AJATT, nhưng nó đủ hữu ích để đề cập đến nó trong hướng dẫn. Nếu nó có vẻ hữu ích cho bạn thì tôi khuyên bạn nên thử nghiệm nó.
+Timeboxing và Kỹ thuật Pomodoro là những công cụ có giá trị để nâng cao năng suất và quản lý thời gian hiệu quả. Bằng cách phân bổ các khoảng thời gian đã định cho các nhiệm vụ và nghỉ giải lao thường xuyên, bạn có thể duy trì sự tập trung, chống lại sự trì hoãn, ngăn ngừa kiệt sức và đạt được nhiều thành tựu hơn trong thời gian ngắn hơn. 
 
