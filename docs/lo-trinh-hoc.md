@@ -1,8 +1,9 @@
 ## Tổng hợp lộ trình tự học ngoại ngữ cho RẤT NHIỀU NGOẠI NGỮ
+Đây là một khu tổng hợp *rất nhiều lộ trình* cho các ngoại ngữ khác nhau để bạn có thể tự tìm hướng đi cho bản thân.
 
+Một trong những cộng đồng lớn nhất chuyên cung cấp các lộ trình dạng dưới đây là Refold. Đồng thời, mình cũng bổ sung các hướng dẫn học chi tiết từ những người học mà mình tìm được trên Reddit hoặc các diễn đàn nhất định. Mong nó giúp ích được cho mọi người.
 
-
-### Tiếng Anh
+## Tiếng Anh
 
 Trước khi bắt đầu bằng Immersion, bạn sẽ muốn có một mức hiểu tương đối về ngoại ngữ đó. Mình gợi ý nên có khoảng từ A2 -> B1. Bạn có thể bắt đầu bằng cách đọc lộ trình này, bạn có thể đẩy nhanh nó lên tùy thuộc vào sức học của bạn
 
@@ -12,12 +13,13 @@ Một trong những cộng đồng học Tiếng Anh tuyệt nhất mà mình th
 
 Đồng thời, Antimoon còn có một khu Wiki bằng Tiếng Việt nhưng chỉ mới hoàn thiện các bài cơ bản (16 bài thuộc mục Core). Bạn có thể đọc [Antimoon Vietnamese Wiki](https://www.antimoon.com/wiki/Vietnamese)
 
+Nếu bạn muốn đọc một hướng dẫn bằng Tiếng Việt, thì bạn có thể ghé qua [trang này](https://daihocmo.github.io/tieng-anh/) để tìm định hướng.
 
-### Tiếng Nhật
+## Tiếng Nhật
 
-Phương pháp tốt nhất được tương đối (Lý do dùng chữ tương đối là vì đa phần mọi người đều học theo phương pháp truyền thống) nhiều người sử dụng học Tiếng Nhật, đó là Immersion. Một trong những cộng đồng lớn nhất theo phương pháp này đó là TheMoeWay. Bạn có thể ghé thăm trang của họ: https://learnjapanese.moe/
+Phương pháp tốt nhất được tương đối (Lý do dùng chữ tương đối là vì đa phần mọi người đều học theo phương pháp truyền thống) nhiều người sử dụng học Tiếng Nhật, đó là Immersion. Một trong những cộng đồng lớn nhất theo phương pháp này đó là TheMoeWay. Bạn có thể ghé thăm trang của họ: [TheMoeWay](https://learnjapanese.moe/)
 
-Một cộng đồng tương tự là Tatsumoto: https://tatsumoto-ren.github.io/
+Một cộng đồng tương tự là [Tatsumoto's Guide](https://tatsumoto-ren.github.io/).  
 
 Bạn có thể tham gia Discord của TheMoeWay để tìm đồng chí: 
 
@@ -25,22 +27,26 @@ Bạn có thể tham gia Discord của TheMoeWay để tìm đồng chí:
 
 Cộng đồng học Tiếng Nhật cho người Việt:
 
-- [(vozer)Tiếng Nhật Đơn Giản](https://discord.gg/5qc4BhAzau)
-- [ベトナム語-日本語言語交換 | Học tiếng Việt - Nhật](https://discord.com/invite/RqAFdzkee5)
+- [(vozer)Tiếng Nhật Đơn Giản](https://discord.gg/5qc4BhAzau) - Không gợi ý (Cộng đồng này không thực sự hỗ trợ bạn tốt như bạn thực sự cần)
+- [ベトナム語-日本語言語交換 | Học tiếng Việt - Nhật](https://discord.com/invite/RqAFdzkee5) - Không, đây có thể là cộng đồng không thiên hướng về học ngoại ngữ cho lắm. Nếu bạn thực sự vẫn muốn tham gia thì đó là quyền của bạn mà.
 
 ## Tiếng Trung
+
+### Các lộ trình lớn
 - [Lộ trình học Tiếng Trung thông qua tiểu thuyết](https://heavenlypath.notion.site/Comprehensive-Reading-Guide-from-Beginner-to-Native-Novels-b3d6abd583a944a397b4fbbb81e0c38c) - Được viết bởi heavenlypath
 - [Tham khảo lộ trình Tiếng Trung của cộng đồng Refold](https://docs.google.com/document/d/1GylRRx3zaY9sZbZEkKbzqVDkMAaey0pVDSC8_yCICMU/edit#heading=h.rze1k14yugtx)
 
-### Một số những lộ trình khác của người học tự viết (Tiếng Anh)
-- [HSK5 trong 15 tháng](https://discuss.whatever.social/r/ChineseLanguage/comments/py5hkh/hsk_5_in_15_months_all_the_tools_tips_and)
+### Được chia sẻ bởi người học trên Reddit
+- [HSK5 trong 15 tháng](https://reddit.com/r/ChineseLanguage/comments/py5hkh/hsk_5_in_15_months_all_the_tools_tips_and)
 - [Hàng trình học Tiếng Trung 18 tháng](https://reddit.com/r/ChineseLanguage/comments/x5fu73/my_18_month_chinese_learning_journey/) 
 - [Liệu bạn có thể hoàn toàn tự mình học Tiếng Trung không?](https://reddit.com/r/ChineseLanguage/comments/9q5at4/is_it_possible_to_study_chinese_by_yourself/) 
 
 ## Tiếng Hàn
+
+### Refold Tiếng Hàn
 - [Lộ trình học của cộng đồng Refold](https://docs.google.com/document/d/1Fuh6Ifoy3OcwzzY7AbKOK4EkrcRQBriMd2FrgyR6yMw/edit#heading=h.rze1k14yugtx)
 
-Các lộ trình của người học viết
+### Các lộ trình của người học viết
 
 - [1 năm đắm mình vào Tiếng Hàn](https://reddit.com/r/Refold/comments/ul704c/1_year_of_korean_immersion_learning/)
 - [18 tháng học Tiếng Hàn](https://discuss.whatever.social/r/ajatt/comments/r4ayrk/success_i_got_n1_equivalent_in_korean_in_under_18/)
@@ -57,3 +63,8 @@ Các lộ trình của người học viết
 - [Khởi đầu học Tiếng Pháp nhanh](https://www.reddit.com/r/Refold/comments/md9yk9/a_quickstart_guide_for_french_or_how_to_get_to/)
 - [Hành trình từ A1 –> B2 French - Tài nguyên học, cách học và lời khuyên](https://reddit.com/r/learnfrench/comments/nzf9zq/a1_b2_french_how_i_did_it_and_my_resources/)
 - [Lộ trình học Tiếng Pháp của cộng đồng Refold](https://docs.google.com/document/d/1lcc5v2y8m-s7b5P6OI5xtvZiPUULohxyP1rN8hrtuig/edit#heading=h.u5sjchklxrt0)
+
+
+## Tiếng Thái
+
+- [Lộ trình của Refold cho Tiếng Thái](https://refold.link/thai) - Nếu đường dẫn này không truy cập được thì bạn có thể [truy cập trang này](https://docs.google.com/document/d/1Shz5C99mxgJayHFOjCdqPDJE5vwXmHkEzV8mHcKHsuQ/edit?pli=1#heading=h.rze1k14yugtx)

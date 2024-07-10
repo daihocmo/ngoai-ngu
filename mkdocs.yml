@@ -9,16 +9,16 @@ theme:
     primary: indigo
 
 nav:
-  - 'Home':
+  - 'Trang chủ':
       - 'Khởi đầu': 'index.md'
       - 'Động lực học': 'cai-thien-dong-luc.md'
       - 'Tại sao cần tự học?': can-tu-hoc.md
       - 'Đừng nói và viết': 'no-output.md'
-  - 'Guide':
-      - 'Tự học': guide.md
-      - 'Đọc': doc.md
-      - 'Input': input.md
-      - 'SRS': srs.md
+  - 'Hướng dẫn':
+      - 'Bắt đầu tự học': guide.md
+      - 'Đọc ngoại ngữ': doc.md
+      - 'Đầu vào (Input)': input.md
+      - 'Lặp lại ngắt quãng': srs.md
       - 'Vùng ngôn ngữ': language-domain.md
   - 'Lộ trình học':
       - 'Tổng hợp': 'lo-trinh-hoc.md'
@@ -37,12 +37,12 @@ nav:
   - 'Mining':
       - 'Đào câu': sentence-mining.md
       - 'Timeboxing': timeboxing.md
-  - 'Resources & Recommendations':
+  - 'Resources':
       - 'Tài nguyên': 'resources.md'
+  - 'Recommendations':
       - 'Gợi ý khác': 'recommendations.md'
-
-
-     
+   
+ 
 theme:
   palette:
     # Palette toggle for light mode
