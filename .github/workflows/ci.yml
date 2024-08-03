@@ -13,3 +13,5 @@ jobs:
           python-version: 3.x
       - run: pip install mkdocs-material mkdocs-open-in-new-tab
       - run: mkdocs gh-deploy --force
+    permissions:
+      contents: write
