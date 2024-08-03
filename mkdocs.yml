@@ -22,8 +22,6 @@ nav:
       - 'Vùng ngôn ngữ': language-domain.md
   - 'Lộ trình học':
       - 'Tổng hợp': 'lo-trinh-hoc.md'
-  - 'FAQ':
-      - 'Câu hỏi thường gặp': 'faq.md'
   - 'Setup':
       - 'Anki': anki.md
       - 'Kindle': kindle.md
