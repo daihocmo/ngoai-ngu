@@ -1,9 +1,7 @@
-site_name: Tôi luyện ngoại ngữ - Daihocmo
+site_name: Tôi luyện ngoại ngữ - Khu học mở
 site_description: Phương pháp học mọi ngoại ngữ thông qua Immersion và Comprehensible Input, completely free.
 site_author: onlyduyy
-repo_url: https://github.com/daihocmo/hoc-ngoai-ngu
-repo_name: Open a pull request
-  
+
 theme:
   name: material
   features:
@@ -70,8 +68,6 @@ theme:
     - search.highlighting
     - search.share
   name: material
-  icon:
-    repo: fontawesome/brands/github
 
 extra:
   generator: false
