@@ -1,7 +1,6 @@
 site_name: Tôi luyện ngoại ngữ - Khu học mở
 site_description: Phương pháp học mọi ngoại ngữ thông qua Immersion và Comprehensible Input, completely free.
-site_author: onlyduyy
-
+site_author: duykhanh471
 theme:
   name: material
   features:
@@ -40,7 +39,6 @@ nav:
       - 'Tài nguyên': 'resources.md'
   - 'Recommendations':
       - 'Gợi ý khác': 'recommendations.md'
-   
  
 theme:
   palette:
@@ -69,5 +67,8 @@ theme:
     - search.share
   name: material
 
+plugins:
+  - open-in-new-tab
+  
 extra:
   generator: false
