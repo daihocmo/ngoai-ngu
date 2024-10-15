@@ -13,7 +13,6 @@ nav:
       - 'Khởi đầu': 'index.md'
       - 'Động lực học': 'cai-thien-dong-luc.md'
       - 'Tại sao cần tự học?': can-tu-hoc.md
-      - 'Đừng nói và viết': 'no-output.md'
   - 'Hướng dẫn':
       - 'Bắt đầu tự học': guide.md
       - 'Đọc ngoại ngữ': doc.md
@@ -28,10 +27,7 @@ nav:
       - 'Từ điển': dictionary.md
       - 'Youtube': youtube.md
   - 'Immersion':
-      - 'Tổng quan': overview.md
-      - 'Mass': mass.md
-      - 'Active': active.md
-      - 'Passive': passive.md
+      - 'FAQ': overview.md
   - 'Mining':
       - 'Đào câu': sentence-mining.md
       - 'Timeboxing': timeboxing.md
