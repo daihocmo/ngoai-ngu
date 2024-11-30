@@ -4,7 +4,7 @@ Là người học, chúng ta có thể chia ngôn ngữ mục tiêu của mình
 
 ## Domain là gì?
 
-Domain hay vùng là một tập hợp con của ngôn ngữ mục tiêu được đặc trưng bởi việc sử dụng thường xuyên một số từ vựng nhất định. Những từ vựng như vậy thường dành riêng cho một vùng ngôn ngữ và được sử dụng nhiều hơn đáng kể so với các vùng ngôn ngữ khác của ngôn ngữ, trong các vùng ngôn ngữ khác. Những từ thường được sử dụng trong một vùng có xu hướng ít được sử dụng hơn trong các vùng khác.
+Domain (vùng hoặc miền) là một tập hợp con của ngôn ngữ mục tiêu được đặc trưng bởi việc sử dụng thường xuyên một số từ vựng nhất định. Những từ vựng như vậy thường dành riêng cho một vùng ngôn ngữ và được sử dụng nhiều hơn đáng kể so với các vùng ngôn ngữ khác của ngôn ngữ, trong các vùng ngôn ngữ khác. Những từ thường được sử dụng trong một vùng có xu hướng ít được sử dụng hơn trong các vùng khác.
 
 Dưới đây là một số ví dụ về các vùng ngôn ngữ:
 
@@ -27,7 +27,7 @@ Một yếu tố khác cần xem xét là phương ngữ (dialect). Nhiều ngô
 
 Tại sao chúng ta cần quan tâm đến các vùng? Bởi vì cách nhanh nhất để đạt được mức độ hiểu cao trong ngôn ngữ mục tiêu của bạn là thu hẹp sự tập trung thu nạp Input của bạn vào một vùng cụ thể của TL (ngôn ngữ mục tiêu), rèn luyện vùng ngôn ngữ đó, sau đó chuyển sang vùng khác và lặp lại quá trình. Ngược lại, việc thường xuyên [nhảy giữa các vùng khác nhau](https://tatsumoto.neocities.org/blog/is-it-more-factor-to-stick-to-one-domain.html) sẽ dễ gây ra chán nản và làm chậm tiến độ của bạn vì mỗi một vùng mới sẽ gặp bạn với vô số từ không quen thuộc.
 
-Sẽ hiệu quả hơn nếu bạn thành thạo một nhóm nhỏ các vùng ngôn ngữ trước tiên, sử dụng từng vùng ngôn ngữ một, hơn là xử lý nhiều vùng ngôn ngữ  cùng lúc và gặp khó khăn khi nạp input từ một trong hai vùng đó. Việc đắm mình vào một vùng ngôn ngữ tại một thời điểm sẽ tạo ra một môi trường SRS tự nhiên. Bạn thường xuyên gặp phải những từ giống nhau được sử dụng trong các ngữ cảnh khác nhau. Điều này giúp bạn ghi nhớ các từ tốt hơn ngoài việc sử dụng SRS riêng rẽ như Anki.
+Sẽ hiệu quả hơn nếu bạn thành thạo một nhóm nhỏ các vùng ngôn ngữ trước tiên, sử dụng từng vùng ngôn ngữ một, hơn là xử lý nhiều vùng ngôn ngữ cùng lúc và gặp khó khăn khi nạp input từ một trong hai vùng đó. Việc đắm mình vào một vùng ngôn ngữ tại một thời điểm sẽ tạo ra một môi trường SRS tự nhiên. Bạn thường xuyên gặp phải những từ giống nhau được sử dụng trong các ngữ cảnh khác nhau. Điều này giúp bạn ghi nhớ các từ tốt hơn ngoài việc sử dụng SRS riêng rẽ như Anki.
 
 Một lý do khác khiến vùng quan trọng là bạn muốn tránh nội dung vượt quá trình độ kỹ năng hiện tại của bạn. Chọn nội dung hấp dẫn không quá khó nhưng đủ thách thức để học được điều gì đó mới từ nội dung đó và phát triển khả năng của bạn.
 

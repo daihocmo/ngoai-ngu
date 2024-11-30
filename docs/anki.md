@@ -1,6 +1,9 @@
-Có rất nhiều những hướng dẫn về Anki mà mình nghĩ rằng, việc viết một bài viết khác là không thực sự cần thiết.
+Viết lại một hướng dẫn sử dụng Anki rõ ràng hơn và sử dụng video của mình làm video tổng quan. Bài viết chỉ tổng hợp vào tư duy sử dụng Anki, các chức năng cơ bản và cách tạo thẻ
 
-**Một số nguồn mà bạn có thể xem hoặc đọc hướng dẫn**:
+Mục lục
+- Tìm hiểu sơ lược về SRS, và Anki, với tư duy sử dụng Anki, học hàng ngày
+- Các chức năng cơ bản, tạo bộ thẻ, tạo thẻ từ vựng và các thứ khác.
+- Các mẹo sử dụng Anki
 
 ## Tiếng Việt
 

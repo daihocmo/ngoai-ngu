@@ -1,4 +1,4 @@
-site_name: Tôi luyện ngoại ngữ - Khu học mở
+site_name: Tu luyện ngoại ngữ - Khu học mở
 site_description: Phương pháp học mọi ngoại ngữ thông qua Immersion và Comprehensible Input, completely free.
 site_author: duykhanh471
 theme:
@@ -9,32 +9,32 @@ theme:
     primary: indigo
 
 nav:
-  - 'Trang chủ':
-      - 'Khởi đầu': 'index.md'
-      - 'Động lực học': 'cai-thien-dong-luc.md'
+  - 'Định hướng':
+      - 'Trang chủ': 'index.md'
       - 'Tại sao cần tự học?': can-tu-hoc.md
   - 'Hướng dẫn':
-      - 'Bắt đầu tự học': guide.md
+      - 'Hướng dẫn tự hoc': guide.md
       - 'Đọc ngoại ngữ': doc.md
-      - 'Đầu vào (Input)': input.md
-      - 'Lặp lại ngắt quãng': srs.md
-      - 'Vùng ngôn ngữ': language-domain.md
-  - 'Lộ trình học':
-      - 'Tổng hợp': 'lo-trinh-hoc.md'
+      - 'Nghe ngoại ngữ': nghe.md
+      - 'Input': input.md
+      - 'SRS': srs.md
   - 'Setup':
       - 'Anki': anki.md
-      - 'Kindle': kindle.md
       - 'Từ điển': dictionary.md
       - 'Youtube': youtube.md
+      - 'Các công cụ hỗ trợ cho việc học': cong-cu.md
+  - 'Comprehensible Input':
+      - 'Tìm hiểu về Comprehensible Input': 'comprehensible-input.md'
   - 'Immersion':
-      - 'FAQ': overview.md
-  - 'Mining':
-      - 'Đào câu': sentence-mining.md
+      - 'Tổng quan': overview.md
+      - 'Sentence Mining': sentence-mining.md
+  - 'Một số chủ đề khác':
       - 'Timeboxing': timeboxing.md
+      - 'Language Domain': language-domain.md
   - 'Resources':
       - 'Tài nguyên': 'resources.md'
   - 'Recommendations':
-      - 'Gợi ý khác': 'recommendations.md'
+      - 'Đọc thêm về các phương pháp học ngoại ngữ': 'recommendations.md'
  
 theme:
   palette:
