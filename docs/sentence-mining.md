@@ -71,11 +71,11 @@ Hãy nhớ rằng: mục tiêu của những thẻ này là nâng cao khả năn
 
 **Mặt trước**
 
-![sample card front](./img/sample-card-front.png)
+![sample card front](img/sent-mining/sample-card-front.png)
 
 **Mặt sau**
 
-![sample card back](./img/sample-card-back.png)
+![sample card back](img/sent-mining/sample-card-back.png)
 
 ### Khi nào cần đào thẻ
 

@@ -37,11 +37,11 @@ Mô hình bộ nhớ trong phần mềm lặp lại ngắt quãng dựa trên ng
 
 Hình bên dưới được gọi là **đường cong lãng quên**. Giả sử bạn học một từ mới vào ngày đầu tiên và bạn không bao giờ ôn lại nó. Đường cong quên cho bạn biết xác suất bạn sẽ nhớ từ này mỗi ngày sau đó. Ví dụ: sau 2 ngày thì còn khoảng 90%, nhưng sau 20 ngày thì chỉ còn khoảng 30%. Vào ngày thứ 50, xác suất nhớ lại thành công chỉ là 10% - từ đó gần như đã bị xóa khỏi đầu. (Thực tế còn phụ thuộc vào độ khó của từ.)
 
-![forgetting-curve-1.png](./img/forgetting-curve-1.png)
+![forgetting-curve-1.png](img/srs/forgetting-curve-1.png)
 
 Sử dụng SRS khiến bạn phải ôn lại từ đó khi xác suất nhớ được nó vẫn còn cao (thường là 90%). Sau mỗi lần ôn, khả năng nhớ sẽ tốt hơn: xác suất nhớ lại giảm chậm hơn theo thời gian (đường cong quên lãng ngày càng phẳng hơn). Nói cách khác, quá trình quên bị chậm lại.
 
-![forgetting-curve-2.png](./img/forgetting-curve-2.png)
+![forgetting-curve-2.png](img/srs/forgetting-curve-2.png)
 
 *Đường cong quên lãng sau mỗi lần xem lại. Những nét đứt là khi không ôn tập lại*
 
