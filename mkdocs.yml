@@ -25,6 +25,7 @@ nav:
       - 'Các công cụ hỗ trợ cho việc học': cong-cu.md
   - 'Comprehensible Input':
       - 'Tìm hiểu về Comprehensible Input': 'comprehensible-input.md'
+      - 'Lý thuyết thụ đắc ngôn ngữ': 'ly-thuyet-thu-dac.md'
   - 'Immersion':
       - 'Tổng quan': overview.md
       - 'Sentence Mining': sentence-mining.md

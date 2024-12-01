@@ -1,46 +1,37 @@
-# Hướng dẫn bắt đầu tự học ngoại ngữ
-Hướng dẫn này sẽ là bản hiệu đính từ [trang học languageguide](https://sajforbes.nz/languageguide)
+!!! info "Nguồn"
+    Hướng dẫn này sẽ là bản dịch và hiệu đính từ [trang học languageguide](https://sajforbes.nz/languageguide)
 
-The approach is simple: start with the essentials. You don't need to read the full guide before you begin learning. If you are new to language learning, the main chapter is [Resources](https://sajforbes.nz/languageguide/resources/), but I recommend you read at least until the end of [Activities](https://sajforbes.nz/languageguide/activities/)---that's just a few pages. However, if you'd like a more solid foundation, I recommend you read on after that. You don't need to read the chapters in order, and you can skip around based on your preference.
+Hướng tiếp cận đơn giản là: Bắt đầu từ những thứ cơ bản
+<!-- The approach is simple: start with the essentials. You don't need to read the full guide before you begin learning. If you are new to language learning, the main chapter is [Resources](https://sajforbes.nz/languageguide/resources/), but I recommend you read at least until the end of [Activities](https://sajforbes.nz/languageguide/activities/)---that's just a few pages. However, if you'd like a more solid foundation, I recommend you read on after that. You don't need to read the chapters in order, and you can skip around based on your preference. -->
 
 For help reading this guide, here is a breakdown of the chapters:
 
--   **The Essentials**---These take you through the basics
+- Cơ bản
+    -   [Trước khi bắt đầu](https://sajforbes.nz/languageguide/beforeyoustart/)---Key info to know before you begin
 
-    -   [Before you start](https://sajforbes.nz/languageguide/beforeyoustart/)---Key info to know before you begin
+    -   [Tài nguyên học](https://sajforbes.nz/languageguide/resources/)---The main chapter, containing guidance on what resources you need
 
-    -   [Resources](https://sajforbes.nz/languageguide/resources/)---The main chapter, containing guidance on what resources you need
+    -   [Cách sử dụng tài nguyên](https://sajforbes.nz/languageguide/activities/)---The best activities to do with your resources
 
-    -   [Activities](https://sajforbes.nz/languageguide/activities/)---The best activities to do with your resources
+    -   [Thói quen học tập](https://sajforbes.nz/languageguide/routine/)---Covers your study habits
 
-    -   [Your Study Routine](https://sajforbes.nz/languageguide/routine/)---Covers your study habits
-
--   **Advice for Beginners**---These explain how to use your resources well, covering the key topics
-
+-   **Hướng dẫn cho người mới học**---These explain how to use your resources well, covering the key topics
     -   [Input](https://sajforbes.nz/languageguide/fullguide/)
     -   [Grammar](https://sajforbes.nz/languageguide/fullguide/)
     -   [Vocabulary](https://sajforbes.nz/languageguide/fullguide/)
     -   [Flashcards](https://sajforbes.nz/languageguide/fullguide/)
     -   [Speaking](https://sajforbes.nz/languageguide/fullguide/)
     -   [Pronunciation](https://sajforbes.nz/languageguide/fullguide/)
--   **Advice for Intermediate Learners**
-
+-   **Hướng dẫn cho người học trung cấp**
     -   [Moving to the Intermediate Stage](https://sajforbes.nz/languageguide/fullguide/)---Advice on how your study changes later on
-
     -   [How to Learn Your Language](https://sajforbes.nz/languageguide/fullguide/)---Provides a framework you can use to build your ability
 
     -   [Choosing What to Study](https://sajforbes.nz/languageguide/fullguide/)---Helps you think about your strengths and weaknesses, and provides some ideas for improving
 
 -   **Extras**---Some more advice on specific topics
 
-    -   [Mistakes](https://sajforbes.nz/languageguide/fullguide/)---Ideas on how to deal with mistakes
-
-    -   [Building Your Own Method](https://sajforbes.nz/languageguide/fullguide/)---Guidance for those looking to diverge from following the standard activities
-
-    -   [Becoming Conversational in Lots of Languages](https://sajforbes.nz/languageguide/fullguide/)---Some people like to learn lots of languages less deeply, and this section shows you how it's done
-
+    -   [](https://sajforbes.nz/languageguide/fullguide/)---Ideas on how to deal with mistakes
     -   [Learning Theory](https://sajforbes.nz/languageguide/fullguide/)---A set of ideas about learning more generally, applied to language learning
-
     -   [The Final Chapter](https://sajforbes.nz/languageguide/fullguide/)---A quick summary with some parting words from me
 
 Though there may seem to be a lot of information here, think of it as an investment. If you start with a bit of theory now, you will save time in the long run by doing it better the first time.

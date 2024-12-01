@@ -67,7 +67,6 @@ Sau khi nhập xong, các bạn có thể thêm tag cho từng thẻ nếu muố
 
 Sau đó bấm Add để lưu thẻ vào Anki.
 
-
 ### Các phiên học
 Sau khi tạo bộ thẻ và thêm các thẻ từ vựng (Hoặc bạn đã **Import** bộ thẻ bạn đã tải xuống trên mạng về), chúng ta có thể bắt đầu ôn tập. Bạn bấm vào bộ thẻ bạn cần học
 

@@ -1,0 +1,24 @@
+!!! info "Nguồn"
+    Bài viết này là bản dịch và hiệu đính của bài viết [Muốn ra thì phải có vào](https://www.facebook.com/share/14YVVLtZ5D/)
+
+Chúng ta có #input là đầu vào, nguyên liệu đi vào; #output là đầu ra, sản phẩm đi ra. Để có output, chúng ta buộc phải có input. Đối với học ngoại ngữ:
+- Input là Nghe và Đọc.
+- Output là Nói và Viết.
+
+Để nói và viết tốt, bạn phải nghe và đọc thật nhiều.
+
+Nói đơn giản hơn, ăn cái gì thì ra cái đó.
+
+Input – Output lại chia ra hai phần là âm thanh và hình ảnh:
+- Đọc nhiều thì Viết tốt,
+- Nghe nhiều thì Nói tốt.
+
+Bạn có để ý mấy bé đọc ngôn tình thường viết văn thơ rất là bay bỗng không? Bạn cũng như mấy bé ấy, vì đã đọc Tiếng Anh nhiều nên bạn có khả năng đọc hiểu và viết tương đối ổn. Nhưng nghe là cái ít được chú trọng nhất trong thời gian ở trường trung học, bạn hầu như không bao giờ nghe mà chỉ làm bài tập ngữ pháp. Vậy nên bạn gần như không thể hiểu được những gì người bản xứ nói. Còn đến lượt bạn nói thì bạn nói rất chậm, thiếu tự nhiên, sai phát âm vô kể. Bởi vì bạn đang ép mình output trong khi chưa có input.
+
+Muốn nói được Tiếng Anh, bạn phải nghe, nghe, và nghe rất là nhiều.
+
+Nhưng mà nghe gì? Theo giáo sư Krashen, bạn phải nghe “comprehensible input” (tạm dịch: đầu vào dễ hiểu). Tức bạn phải nghe những tài liệu chỉ khó hơn level hiện tại của bạn một xíu, bạn hiểu khoảng 80–95% tài liệu đó. Những gì bạn không biết, bạn sẽ hiểu nó thông qua ngữ cảnh, ngôn ngữ cơ thể, sự liên kết với những phần khác, hoặc từ điển. Dần dần, bạn sẽ hấp thụ được input mới và nâng cao level của bạn lên.
+
+Một trong những sai lầm của môn Tiếng Anh ở trường đó là nó được dạy quá nhanh. Khi bạn chưa kịp thẩm thấu các cấu trúc câu đơn giản thì thầy cô đã dạy qua Hiện tại hoàn thành tiếp diễn, Câu điều kiện loại 1/2/3, Mệnh đề quan hệ không xác định, vân vân và vân vân. Khi cái nền của bạn chưa vững thì không thể xây thêm bất kì cái gì trên đó. Bạn học rất nhiều nhưng vì không hiểu cái mình học nên không tiếp thu được gì. Đó là một sự lãng phí lớn.
+
+Để từ cấp độ Elementary (đa phần các bạn nằm ở level này) lên được tới cấp độ Intermediate – giao tiếp được những chủ đề cơ bản, có thể đi du lịch, đi phỏng vấn – bạn cần phải nghe và đọc “comprehensible input” khoảng 300–400 giờ. (xấp xỉ 1 năm nếu bạn dành 1h input mỗi ngày đấy)
