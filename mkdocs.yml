@@ -1,12 +1,7 @@
 site_name: Tu luyện ngoại ngữ - Khu học mở
 site_description: Phương pháp học mọi ngoại ngữ thông qua Immersion và Comprehensible Input, completely free.
 site_author: duykhanh471
-theme:
-  name: material
-  features:
-    - navigation.instant
-  palette:
-    primary: indigo
+
 
 nav:
   - 'Định hướng':
@@ -25,7 +20,6 @@ nav:
       - 'Các công cụ hỗ trợ cho việc học': cong-cu.md
   - 'Comprehensible Input':
       - 'Tìm hiểu về Comprehensible Input': 'comprehensible-input.md'
-      - 'Lý thuyết thụ đắc ngôn ngữ': 'ly-thuyet-thu-dac.md'
   - 'Immersion':
       - 'Tổng quan': overview.md
       - 'Sentence Mining': sentence-mining.md
@@ -36,6 +30,7 @@ nav:
       - 'Tài nguyên': 'resources.md'
   - 'Recommendations':
       - 'Đọc thêm về các phương pháp học ngoại ngữ': 'recommendations.md'
+
  
 theme:
   palette:
@@ -64,7 +59,24 @@ theme:
     - search.share
   name: material
 
+markdown_extensions:
+  - meta
+  - admonition
+  - attr_list
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.details
+  - pymdownx.keys
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - toc:
+      permalink: true
+      
 plugins:
+  - search
   - open-in-new-tab
   
 extra:

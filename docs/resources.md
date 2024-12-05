@@ -16,8 +16,6 @@ Trong trang tổng hợp tài nguyên này sẽ tổng hợp các lộ trình t�
 ## Tiếng Trung
 - [Lộ trình học Tiếng Trung thông qua tiểu thuyết](https://heavenlypath.notion.site/Comprehensive-Reading-Guide-from-Beginner-to-Native-Novels-b3d6abd583a944a397b4fbbb81e0c38c) - Được viết bởi heavenlypath
 - [Lộ trình học Tiếng Trung - Refold](https://docs.google.com/document/d/1GylRRx3zaY9sZbZEkKbzqVDkMAaey0pVDSC8_yCICMU/edit#heading=h.rze1k14yugtx)
-
-### Được chia sẻ bởi người học trên Reddit
 - [HSK5 trong 15 tháng](https://reddit.com/r/ChineseLanguage/comments/py5hkh/hsk_5_in_15_months_all_the_tools_tips_and)
 - [Hàng trình học Tiếng Trung 18 tháng](https://reddit.com/r/ChineseLanguage/comments/x5fu73/my_18_month_chinese_learning_journey/) 
 - [Liệu bạn có thể hoàn toàn tự mình học Tiếng Trung không?](https://reddit.com/r/ChineseLanguage/comments/9q5at4/is_it_possible_to_study_chinese_by_yourself/) 
