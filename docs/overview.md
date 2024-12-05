@@ -1,4 +1,5 @@
-Trích dẫn từ bài viết của Donkuri
+!!! info "Nguồn"
+    Dịch và hiệu đính từ [bài viết của Donkuri](https://donkuri.github.io/learn-japanese/immersion/)
 
 Đây là tổng hợp một số các câu thường được hỏi về Immersion.
 

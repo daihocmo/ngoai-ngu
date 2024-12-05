@@ -1,7 +1,6 @@
 !!! info "Nguồn"
     Hướng dẫn này sẽ được lấy dàn ý, một số phần nội dung định hướng và hiệu đính lại từ [languageguide](https://sajforbes.nz/languageguide/)
 
-
 ## Tài nguyên học và thiết lập mục tiêu học tập
 ### Cần dành bao nhiêu thời gian
 Languages require a certain number of hours to achieve a high level at, and you cannot cheat your way out of this requirement. This brings us to one of the most important principles:
@@ -15,33 +14,29 @@ To help build your time with the language, it is important to study every day. I
 The best technique is to build a routine
 
 
-## Hướng dẫn cho người mới bắt đầu
-
-### Input
-
-### Ngữ pháp
+## Các chủ đề
 
 ### Từ vựng
 
+### Ngữ pháp
+
 ### Flashcards
+- [Tìm hiểu về hệ thống lặp lại ngắt quãng - SRS](srs.md)
+- [Học cách sử dụng Anki cơ bản](anki.md)
 
-### Speaking
+### Input
+- [Input trong việc học ngoại ngữ](input.md)
+- [Tìm hiểu về Comprehensible Input](comprehensible-input.md)
+- [Hướng dẫn bắt đầu việc đọc](doc.md)
+- [Luyện nghe ngoại ngữ](nghe.md)
 
-### Phát âm
+### Output
+- Tìm hiểu về phát âm
+- Nói ngoại ngữ
 
-
-## Hướng dẫn cho người học trung cấp
-### Bắt đầu đến giai đoạn trung cấp
-
-### How to Learn Your Language
-
-### Choosing What to Study
-
-## Các chủ đề khác
-
-### Về việc mắc lỗi
-
-### Lý thuyết học tập
+### Immersion
+- [Những câu hỏi thường gặp về Immersion](overview.md)
+- [Hướng dẫn về Sentence Mining](sentence-mining.md)
 
 ### Chương cuối cùng
 Though there may seem to be a lot of information here, think of it as an investment. If you start with a bit of theory now, you will save time in the long run by doing it better the first time.
