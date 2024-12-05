@@ -3,22 +3,20 @@
 
 ## Tài nguyên học và thiết lập mục tiêu học tập
 ### Cần dành bao nhiêu thời gian
-Languages require a certain number of hours to achieve a high level at, and you cannot cheat your way out of this requirement. This brings us to one of the most important principles:
+Để đạt được trình độ cao trong một ngoại ngữ bất kì cần **rất nhiều thời gian** và gần như là bất khả để có thể nhảy cóc
 
 ### Nguyên tắc cơ bản là: Dành càng nhiều thời gian cho ngoại ngữ càng tốt
-The key factor determining how fast you learn your language is **time**. If you want to improve quickly, aim to spend as much time as possible learning. The more the better. It is far more important than having the perfect technique or using the perfect resource.
+Yếu tố cốt lõi quyết định tốc độ học ngoại ngữ của bạn là **thời gian**. Nếu bạn muốn giỏi nhanh hơn thì hãy đặt mục tiêu là dành nhiều thời gian nhất có thể để học. Càng nhiều càng tốt. Điều này còn quan trọng hơn nhiều việc có phương pháp học tập hay những nguồn tài nguyên tốt. 
 
-To help build your time with the language, it is important to study every day. Ideally, **commit to study at least an hour per day**. There is no maximum---the more you can commit each day, the faster you will progress.
-
-### When to spend your time
-The best technique is to build a routine
-
+Để bắt đầu xây dựng thời gian cho việc học ngoại ngữ của cá nhân bạn, bạn cần phải học hàng ngày. Lý tưởng là dành ít nhất một tiếng mỗi ngày. Sẽ không có giới hạn thời gian, bạn càng dành nhiều thời gian, bạn càng trở nên giỏi nhanh hơn.
 
 ## Các chủ đề
 
 ### Từ vựng
+- [Học từ vựng]()
 
 ### Ngữ pháp
+- [Học ngữ pháp]()
 
 ### Flashcards
 - [Tìm hiểu về hệ thống lặp lại ngắt quãng - SRS](srs.md)
@@ -39,6 +37,6 @@ The best technique is to build a routine
 - [Hướng dẫn về Sentence Mining](sentence-mining.md)
 
 ### Chương cuối cùng
-Though there may seem to be a lot of information here, think of it as an investment. If you start with a bit of theory now, you will save time in the long run by doing it better the first time.
+Dù có rất nhiều nội dung cần đọc ở trong trang này, hãy coi việc đọc như một khoản đầu tư. Việc đầu tư thời gian học trước một số lý thuyết hay cách tự học ngoại ngữ trước khi bắt đầu sẽ giúp bạn tiết kiệm được thời gian trên chặng đường dài học ngoại ngữ của bản thân, tránh được những lỗi khi mới bắt đầu học ngoại ngữ.
 
 
