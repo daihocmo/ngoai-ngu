@@ -1,35 +1,20 @@
 # Mẹo và chiến lược cho việc đọc
 
-Hướng dẫn bắt đầu thực sự về việc đọc
-
-Để giỏi ngoại ngữ hơn, đọc sách gần như là cách hiệu quả nhất. 
-
-“Đọc nhiều hơn” thường là lời khuyên đầu tiên trong việc học ngoại ngữ mà những người học ngoại ngữ ở trình độ cao gợi ý bất kỳ người mới bắt đầu nào, và điều gì cũng có lý do của nó.
+Để giỏi ngoại ngữ hơn, đọc sách gần như là cách hiệu quả nhất. “Đọc nhiều hơn” thường là lời khuyên đầu tiên trong việc học ngoại ngữ mà những người học ngoại ngữ ở trình độ cao gợi ý bất kỳ người mới bắt đầu nào, và điều gì cũng có lý do của nó.
   
 ## Mẹo đọc
-
-### Mình CHỈ mới bắt đầu, mình nên làm gì?
-
-Hoặc có thể mới bắt đầu = Mình đã học ngoại ngữ được một thời gian bằng phương pháp [x] và giờ nếu mình muốn bắt đầu đọc thì mình nên làm gì?"
-
-Hãy đọc bài viết này cho đến hết.
 
 ### Đọc một cuốn sách về một cái gì đó bạn đã thấy.
 
 Bạn có biết nhiều người trở thành những người đọc (sách bằng ngôn ngữ của họ) vì họ đọc sách của một bộ phim họ yêu thích hay đại loại vậy không? Bạn có thể áp dụng chiến lược chính xác tương tự cho ngoại ngữ và đó chính là chiến lược mà mình khuyên mọi người nên thực hiện khi mới bắt đầu tập đọc.
 
-### Yomichan, Tiểu thuyết, EPUBs+ッツ Reader  
+### Đọc và tra trực tiếp trên trình duyệt sử dụng Yomitan
 
-Bộ ba thần thánh dành cho những người thích đọc tiểu thuyết, Light Novel, web novel bằng ngoại ngữ.
-
-- Cài đặt Yomichan [đọc ở đây](yomitan.md)  
-- Kho tiểu thuyết in [Resources](resources.md)  
-- EPUBs... Có thể tải ở rất nhiều chỗ.
-- [ッツ Reader](https://reader.ttsu.app/manage)  
+- [Tải Yomitan](https://daihocmo.github.io/tieng-anh/yomitan/)
+- Tải thêm sách bạn muốn đọc dưới định dạng EPUB.
+- [ッツ Reader](https://reader.ttsu.app/manage) - Ứng dụng đọc sách trực tuyến trên trình duyệt.  
 
 ### Pomodoro / Timeboxing  
-
-Đây là một chiến lược "God tier" khác mà mình muốn giới thiệu.
 
 Phương pháp Pomodoro yêu cầu bạn tập trung vào một nhiệm vụ trong một khoảng thời gian nhất định (thường là 25 phút), sau đó đồng hồ sẽ đổ chuông và bạn nghỉ giải lao ngắn (5 phút).
 
@@ -37,37 +22,23 @@ Vì vậy, bạn sẽ đọc trong 25 phút.
 
 Nghe thì có vẻ không nhiều nhưng thực ra đây là một phương pháp rất hữu ích.
 
-Mình thường uống nước, đứng dậy hoặc đi lại trong giờ giải lao; nó giúp bạn tỉnh táo khi tiếp tục đọc. Cài đặt mặc định là 25 phút tập trung, nghỉ ngắn trong 5 phút và nghỉ dài trong 15 phút. Có lẽ 25 phút là quá nhiều nên có lẽ nên chọn **20 phút** .
+Mình thường uống nước, đứng dậy hoặc đi lại trong giờ giải lao; nó giúp bạn tỉnh táo khi tiếp tục đọc. Cài đặt mặc định là 25 phút tập trung, nghỉ ngắn trong 5 phút và nghỉ dài trong 15 phút. Có lẽ 25 phút là quá nhiều nên có lẽ nên chọn **20 phút**.
 
 ### Biến việc đọc thành thói quen - từng bước một
 
-Bạn cần biến việc đọc thành thói quen; đọc với số lượng mà bạn có thể thực hiện được mỗi ngày.
-
-Và theo thời gian, khi bạn làm điều này hàng ngày, nó sẽ trở thành thói quen, và bạn có thể cảm thấy muốn đọc mà không cần nghĩ rằng “đã đến lúc cải thiện ngoại ngữ của mình”, bởi vì việc đọc hàng ngày sẽ trở thành một việc bình thường đối với bạn.
+Bạn cần biến việc đọc thành thói quen; đọc với số lượng mà bạn có thể thực hiện được mỗi ngày. Và theo thời gian, khi bạn làm điều này hàng ngày, nó sẽ trở thành thói quen, và bạn có thể cảm thấy muốn đọc mà không cần nghĩ rằng “đã đến lúc cải thiện ngoại ngữ của mình”, bởi vì việc đọc hàng ngày sẽ trở thành một việc bình thường đối với bạn.
 
 ### Đặt mục tiêu cho bản thân mỗi ngày
 
-Đặt cho mình một mục tiêu mà bạn có thể đạt được hàng ngày là một cách tuyệt vời để duy trì động lực đọc sách mỗi ngày.
+Đặt cho mình một mục tiêu mà bạn có thể đạt được hàng ngày là một cách tuyệt vời để duy trì động lực đọc sách mỗi ngày. Cố gắng tìm cho mình một mục tiêu cụ thể.
 
-Hãy cố gắng tìm cho mình một mục tiêu cụ thể.
-
-Hãy đọc trong khoảng thời gian mà bạn sẵn sàng đọc trong ngày, sau đó thử xem bạn đã đọc được bao nhiêu ký tự (nếu là tiểu thuyết digital hoặc Visual Novel) hoặc số trang (nếu là manga hoặc tiểu thuyết).
-
-Sau đó lấy số lượng ký tự hoặc trang đó và tăng nó lên một chút (làm tròn nó lên, chắc vậy) và lấy đó làm mục tiêu đọc hàng ngày.
+Hãy đọc trong khoảng thời gian mà bạn sẵn sàng đọc trong ngày, sau đó thử xem bạn đã đọc được bao nhiêu số trang. Sau đó lấy số lượng trang đấy và tăng nó lên một chút (làm tròn nó lên, chắc vậy) và lấy đó làm mục tiêu đọc hàng ngày.
 
 ### Sự hữu ích của việc học ngữ pháp và một số từ điển Yomichan hỗ trợ điều này.
 
-Thành thật mà nói, việc học ngữ pháp rất hữu ích cho việc đọc.
+Việc học ngữ pháp thực sự cần thiết nếu bạn muốn đọc tốt. Nếu bạn chưa học ngữ pháp nhiều và chưa biết hết các cấu trúc ngữ pháp A1, A2, B1, B2, C1 thì bạn nên học chúng. Nhưng không phải là “học ngữ pháp trước khi đọc” mà là, “học ngữ pháp để cải thiện khả năng đọc của bạn, điều mà bạn nên làm ngay bây giờ”.
 
-Nếu bạn chưa học ngữ pháp nhiều và chưa biết hết các cấu trúc ngữ pháp A1, A2, B1, B2, C1 thì bạn nên học chúng. Nhưng không phải là “học ngữ pháp theo CEFR trước khi đọc” mà là, “học ngữ pháp CEFR để cải thiện khả năng đọc của bạn, điều mà bạn nên làm, có lẽ là ngay bây giờ”
-
-Bạn hãy xem 
-
-Nghe này, mình không quan tâm liệu ngữ pháp trong sách có phải là “ngữ pháp thực sự” hay không.
-
-Chúng rất hữu ích vì chúng là những cụm từ và cấu trúc mà không thực sự có ý nghĩa rõ ràng khi đứng một mình, và bạn có thể sẽ bỏ qua chúng khi thực hiện Immersion.
-
-Việc học ngữ pháp như trên hoàn toàn là một lựa chọn ĐÚNG.
+Đừng quan tâm liệu ngữ pháp trong sách có phải là “ngữ pháp thực sự” hay không. Chúng rất hữu ích vì chúng là những cụm từ và cấu trúc mà không thực sự có ý nghĩa rõ ràng khi đứng một mình, và bạn có thể sẽ bỏ qua chúng khi thực hiện Immersion. Việc học ngữ pháp như trên hoàn toàn là một lựa chọn ĐÚNG.
 
 Nếu bạn chưa hiểu được từ điển đơn ngữ, hãy vẫn giữ chúng vì nếu bạn gặp khó khăn trong việc hiểu ý nghĩa thực sự của một từ thì từ điển đơn ngữ sẽ giúp bạn.
 
@@ -156,7 +127,7 @@ Sự hối thúc phải phân tích câu khi mình không hiểu là một đi�
 
 Xét cho cùng, nó có thể là một chiến lược đọc rất tốt, và ở một mức độ nhất định thì nó đúng như vậy.
 
-Có những cuốn mình đọc 3 lần (Volume 1-3 của 龍ヶ嬢七々々の埋蔵金  mỗi cuốn 3 lần) và một số khác vì mình làm thẻ câu và thực hiện mining với những từ mình chưa biết trong sách với câu đi kèm từ đó nên cuối cùng mình đã đọc đi đọc lại những câu tương tự. Mình đã phân tích nó đấy.
+Có những cuốn mình đọc 3 lần và một số khác vì mình làm thẻ câu và thực hiện mining với những từ mình chưa biết trong sách với câu đi kèm từ đó nên cuối cùng mình đã đọc đi đọc lại những câu tương tự. Mình đã phân tích nó đấy.
 
 Một điều bất ngờ là, khi mình quay lại đọc cuốn ở trên sau khi đọc những cuốn sách khác, có rất nhiều phần hay đã bị **bỏ lỡ** trong đó.
 
@@ -248,7 +219,7 @@ Và mình đã phải đối mặt với tất cả cho đến khi mình nhận 
 
 Và timeboxing (hộp thời gian).
 
-### NHƯNG mình phải đọc BAO NHIÊU???
+### NHƯNG mình phải đọc BAO NHIÊU?
 
 Đó là một câu hỏi ngớ ngẩn vì bạn không bao giờ ngừng đọc vì bạn luôn có thể cải thiện.
 

@@ -34,7 +34,7 @@ Có thể bạn chưa biết: Bạn hoàn toàn có thể học được đến 
 
 ![](img/language_guide/cai-thien-ngoai-ngu.png)
 
-Từ trình độ trung cấp lên cao cấp sẽ cần rất nhiều thời gian. Lúc đấy bạn sẽ cảm giác như mình đang không tiến bộ và phương pháp học tập của mình sai. Nhưng nếu bạn vẫn tiếp tục immerse ngoại ngữ và sử dụng Anki hàng ngày, thì khả năng ngoại ngữ của bạn vẫn đang cải thiện, chỉ là nó không nhanh như khi mới học thôi. Mình xin phép trích và dịch lại phần này trong trang [FAQ của TheMoeWay](learnjapanese.moe/faq/#the-intermediate-blues)
+Từ trình độ trung cấp lên cao cấp sẽ cần rất nhiều thời gian. Lúc đấy bạn sẽ cảm giác như mình đang không tiến bộ và phương pháp học tập của mình sai. Nhưng nếu bạn vẫn tiếp tục immerse ngoại ngữ và sử dụng Anki hàng ngày, thì khả năng ngoại ngữ của bạn vẫn đang cải thiện, chỉ là nó không nhanh như khi mới học thôi. Mình xin phép trích và dịch lại phần này trong trang [FAQ của TheMoeWay](https://learnjapanese.moe/faq/#the-intermediate-blues)
 
 > Hãy nhớ rằng bạn có thể hiểu khoảng 80% các nội dung mình thực hiện Immersion với khoảng 2000 từ. Bạn có thể hiểu là 90% với 10.000. Nó giống như đi dường dốc vậy, càng ngày càng trở nên dốc hơn. 20.000 bạn hiểu là 95%. 30.000 thì cuối cùng bạn cũng có thể đạt gần 100%. Cảm giác này khá tệ, nhưng bạn vẫn phải tiếp tục thôi.
 

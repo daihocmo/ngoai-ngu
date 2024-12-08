@@ -7,6 +7,7 @@ nav:
   - 'Định hướng':
       - 'Trang chủ': 'index.md'
       - 'Tại sao cần tự học?': can-tu-hoc.md
+      - 'Trước khi bắt đầu học ngoại ngữ': 'truoc-khi-bat-dau.md'
   - 'Hướng dẫn':
       - 'Hướng dẫn tự hoc': guide.md
       - 'Đọc ngoại ngữ': doc.md
@@ -16,7 +17,6 @@ nav:
   - 'Setup':
       - 'Anki': anki.md
       - 'Từ điển': dictionary.md
-      - 'Youtube': youtube.md
       - 'Các công cụ hỗ trợ cho việc học': cong-cu.md
   - 'Comprehensible Input':
       - 'Tìm hiểu về Comprehensible Input': 'comprehensible-input.md'
@@ -61,6 +61,9 @@ theme:
   name: material
 
 markdown_extensions:
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - meta
   - admonition
   - attr_list
@@ -78,7 +81,7 @@ markdown_extensions:
       
 plugins:
   - search
-  - open-in-new-tab
+  # - open-in-new-tab
   
 extra:
   generator: false

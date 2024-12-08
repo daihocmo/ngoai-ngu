@@ -1,7 +1,7 @@
 !!! info "Nguồn bài viết"
     Bài viết này được lấy nguồn từ bài [](https://voz.vn/t/cach-luyen-nghe-tieng-anh-thu-đong-va-chu-đong-ban-can-phai-biet.503011/) trên diễn đàn Voz và mình đã chỉnh sửa + hiệu đính lại để phù hợp hơn với việc học ngoại ngữ chung.
 
-Có hai loại nghe là **Nghe thụ động** và nghe chủ động.
+Có hai loại nghe là **Nghe thụ động** và **nghe chủ động**.
 
 ### Nghe thụ động là gì?
 
