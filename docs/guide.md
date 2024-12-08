@@ -41,108 +41,97 @@ Dù có rất nhiều nội dung cần đọc ở trong trang này, hãy coi vi�
  -->
 
 !!! info "Nguồn"
-    Hướng dẫn này được dịch và hiệu đính lại từ [Main Guide](https://donkuri.github.io/learn-japanese/guide/) được viết bởi Donkuri
+    Hướng dẫn này được tổng hợp, dịch và hiệu đính lại từ:
+    - [Main Guide](https://donkuri.github.io/learn-japanese/guide/) được viết bởi Donkuri
+    - [languageguide](https://sajforbes.nz/languageguide/)
 
-Japanese Learning Guide
------------------------
+## Chuẩn bị học
+### Cần dành bao nhiêu thời gian
+Để đạt được trình độ cao trong một ngoại ngữ bất kì cần **rất nhiều thời gian**.
 
-1.  [Learn kana](https://donkuri.github.io/learn-japanese/guide/#learn-kana)
-2.  [Setup Anki and Yomitan](https://donkuri.github.io/learn-japanese/guide/#setup-anki-and-yomitan)
-3.  [On the topic of isolated kanji study](https://donkuri.github.io/learn-japanese/guide/#on-the-topic-of-isolated-kanji-study)
-4.  [Learning basic grammar and vocabulary](https://donkuri.github.io/learn-japanese/guide/#learning-basic-grammar-and-vocabulary)
-5.  [Consuming native context](https://donkuri.github.io/learn-japanese/guide/#consuming-native-content)
-6.  [Further output](https://donkuri.github.io/learn-japanese/guide/#more-talking-and-writing-to-japanese-natives)
-7.  [Writing kanji](https://donkuri.github.io/learn-japanese/guide/#on-the-topic-of-writing-kanji)
+### Nguyên tắc cơ bản là: Dành càng nhiều thời gian cho ngoại ngữ càng tốt
+Yếu tố cốt lõi quyết định tốc độ học ngoại ngữ của bạn là **thời gian**. Nếu bạn muốn giỏi nhanh hơn thì hãy đặt mục tiêu là dành nhiều thời gian nhất có thể để học. Càng nhiều càng tốt. Điều này còn quan trọng hơn nhiều việc có phương pháp học tập hay những nguồn tài nguyên tốt. 
 
-* * * * *
+Để bắt đầu xây dựng thời gian cho việc học ngoại ngữ của cá nhân bạn, bạn cần phải học hàng ngày. Lý tưởng là dành ít nhất một tiếng mỗi ngày. Sẽ không có giới hạn thời gian, bạn càng dành nhiều thời gian, bạn càng trở nên giỏi nhanh hơn.
 
-In this section, I give a flowchart you can follow to learn Japanese. Each step of the way, I explain what you should be doing to get to the next stage. If you would like a deeper, more technical explanation of what input-driven immersion-based language learning is, please see [this section](https://donkuri.github.io/learn-japanese/misc/#technical-explanation-of-input-and-immersion).
+Trong lộ trình này, phần bạn sẽ dành nhiều thời gian nhất chính là việc tiêu thụ nội dung được làm ở ngôn ngữ mục tiêu của bạn, và nó cũng có thể là thứ mà bạn muốn làm nhất trong quá trình học ngoại ngữ bởi bạn sẽ là người chọn ra thứ mà bạn muốn xem/nghe/đọc.
 
-How then should one go about learning Japanese? There have been multiple guides written discussing this exact issue that you can read in [the resources page](https://donkuri.github.io/learn-japanese/resources/#japanese-learning-guides). In this section, I would like to propose a simple Japanese learning roadmap.
+## Lộ trình tự học ngoại ngữ
 
-[![Japanese roadmap](https://donkuri.github.io/learn-japanese/img/jp-flowchart.png)](https://donkuri.github.io/learn-japanese/img/jp-flowchart.png)
+1. Học bảng chữ cái (Do ngôn ngữ bạn chọn)
+2. Cài đặt công cụ + Thiết lập môi trường học.
+3. Học từ vựng và ngữ pháp cơ bản.
+4. Tiêu thụ nội dung ngôn ngữ mục tiêu + Output.
+5. Thực hành Output nhiều hơn nữa và tập viết.
 
-Japanese learning roadmap
+Mình sẽ để một Flowchart ở phần này để bạn có thể theo để học ngoại ngữ. Ở mỗi giai đoạn, mình sẽ giải thích tương đối về những nhiệm vụ mà bạn cần thực hiện (Tất nhiên, tùy vào từng ngôn ngữ sẽ lại nảy sinh ra thêm nhiệm vụ mới, ví dụ như học Tiếng Trung thì bạn sẽ cần học một số lượng lớn Hán Tự). Phần hướng dẫn này sẽ tương đối ngắn và chỉ bao gồm những phần chính trong quá trình học ngoại ngữ thông qua Immersion. Nếu bạn cảm thấy chưa đủ và muốn đọc thêm để hiểu hơn về phương pháp học ngoại ngữ, bạn có thể đọc thêm các bài viết trên trang hoặc ghé trang [Hướng dẫn đề xuất](recommendations.md) để đọc thêm các hướng dẫn tương tự được viết bằng Tiếng Anh (Chắc chắn tốt hơn phần mình viết hoặc dịch lại nên nếu bạn có thể đọc Tiếng Anh đừng ngại qua đọc thêm nha). 
 
-By far the longest step will be consuming native Japanese content, but it's also the one that should be most fun to you, considering that you're the one choosing what media you consume. Let us break down each of these steps one by one.
+![roadmap](img/flowchart_ngoai_ngu.png)
 
-### Learn kana
+### Bắt học học bảng chữ cái
 
-Japanese technically has four main scripts it uses.
+Với một số ngôn ngữ mà không sử dụng bảng chữ cái Latin như Tiếng Việt mình, bạn cần phải học bảng chữ cái đầu tiên trước khi học bất cứ thì khác, phải biết mặt các chữ cái và cách viết của nó. Không có ngôn ngữ nào diễn tả ngôn ngữ mục tiêu tốt hơn chính ngôn ngữ mục tiêu ấy (Không ngôn ngữ nào diễn tả Tiếng Anh tốt như Tiếng Anh chẳng hạn). 
 
-1.  Hiragana (平仮名)
-2.  Katakana (片仮名)
-3.  Kanji (漢字)
-4.  Romaji (ローマ字)
+Cách bắt đầu thì đơn giản là làm thao tác tìm kiếm trên Google rồi cày, bạn cũng có thể tìm một bộ thẻ trên Quizlet bất kì hoặc thậm chí có thể tạo một bộ thẻ Anki riêng cho nó. Rồi nếu có thể thì tìm Game ôn tập bảng chữ cái xem sao.
 
-*Hiragana* and *katakana* are similar to the English alphabet, although instead of representing single letter sounds, they represent two letters sounds like *ka* and *ri*. *Kanji* is what most beginner think of when they think of Japanese. These are originally of Chinese origin and are used to describe words, nouns and so on. The last script isn't really a standard script, it is just the English alphabet (the Roman alphabet as the name implies.) The first scripts one learns are the first two as they represent the same sounds and are simple to learn in comparison to kanji. In contrast, you might learn new kanji for a very long time but you should know all hiragana and katakana (collectively called *kana*). You can learn to write them too if you'd like, but unless you practice often you'll eventually forget how to write them, even if you can tell how to read them.
+### Cài đặt công cụ
 
-The first thing you should do is read Tae Kim's guide [from here](https://djtguide.github.io/grammar/taekim.html#6%20The%20Scripts) to [here](https://djtguide.github.io/grammar/taekim.html#18%20Why%20Kanji?) in order to make sure you actually understand how writing works in Japanese. After this, use [this game](https://vedxyz.github.io/kana/).
+Phần hướng dẫn cài đặt sẽ được chuyển qua các bài hướng dẫn riêng cho từng phần. Về cơ bản, bạn sẽ cần có một ứng dụng hỗ trợ hệ thống lặp lại ngắt quãng (spaced-repetition system) là Anki và một số các ứng dụng từ điển trên máy tính bao gồm Yomitan (Tiện ích trình duyệt) và Goldendict (Ứng dụng xem từ điển trên máy tính). Bạn sẽ học (ôn tập) từ vựng trên Anki thông qua những bộ deck, là một bộ thẻ ghi nhớ (flashcards) giúp bạn đưa thông tin (từ vựng, ngữ pháp .v.v.) vào bộ nhớ dài hạn.
 
-### Setup Anki and Yomitan
+Trước đó bạn nên hiểu một cách cơ bản về SRS hay hệ thống lặp lại ngắt quãng, bạn có thể đọc [Hệ thống lặp lại ngắt quãng](srs.md) để tìm hiểu thêm.
 
-This section is technical and takes a long time so you can find a detailed explanation on [this page](https://donkuri.github.io/learn-japanese/setup/). The basic tools we will use are a spaced-repetition system called Anki and an interactive online look-up dictionary manager called Yomitan. Anki uses **Anki decks**, collections of flashcards to help you remember things, and it is usually those decks that will contain the bulk of our language *learning*.
+Hướng dẫn cài đặt cho từng phần một:
 
-### On the topic of isolated kanji study
+- [Hướng dẫn cài đặt và sử dụng Anki cơ bản](anki.md)
+- [Hướng dẫn cài đặt Yomitan](https://daihocmo.github.io/tieng-anh/yomitan/)
+- [Hướng dẫn cài đặt Goldendict](https://daihocmo.github.io/tieng-anh/goldendict/)
+- [Hướng dẫn Mining và chuẩn bị cài đặt cho Immersion](https://daihocmo.github.io/tieng-anh/setup/) 
 
-It is not fully clear how useful isolated kanji study is to the development of Japanese mastery. Isolated kanji study refers to the act of studying kanji readings on their own, without studying words directly. Some people never studied kanji by itself and instead learned words using kanji directly. Some people started their Japanese journey by using a tool such as [Remembering the Kanji](https://en.wikipedia.org/wiki/Remembering_the_Kanji_and_Remembering_the_Hanzi) or the [Kodansha Kanji Learner's Course](https://www.amazon.com/Kodansha-Kanji-Learners-Course-Step/dp/1568365268). I would personally advise against going through the entirety of either books, even in the form of an Anki deck. Instead, I would suggest people skip this step for now and start working through a vocabulary deck, namely **[Kaishi 1.5k](https://github.com/donkuri/Kaishi/releases)**. If the vocabulary deck is too hard, it might then be worth using the shortened form of Remembering the Kanji, usually called RRTK450. The deck can be found [here](https://mega.nz/file/2SJiWC4b#hL98qtC_hiLlQDg0LqVJoqD2-5ywT2Nwd4kjROY_KwQ). If you're the kind of person that likes learning from textbooks, I actually really like the [Basic Kanji Book I](https://www.amazon.com/Basic-Kanji-Book-Basic-Vol-1/dp/4893588826/ref=sr_1_1?crid=1RX9JTMA60R4T&keywords=basic+kanji+book+1&qid=1695411387&sprefix=basic+kanji+book+%2Caps%2C204&sr=8-1) and [II](https://www.amazon.com/Basic-Kanji-Book-vol-2/dp/4893588834/ref=sr_1_1?crid=30I20SYP5TA01&keywords=basic+kanji+book+2&qid=1695411403&sprefix=basic+kanji+book+%2Caps%2C214&sr=8-1).
+Tham khảo thêm:
 
-Another useful tool is the [kanji map website](https://thekanjimap.com/), which lets you input a kanji character and see it get broken down into *radicals*, the building blocks of kanji. It also allows you to see if it is used as a building block in other kanji. Learning kanji takes a long amount of time, do not get discouraged if learning Japanese feels very hard in the beginning. A lot of the difficulty in learning a language like Japanese is front-loaded: Once you learn enough words and kanji your reading experience gets much smoother. English speakers are usually discouraged at the fact that one requires learning thousands of kanji to properly read Japanese. But remember:
+- [Japanese Learning Setup](https://donkuri.github.io/learn-japanese/setup/)
+- [JP Lazy Guide](https://xelieu.github.io/jp-lazy-guide/)
 
-**English too requires learning word readings!**
+### Học từ vựng và ngữ pháp cơ bản
 
-If you're not convinced, please try to read [this poem](https://iuuk.mff.cuni.cz/~andrew/EAP/PronunciationPoem.pdf). In the first four sentences, we see the digraph *gh* multiple times, and it isn't read the same in every word. Effectively, English also requires learning how written words sound. Tough is not the same as though, yet both words end in *ough*.
+Bước đầu tiên sẽ giúp bạn chuẩn bị hành trang để ~~bước vào lớp 1~~ bắt đầu tiêu thụ nội dung ngôn ngữ mục tiêu của bạn. Có một số người cho rằng nên bắt đầu thực hành Immersion từ ngày đầu tiên, nhưng cá nhân mình gợi ý bạn nên dành một vài tuần đầu học từ vựng và ngữ pháp cơ bản. Trước hết sẽ có một số hướng dẫn/gợi ý sau đây: 
 
-### Learning basic grammar and vocabulary
+1. Bạn không cần phải ghi nhớ hết toàn bộ tài liệu (resourcce) ngữ pháp mà bạn đang sử dụng để có thể bắt đầu immerse.
+2. Bạn không cần phải hoàn thành bộ thẻ từ vựng trong Anki để bắt đầu immerse, có thể bắt đầu immerse khi bạn cảm thấy bây giờ bạn có thể (Càng sớm càng tốt).
+3. Cách để hiểu ngữ pháp tốt nhất là có ngữ cảnh (bạn sẽ có được ngữ cảnh thông qua Immersion), và bạn vẫn nên học ngữ pháp trước khi bắt đầu Immersion
+4. Phần lớn các hướng dẫn ngữ pháp đều có những lỗi và vấn đề nhất định. Vì vậy, nếu bạn đọc trong một nguồn mà không thấy hiểu, thử chuyển qua các hướng dẫn ngữ pháp khác xem.
 
-This first step is quite important as it will set you up for success once you start consuming a lot of native content. Some people believe you should start immersing from day one, but personally I think it's better to spend your first few weeks learning basic vocabulary and going through a basic grammar guide. But first, a few remarks:
+Vì đây là hướng dẫn chung cho việc học ngoại ngữ nên các hướng dẫn ngữ pháp và bộ thẻ gợi ý sẽ được mình chuyển qua bên trang [Gợi ý tài nguyên học từ vựng và ngữ pháp](resource-recommendations.md)
 
-1.  You do not need to have memorized the entirety of the grammar resource you're using to move on.
-2.  You do not need to have finished your vocabulary deck to start immersing, do so whenever you feel the time is right.
-3.  Grammar is best understood in context, i.e. in immersion, but it is still worth it to learn some grammar before you start, if anything just to know what is out there (priming) .
-4.  Most grammar resources are flawed in some way, so if something doesn't make sense, take a look at other grammar resources to see how they present the point that is causing you trouble.
+### Tiêu thụ nội dung ngôn ngữ mục tiêu
 
-With this out of the way, let's see what grammar resources I recommend. I am currently in the process of writing my own grammar book which will become the main recommendation after it's out, but for now here are a few I like.
+Nếu bạn đã hoàn thành (hoặc gần xong) bộ thẻ từ vựng cơ bản ở ngôn ngữ mục tiêu đồng thời có một lượng hiểu ngữ pháp tương đối, chúc mừng bạn nha. 
 
-The grammar guide I like most is [IMABI](https://www.imabi.org). The author understands Japanese grammar extremely well and you can find a lot of information on the website, even for classical Japanese. My only issue with IMABI is that it is quite comprehensive and extensive, and Seth, the author, believes that the best way to learn Japanese properly is to understand grammar the way linguists understand grammar. While I sympathize with this, I think many beginners will dislike this approach. Still, I suggest you check it out because it actually is worth it. No matter which grammar guide you choose to use (except maybe for IMABI), you will have to follow it up with more grammar anyway.
+Có thể hiện tại bạn đang cảm thấy gần như không hiểu bất kì nội dung nào ở ngoại ngữ mục tiêu của mình. Điều này là hoàn toàn bình thường. Bạn vẫn chưa tiếp thụ được nhiều kiến thức về ngôn ngữ đấy nhưng bạn đã học được tương đối rồi đấy. Bây giờ là lúc bắt đầu hành trình thực sự. Bước này về cơ bản sẽ không bao giờ kết thúc vì càng tiêu thụ nội dung ngôn ngữ mục tiêu thì kĩ năng của bạn sẽ càng trở nên tốt hơn. Phần việc chính của phần này là bạn cần bắt đầu xây dựng một bộ *mining deck* (bộ thẻ mining). Một bộ thẻ mining là một bộ thẻ Anki bạn tự tạo mà khi thông qua các nội dung mà bạn tiêu thụ, bạn sẽ "đào" từ vựng từ câu mà bạn tiếp xúc trong lúc immerse. Việc tạo một bộ thẻ mining là một chủ đề lớn và sẽ được giải thích kĩ hơn ở bài viết [](). Bạn nên bắt đầu nghe ngoại ngữ càng sớm càng tốt. Bạn có thể tìm gợi ý nội dung để tiêu thụ ở trong trang [Tài nguyên](resources.md) thông qua các hướng dẫn của Refold hoặc các trang gợi ý riêng. Tìm nội dung bạn thích, bất kì thứ gì miễn là ở ngôn ngữ mục tiêu của bạn. Ban đầu, khả năng nghe của bạn sẽ kém hơn khả năng đọc rất nhiều. Và nếu có thể, thử đi tìm người bản ngữ để thực hành output (nói, viết) cùng. Sẽ thích hơn rất nhiều và cũng sẽ giúp cho bạn có động lực học.
 
-There are other popular guides out there. The most well-known one is [Tae Kim](https://guidetojapanese.org/learn/category/grammar-guide/basic-grammar/) which we have seen before when we learned what *kana* and *kanji* were. If you decide to go with this one, keep in mind Tae Kim is not a linguist, and he considerably misunderstood what the が particle does. It's a bit of a "quick and dirty" guide, and it is indeed both. Nonetheless, a fine guide to start with and what I personally used when starting out. Other similar guides worth mentioning are [Sakubi](https://sakubi.neocities.org/) (which is similar to Tae Kim) and [BoiroDaisuki](https://boirodaisuki.neocities.org/) (which is based on sentences from visual novels). All three of these have their issues, but they will work as starting guides. If anything, I recommend you use all three at the same time. There is also [Cure Dolly](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj), and while I heavily respect what she tried doing, I don't recommend this playlist for a variety of reasons. Regardless, she has helped many people learn Japanese and I respect her work for that reason, RIP.
+Ở giai đoạn này, có thể bạn sẽ muốn học thêm ngữ pháp nâng cao. Tùy vào ngôn ngữ bạn học mà có thể tìm được các hướng dẫn ngôn ngữ nâng cao. Cách mà cá nhân mình (là tác giả gốc của bài viết - donkuri) học ngữ pháp là:
 
-Regarding vocabulary, the recommended Anki deck is [Kaishi 1.5k](https://github.com/donkuri/Kaishi/releases) which I made (with a few people) to rectify the problems with Tango and Core2.3k. I highly recommend going through a [phonetics deck](https://learnjapanese.moe/kanjiphonetics/) at the same time. Phonetic radicals are the part of kanji that indicate sound and learning them can be very useful to read new, unfamiliar kanji. It is not an exact science most of the time, but it is still worth learning. You can do the phonetics deck before or after Kaishi 1.5k.
+1. Bắt gặp một mẫu ngữ pháp lạ trong lúc đọc.
+2. Tìm kiếm về mẫu ngữ pháp trên mạng. 
+3. Ghi lại mẫu ngữ pháp đấy vào một danh sách riêng của bạn hoặc chỗ nào bạn muốn.
+4. Ôn tập thường xuyên 
 
-### Consuming native content
+Nếu bạn không ngại đọc định nghĩa ở ngôn ngữ mục tiêu của mình (đơn ngữ) thì hãy thử tìm nó bằng chính ngôn ngữ bạn học và học mẫu ngữ pháp đấy thông qua định nghĩa đơn ngữ luôn.
 
-If you're done with Kaishi 1.5k (or well on your way) and you have some grammar under your belt, give yourself a pat on the back. You probably feel like you still don't know any Japanese. That's normal. You haven't really acquired much Japanese yet, but you have learned a good deal. It is now time to start the real journey. This step never technically ends as you will hopefully keep consuming Japanese content as you get better and better at the language. The main aspect of this section is to setup a *mining deck*. A mining deck is an Anki deck you create yourself using Yomitan on content that you read (or potentially watch with subtitles) where you "mine" words from sentences you see in the wild.
+### Output nhiều hơn nữa
 
-Creating a mining deck is a topic that deserves a thorough explanation and this task is undertaken on the [mining page](https://donkuri.github.io/learn-japanese/mining/). I also recommend you start listening to Japanese actively as soon as you can. As said previously, media recommendations can be found on [this page](https://donkuri.github.io/learn-japanese/recs/). Find a medium you like, be it anime, visual novels or Japanese TV and start listening. Do not be surprised if your ability to listen is wildly inferior to your ability to read at first. When reading you have a written support you can look at any time. Kanji provide some meaning and help you read. If possible, try to find native speakers to output with. It's fun and motivating.
+Một khi bạn có mức hiểu tương đối tốt về ngoại ngữ và có thể đọc một cách dễ dàng hơn, đã đến lúc tập speaking với người bản ngữ thường xuyên hơn rồi. Điều này cũng tương tự cho việc tập viết (Không nhất thiết phải viết trên giấy) và có người sửa sai cho bạn. Điều này không có nghĩa là bạn không thể output từ sớm. Nếu bạn có cơ hội output từ sớm, bắt đầu luôn cũng không vấn đề gì, nhưng nhớ là [cần phải Immersion song song](http://learnjapanese.moe/speaking/), bởi **chỉ giỏi đọc là chưa đủ để giỏi viết**, và điều này cũng tương tự với việc nói, **chỉ giỏi nghe là chưa đủ để giỏi nói**. Tuy chưa đủ nhưng chúng là điều kiện cần để bạn có thể giỏi Output, bản thân Output không phải là cách học ngoại ngữ mà Input mới chính là học ngoại ngữ. Về phần này bạn có thể đọc câu trả lời cho câu hỏi [Is it bad if I make a mistake when speaking?](http://learnjapanese.moe/faq/#is-it-bad-if-i-make-a-mistake-when-speaking) và bài viết [Nói Tiếng Anh](https://daihocmo.github.io/tieng-anh/speaking/)
 
-At this stage of the journey, it would be useful to consult some more advanced grammar resources. My favorite one is the [Dictionary of Japanese Grammar](https://djtguide.github.io/grammar/dojgmain.html). The way I would study grammar is by doing the following:
+### Tiếp theo là gì?
 
-1.  Come across a sentence using unfamiliar grammar in your reading.
-2.  Look up the grammar in [this master reference](https://djtguide.github.io/grammar/masterreference.html).
-3.  Note down the grammar item you have encountered in a list somewhere.
-4.  Review it from time to time.
+Làm bất kì điều gì bạn muốn. Thi chứng chỉ ngoại ngữ thử xem nếu bạn muốn, đó là một cột mốc đánh dấu nỗ lực của bản thân. Bạn có thể làm bất kì điều gì bạn muốn với ngôn ngữ mục tiêu. 
 
-Another great idea if you are comfortable with Japanese definitions is to do the NihongoKyoshi anki deck you can find [here](https://learnjapanese.moe/resources/#grammar). Other popular grammar resources can be found on the [resources page](https://donkuri.github.io/learn-japanese/resources/).
+### Danh sách nhiệm vụ
 
-### More talking and writing to Japanese natives
-
-Once you have a good grasp of the language and can read more comfortably, it's a great idea to start speaking with Japanese natives often. Likewise, I recommend you start writing in Japanese (not necessarily physically of course) and have people correct you. This is not to say you cannot start output much earlier. If you have the opportunity to output earlier, do it and try to get corrected as often as possible, because **getting good at reading is not enough to get good at writing**, and likewise **getting good at listening is not enough to get good at speaking**. You need to actually produce (what we call output) and work in the language with others.
-
-### On the topic of writing kanji
-
-Many Japanese learners are surprised to hear that a lot of people do not consider writing kanji physically to be important. In this day and age, most people interact with Japanese online or while speaking, very rarely do they have to write kanji explicitly. If you are interested in learning how to write, I highly recommend reading [this guide](https://animecards.site/writingjapanese/). The best way to learn how to write in my opinion is to follow the Kanken deck found [here](https://Ankiweb.net/shared/info/759825185). This deck will go up to Kanken level 2, which covers all the so-called 常用漢字 *jouyou kanji*, the kanji characters designed as common use by the Japanese Ministry of Education. These kanji characters are usually not the only ones you will see when reading, but knowing how to write all of these is already a tremendous achievement. In a street interview video, YouTuber [That Japanese Man Yuta](https://www.youtube.com/@ThatJapaneseManYuta) interviewed native Japanese people and [many of them forgot how to write certain characters](https://www.youtube.com/watch?v=sJNxPRBvRQg).
-
-### What's next?
-
-Whatever you want. Go take the [JLPT N1](https://www.jlpt.jp/e) if you'd like, it's a nice achievement and you get recognized for your efforts. If you're really motivated and want to learn even more, try to pass the [Kanji Kentei](https://www.kanken.or.jp/). I discuss certifications in [this section](https://donkuri.github.io/learn-japanese/misc/#certifications). You are now free to do whatever you want and enjoy the language in ways you would have never imagined!
-
-### Checklist
-
-Here's a simple checklist of things you should do, in order:
-
-1.  [Learn kana](https://vedxyz.github.io/kana/).
-2.  Finish a [first vocabulary deck](https://github.com/donkuri/Kaishi/releases) and [grammar resource](https://sakubi.neocities.org/).
-3.  [Setup Anki and Yomitan](https://donkuri.github.io/learn-japanese/setup/) properly, including a mining deck.
-4.  Get input and mine from [Japanese content](https://donkuri.github.io/learn-japanese/recs/) and try to get output with natives.
-5.  If desired, learn [how to write kanji](https://animecards.site/writingjapanese/).
+Những thứ bạn cần làm
+1.  Học bảng chữ cái
+2.  Hoàn thành bộ thẻ từ vựng cơ bản và một hướng dẫn ngữ pháp bất kì
+3.  Cài đặt các công cụ cần thiết, xây dựng môi trường học ngoại ngữ.
+4. Tạo một bộ thẻ mining sau khi hoàn thành bộ thẻ từ vựng cơ bản
+5. Nạp thêm thật nhiều Input
+6. Thử Output với người bản ngữ của ngôn ngữ mục tiêu của bạn.
