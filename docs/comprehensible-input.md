@@ -1,5 +1,6 @@
+
 !!! info "Nguồn"
-    Bài viết này là bản dịch và hiệu đính của bài viết [Muốn ra thì phải có vào](https://www.facebook.com/share/14YVVLtZ5D/)
+    Bài viết này là bản dịch và hiệu đính của bài viết [Lý thuyết Input](https://www.facebook.com/share/14YVVLtZ5D/)
 
 
 Bạn có thể xem video này được trình bày bởi chính Stephen Krashen, chủ nhân của giả thuyết này (Input Hypothesis):

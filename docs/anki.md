@@ -1,7 +1,7 @@
 # Tất tần tật về cách sử dụng Anki cơ bản
 
 !!! info "Nguồn"
-Một phần của bài viết này là bản hiệu đính của bài viết [Cách sử dụng Anki (phần mềm học từ vựng hiệu quả)](https://m.facebook.com/nt/screen/?params={"note_id"%3A933213530535027}&path=%2Fnotes%2Fnote%2F) trên Facebook. Bạn không nên đọc theo bài viết được để đường dẫn ở đây do đã quá cũ và không còn đúng với các phiên bản Anki mới.
+    Một phần của bài viết này là bản hiệu đính của bài viết [Cách sử dụng Anki (phần mềm học từ vựng hiệu quả)](https://m.facebook.com/nt/screen/?params={"note_id"%3A933213530535027}&path=%2Fnotes%2Fnote%2F) trên Facebook. Bạn không nên đọc theo bài viết được để đường dẫn ở đây do đã quá cũ và không còn đúng với các phiên bản Anki mới.
 
 ## Tìm hiểu sơ lược về SRS
 
@@ -77,8 +77,8 @@ Khi card hiển thị, bạn phải tự "trả bài" cho mình về nghĩa củ
 Sau khi đọc "Answer", bạn đánh giá độ khó của từ đối với bản thân.
 
 !!! info "Cách chấm điểm đơn giản"
-Bấm "Again" nếu sai hoặc không biết, nếu đúng thì bấm "Good"
-(Nếu bạn mới bắt đầu sử dụng Anki thì có thể học theo kiểu này)
+    Bấm "Again" nếu sai hoặc không biết, nếu đúng thì bấm "Good"
+    (Nếu bạn mới bắt đầu sử dụng Anki thì có thể học theo kiểu này)
 
 Sau khi chọn mức độ khó của từ rồi thì các từ kế tiếp cứ tiếp tục hiện ra và bạn chỉ việc làm theo trình tự như trên cho đến khi hết câu hỏi và đã review lại luôn những từ khó.
 

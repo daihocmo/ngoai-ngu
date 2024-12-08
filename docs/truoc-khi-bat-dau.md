@@ -1,6 +1,7 @@
 ## Trước khi bắt đầu
-!!! info ""
-    Hướng dẫn này được dịch và hiệu đính từ [Before You Start - languageguide](https://sajforbes.nz/languageguide/beforeyoustart/)
+
+!!! info "Nguồn"
+    Hướng dẫn này được trích dẫn một phần, dịch và hiệu đính từ [Before You Start - languageguide](https://sajforbes.nz/languageguide/beforeyoustart/)
 
 ### Sẽ mất bao lâu?
 Điều đầu tiên cần lưu ý là: Sẽ không có Level "Hoàn hảo" và trong việc học ngoại ngữ chỉ có những cột mốc nhất định. Với từng cấp độ thì thời gian cần để đạt được sẽ phụ thuộc vào hai yếu tố chính:
