@@ -57,7 +57,21 @@ Sau khi nhập xong, các bạn có thể thêm tag cho từng thẻ nếu muố
 
 Sau đó bấm Add để lưu thẻ vào trong Deck.
 
-### Lựa chọn kiểu thẻ (Card Type)
+
+### Kiểu thẻ (Card Type) trong Anki
+#### Phân biệt các kiểu thẻ
+Phần này mình trích từ [Anki Manual](https://docs.ankiweb.net/getting-started.html#note-types) - Bạn nên đọc để tìm hiểu thêm. Ở mỗi kiểu thẻ mình sẽ để đường dẫn video trên Youtube (bằng Tiếng Việt) và cách tạo thẻ ở tên các mẫu thẻ.
+
+- [Basic](https://www.youtube.com/watch?v=PLnJ1l6f7mQ): Có các trường "Mặt trước" và "Mặt sau" và sẽ tạo một thẻ. Văn bản bạn nhập vào "Mặt trước" sẽ xuất hiện ở mặt trước của thẻ và văn bản bạn nhập vào "Mặt sau" sẽ xuất hiện ở mặt sau của thẻ.
+- Basic (and reversed card): Giống như "Basic", nhưng tạo ra hai thẻ cho văn bản bạn nhập: **mặt trước → mặt sau** và **mặt sau → mặt trước**.
+- Basic (optional reversed card): Giống như "Basic", nhưng có trường thứ ba gọi là "Add Reverse". Nếu bạn nhập bất kỳ văn bản nào vào trường đó, một thẻ đảo ngược (mặt sau → mặt trước) cũng sẽ được tạo.
+- [Basic (type in the answer)](https://www.youtube.com/watch?v=8NJGekdR9BI) - Về cơ bản, đây là kiểu thẻ "Basic", có thêm một hộp văn bản ở mặt trước, nơi bạn có thể nhập câu trả lời của mình. Khi bạn "Show Answer", Anki sẽ hiển thị cho bạn bất kỳ sự khác biệt nào giữa nội dung bạn nhập và câu trả lời thực tế (Thẻ trả lời câu hỏi).
+- [Cloze](https://www.youtube.com/watch?v=-aSlCY6VeTw&pp=ygURdGjhursgY2xvemUgYW5raSA%3D): Một loại ghi chú cho phép bạn chọn văn bản và biến nó thành một bản xóa cloze (ví dụ: "Con người đã hạ cánh trên mặt trăng vào năm […​]" → "Con người đã hạ cánh trên mặt trăng vào năm 1969"). Để biết chi tiết, hãy xem phần xóa cloze. 
+- Image Occlusion (Hay "Hình ảnh che khuất"): Giống như cloze, nhưng sử dụng hình ảnh thay vì văn bản, đặc biệt hữu ích khi nghiên cứu tài liệu dựa nhiều vào hình ảnh, chẳng hạn như giải phẫu và địa lý.
+
+Bạn cũng có thể tự tạo kiểu thẻ riêng cho mình. Đọc thêm ở Anki Manual để tìm hiểu về cách tự tạo Card Type.
+
+#### Hướng dẫn lựa chọn
 
 | **Danh mục** | **Kiểu thẻ gợi ý** | **Lý do** |
 | --- | --- | --- |
@@ -96,7 +110,15 @@ Sau khi chọn mức độ khó của từ rồi thì các từ kế tiếp cứ
 
 Sau khi ôn tập lại các từ cũ và học xong khối lượng từ mới hàng ngày là hoàn thành một phiên học Anki.
 
+### Một số các hướng dẫn nhanh khác
+
+#### Cách Sync trên Anki
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YkiM4DPzSVc?si=emMHYO5JsIaRrAVA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Tìm hiểu thêm
+
+Bạn có thể học khóa [Anki cơ bản](https://hocanki.com/ii-anki-co-ban/020-anki-co-ban/) (Không biết có phải được làm bởi AnkiVN không, nhưng có khá nhiều bài hướng dẫn miễn phí nên mọi người có thể học)
 
 ### Cài đặt Anki cho các nền tảng khác (MacOS, Linux, Android, iOS)
 
