@@ -13,8 +13,11 @@ Bài viết sẽ tập trung vào việc sử dụng hệ thống lặp lại ng
 1.  Bạn thêm một số từ tiếng Anh vào SRS của mình. Để làm điều này, bạn tạo các **học phần**. Một mục có hai phần: câu hỏi (Q) và câu trả lời (A), ví dụ:
 
 > Front
+>
 > Q: Mẹ của vợ hoặc chồng bạn
+>
 > Back
+>
 > A: mother-in-law
 
 2.  Mỗi ngày, bạn ôn tập thông qua SRS. Phần mềm cung cấp cho bạn một số mục để xem lại (các mục khác nhau mỗi ngày). Ví dụ: nếu bạn đã thêm 50 từ vào SRS của mình, vào Thứ Hai, bạn có thể xem lại 5 từ, vào Thứ Ba - 4 từ khác, v.v.

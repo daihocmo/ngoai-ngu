@@ -1,5 +1,5 @@
-site_name: Tu luyện ngoại ngữ - Khu học mở
-site_description: Phương pháp học mọi ngoại ngữ thông qua Immersion và Comprehensible Input, completely free.
+site_name: Tu luyện ngoại ngữ
+site_description: Phương pháp học (chắc là) mọi ngoại ngữ thông qua Immersion và Comprehensible Input, completely free.
 site_author: duykhanh471
 
 
@@ -13,9 +13,12 @@ nav:
       - 'Đọc ngoại ngữ': doc.md
       - 'Nghe ngoại ngữ': nghe.md
       - 'Input': input.md
-      - 'SRS': srs.md
+  - 'Anki':
+    - 'Tìm hiểu cơ bản về cách học tập và ôn tập': anki.md
+    - 'Một bài viết về SRS': 'srs.md'
+    - 'Hướng dẫn cài đặt và sử dụng cơ bản': 'how-to-anki.md'
+    - 'Tổng hợp mẹo và kĩ thuật sử dụng Anki': 'ki-thuat-anki.md'
   - 'Setup':
-      - 'Anki': anki.md
       - 'Từ điển': dictionary.md
       - 'Các công cụ hỗ trợ cho việc học': cong-cu.md
   - 'Comprehensible Input':
