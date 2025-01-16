@@ -1,5 +1,5 @@
 ## Một số các mẹo và kỹ thuật sử dụng Anki.
-Phần này được dịch và hiệu đính lại từ bài viết []().
+Phần này được dịch và hiệu đính lại từ bài viết [Strategies, Tips, and Tricks for Anki](http://web.archive.org/web/20240324230928/https://senrigan.io/blog/everything-i-know-strategies-tips-and-tricks-for-spaced-repetition-anki/).
 
 ### Việc thêm thẻ vào Anki
 

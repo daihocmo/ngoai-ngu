@@ -110,11 +110,55 @@ Sau khi chọn mức độ khó của từ rồi thì các từ kế tiếp cứ
 
 Sau khi ôn tập lại các từ cũ và học xong khối lượng từ mới hàng ngày là hoàn thành một phiên học Anki.
 
-### Một số các hướng dẫn nhanh khác
+### Thiết lập Anki nâng cao
 
-#### Cách Sync trên Anki
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uLfczzq9z_8?si=cSmr1mhbTosqOdvz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YkiM4DPzSVc?si=emMHYO5JsIaRrAVA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+### Một số mẹo nhanh
+
+Bây giờ bạn đã biết Anki hoạt động như thế nào, tại sao bạn nên sử dụng nó và cách bạn có thể sử dụng nó. Tuy nhiên, có một số mẹo và thủ thuật đặc biệt mà tôi đã học được trong những năm qua khi học với ứng dụng này sẽ giúp ích cho bạn. 
+
+#### Cách tạo thẻ ghi nhớ từ ghi chú giấy nhanh
+
+Sử dụng ứng dụng OCR hoặc Google Lens rồi ném lên máy tính (Với nhà Apple thì dùng AirDrop hoặc với Android và các hệ thống khác thì có thể dùng KDEConnect hoặc gửi qua Messenger hoặc Zalo).
+
+#### Học thuộc phím tắt
+Bạn cũng có thể học thuộc phím tắt trên Anki để giúp cho việc sử dụng được thuận tiện hơn. Một số phím mà cá nhân mình thường dùng:
+
+- 1, 2, 3, 4: Chấm điểm
+- `d` - Về trang chủ của Anki
+- `e` - Sửa lại nội dung thẻ khi đang ôn tập
+- `b` - Truy cập mục `Browse` của Anki
+- `y` - Sync
+- `t` - Xem thống kê của Anki
+- `Ctrl-Shift-A` - Truy cập vào mục Add-ons
+
+Và còn nhiều nữa
+
+### Sử dụng Anki hàng ngày
+Khi bạn đã biết được Anki thực sự hiệu quả, việc còn lại chỉ là sử dụng Anki hàng ngày
+
+Với những người mới bắt đầu tập sử dụng Anki, việc có một thói quen học tập và sự khó khăn trong việc sử dụng Anki là kẻ thù hàng đầu. Việc duy trì thói quen hàng ngày là một điều vô cùng quan trọng trong việc sử dụng Anki.
+
+Đây là một số mẹo có thể giúp bạn xây dựng thói quen sử dụng Anki hàng ngày:
+
+#### 1. Sử dụng Review Heatmap Addon
+
+Bấm để tải [Review Heatmap Addon](https://ankiweb.net/shared/info/1771074083)
+
+![heatmap](img/anki/heatmap1.png)
+
+(Trong màn hình chính của Anki chọn Tools > Add-ons > Get Add-ons và sao chép mã vào trong ô đó (của Review Heatmap là 1771074083)) 
+
+Addon này giúp bạn quan sát được tiến trình học tập của bạn và có thể sẽ tạo động lực học tập cho bạn.
+
+#### 2. Duy trì sự tập trung trong khi ôn tập.
+
+Việc ôn tập Anki sẽ rất chán, vậy nên hãy chuẩn bị và tập trung vào việc hoàn thành Anki hàng ngày.
+
+#### 3. Khởi đầu nhỏ hàng ngày và xây dựng thành một thói quen.
+
+Về cơ bản là cuốn Atomic Habit.
 
 ## Tìm hiểu thêm
 
