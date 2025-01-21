@@ -1,10 +1,10 @@
 Bài viết này là bản dịch của mình cho bài [Why you need to take charge of your English learning](https://www.antimoon.com/how/input-own.htm). Bài viết này được viết dành cho người học ngoại ngữ, và nó cũng có thể áp dụng cho việc học ngoại ngữ nói chung. Mình xin phép được hiệu đính lại bài viết để phù hợp hơn với người đọc.
 
-Trước khi bạn có thể bắt đầu nói và viết bằng ngoại ngữ, bạn phải *học cách diễn đạt mọi thứ bằng ngoại ngữ*. Bạn thực hiện việc này bằng cách lấy [Input](https://www.antimoon.com/how/input-intro.htm) --- đọc và nghe các câu ngoại ngữ chính xác của người khác (lý tưởng nhất là người bản ngữ).
+Trước khi bạn có thể bắt đầu nói và viết bằng ngoại ngữ, bạn phải *học cách diễn đạt mọi thứ bằng ngoại ngữ*. Bạn thực hiện việc này bằng cách nạp [Input](https://www.antimoon.com/how/input-intro.htm) --- đọc và nghe các câu ngoại ngữ chính xác của người khác (lý tưởng nhất là người bản ngữ).
 
 Hầu hết người học ngoại ngữ đều học từ trường lớp hoặc trung tâm. Bài viết này sẽ giả định rằng trường lớp không cho bạn đủ số lượng input đủ để có thể nói một cách thành thạo và mình cần phải tự nạp Input bên ngoài.
 
-### Số lượng input​
+### Số lượng input
 > 1000000 câu ở đây là nói về Tiếng Anh và có thể với các ngôn ngữ khác thì nó sẽ khác nhưng điểm chung của tất cả ngoại ngữ là nạp càng nhiều Input thì bạn càng giỏi
 
 Để nói ngoại ngữ thành thạo, bạn cần rất [nhiều input](https://www.antimoon.com/how/input-howmuch.htm). cần khoảng 1.000.000 câu trong 3 năm - trung bình, 6400 câu mỗi tuần --- để chuyển từ kỹ năng đọc cơ bản và kỹ năng nói/viết rất kém sang thành thạo, tương đương với 60 trang và 6 giờ nghe mỗi tuần.
@@ -22,7 +22,7 @@ Tóm lại, có chưa đến 1/3 thời gian được tiếp xúc các "ngoại 
 
 Thử làm một phép toán nhỏ, một khóa học ngoại ngữ chuyên sâu sẽ cung cấp cho bạn không quá 2 giờ nói và 24 trang viết mỗi tuần. Tức là khoảng 2.000 câu mỗi tuần. Điều này có nghĩa là phải mất 9 năm (liên tục) học các khóa học ngoại ngữ chuyên sâu để có được 1.000.000 câu. (Với các khóa học bình thường, hai lần một tuần, sẽ mất 18 năm).
 
-### Tốc độ nạp Input​
+### Tốc độ nạp Input
 
 9 năm liên tục á? Quá chậm. Không chỉ cần một lượng Input nhiều mà còn cần cả tốc độ của input nữa. Đi bộ 100 mét không giống như chạy 100 mét.
 
@@ -53,7 +53,7 @@ Nếu bạn tự chọn những gì bản thân mình muốn thì còn có:
 -   Nếu input của bạn khiến bạn thấy thích, bạn sẽ tiếp nhận nó nhiều hơn và **dành nhiều thời gian hơn cho nó.** Trên thực tế, một khi bạn đã thưởng thức được tất cả nội dung tuyệt vời mà bạn có thể có được bằng ngoại ngữ, bạn sẽ khó có thể cưỡng lại được đấy!
 -   Điều trên sẽ giúp cho khả năng ghi nhớ mạnh hơn. Khi bạn nhìn thấy hoặc nghe thấy điều gì đó quan trọng với mình, **bạn có thể nhớ được nhiều hơn.** Ví dụ: nếu phải đọc một bài báo nào đó mà giáo viên giao, mình thường muốn đọc cho xong. Nhưng nếu đọc lời một bài hát mà bạn thích. Bạn có nhiều khả năng lặp lại và ghi nhớ chúng - cùng với tất cả ngữ pháp và từ vựng!
 
-### Tính "thực"​
+### Tính thực
 
 Lý do cuối cùng để bắt tay vào công cuộc tự học ngoại ngữ là tính "thực" của nó. Việc học từ chính nội dung dành cho người bản ngữ thực sự quan trọng hơn nhiều so với tài liệu cho người học. Nếu bạn nghe thấy điều gì đó trên podcast hoặc đọc nó trên blog, **bạn biết nó thực sự được sử dụng** ở các nước nói ngoại ngữ mục tiêu của bạn.
 

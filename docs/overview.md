@@ -7,7 +7,7 @@
 
 Trong phần này, tôi muốn thảo luận về sự ngâm mình một cách tổng thể. Một số vấn đề, một số lời khuyên và một số gợi ý nữa.
 
-### Làm cách nào để tôi có thể hình thành thói quen học ngôn ngữ?
+### Làm cách nào để xây dựng thói quen học ngôn ngữ?
 
 Bạn không nên dành nhiều thời gian cho Anki hơn mức cần thiết và hãy dành thời gian còn lại để học ngữ pháp, đọc hoặc nghe. Lý tưởng nhất là hãy tìm những nội dung đọc và nghe khó dần dần và tiếp tục immerse. Chỉ đơn giản vậy thôi. Điều này vừa khiến bạn yên tâm vừa có thể khiến bạn cảm thấy mất động lực: Chỉ có duy nhất một cách đó thôi, và nó thực sự hiệu quả, nhưng cần sự kiên trì hàng ngày. Cách tốt nhất để thiết lập thói quen là xây dựng thói quen nguyên tử, một phương pháp từ cuốn Atomic Habits. Bắt đầu từ những thói quen đơn giản và dần dần xây dựng chúng. Mục tiêu là làm quen với việc sử dụng ngôn ngữ đó như một phần cuộc sống của bản thân, chứ không phải cố học hết kana trong một ngày chỉ để đọc nhanh hơn (nếu làm được thì càng tốt). Hãy đi từng bước môt.
 

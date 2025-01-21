@@ -1,78 +1,103 @@
-# Tìm hiểu về cách học và ôn tập sử dụng Anki
+# Hướng dẫn sử dụng Anki cho việc học ngoại ngữ
 
-## Trước khi bắt đầu
+Anki là phần mềm cho phép bạn học từ vựng thông qua các flashcards. Các flashcards này có thể có sẵn hoặc do bạn tự tạo. Mỗi một bộ chứa các flashcards được gọi là "Deck", mình tạm dịch là Bộ Từ Vựng. 
 
-Trong mục hướng dẫn về Anki này, mình sẽ tập trung hướng dẫn bạn rất nhiều thứ xoay quanh Anki và cách Anki hoạt động (dựa trên hai phương pháp học tập cực xịn, đó là Active Recall hay "Gợi nhớ chủ động" và Spaced Repetition hay "Lặp lại ngắt quãng"), đồng thời, đưa ra những chiến lược giúp bạn học tập và ghi nhớ hiệu quả hơn sử dụng Anki.
+Các bạn nên tự tạo bộ từ vựng riêng cho mình vì mỗi người có nhu cầu học khác nhau cũng như trình độ khác nhau. Mình đã thử vài bộ từ có sẵn và đều không cảm thấy thoải mái vì có bộ thì quá dễ, có bộ lại quá khó.
 
-Mình xin lỗi trước nếu kiến thức trong mục này có vượt quá phạm vi liên quan đến ngoại ngữ, nhưng mình vẫn gợi ý mọi người đọc hết để có thể nâng cao khả năng ghi nhớ và học tập của mình với Anki ở nhiều lĩnh vực khác nhau.
+## Sử dụng Anki cơ bản
 
-Các công nghệ, Addons và các bộ thẻ được làm sẵn sẽ liên tục xuất hiện, nhưng kiến thức nền tảng, cách thức hoạt động của Anki sẽ không bao giờ thay đổi, là một hệ thống SRS tiềm năng giúp bạn ghi nhớ MỌI THỨ tốt hơn.
+### 1. Cách tải xuống, cài đặt và học bộ từ vựng
 
-## Active Recall, Spaced Repetition và Anki
+Bạn có thể tải xuống Anki tại [trang chủ của Anki](https://apps.ankiweb.net/).
 
-Trong bài viết [Augmenting Long-term Memory](http://augmentingcognition.com/ltm.html) thì chú Michael Nielsen có viết: 
+Khi bấm "Download" thì nó sẽ tự chuyển xuống mục Tải xuống ở cuối trang
 
-> "The single biggest change that Anki brings about is that it means memory is no longer a haphazard event, to be left to chance. Rather, it guarantees I will remember something, with minimal effort. That is, Anki makes memory a choice." 
+![alt text](img/anki/download-page.png)
 
-(Dịch qua: Sự thay đổi lớn nhất mà Anki mang lại là trí nhớ không còn là một sự kiện ngẫu nhiên, để mặc cho sự may rủi. Thay vào đó, Anki sẽ đảm bảo rằng tôi nhớ được điều gì đó, với nỗ lực tối thiểu. Vậy đấy, Anki khiến việc ghi nhớ trở thành một lựa chọn)
+Sau khi tải xuống hoàn tất, bạn nhấp đúp chuột vào tệp cài đặt của phần mềm, bấm Next liên tục là xong (Nếu bạn sử dụng Windows).
 
-Việc hiểu được nguyên lý hoạt động của việc học tập và ghi nhớ trên Anki thực sự rất quan trọng. Rất nhiều người đã từ bỏ sử dụng Anki chỉ sau một thời gian ngắn. 
+Sau khi cài đặt xong bạn sẽ thấy biểu tượng Anki hiện trên Desktop. Khi mở ứng dụng lần đầu tiên bạn sẽ được yêu cầu chọn ngôn ngữ, bạn có thể để mặc định là **English**.
 
-> T cũng học bằng Anki được gần 2 năm, t thì mới tốt nghiệp YHN, thực sự Anki giúp t rất nhiều trong việc ôn thi. Cộng đồng học Y sử dụng Anki trên thế giới đông khủng khiếp. Vấn đề ko nằm ở cách sử dụng, hay các add-on; t thấy hãy quên nó đi, quan trọng là cách bạn đặt câu hỏi và câu trả lời; quan trọng hơn nữa là cách bạn review lại kiến thức. Khi t review lại bài, t luôn luôn cầm theo quyển vở nháp, và viết đáp án ra giấy (hoặc câu nào dễ quá thì cũng phải nói ra mồm); thay vì bấm hiện đáp án ngay, hãy cố gắng recall lại kiến thức trong đầu và viết nó ra. (Trích từ [một bình luận trên bài viết Tròn 1 năm sử dụng Anki Flashcards để nhớ mọi thứ và một số ghi chú](https://spiderum.com/bai-dang/Tron-1-nam-su-dung-Anki-de-nho-moi-thu-va-mot-so-ghi-chu-8pz))
+![alt text](img/anki/main-screen1.png)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UDUITtA1jJI?si=TtNtGTxd7vUO1GuA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Để tự tạo bộ từ vựng cho mình, bạn chọn **Create Deck**. 
 
-### Bàn về Anki, lặp lại ngắt quãng (spaced repetition) và active recall
+Nếu muốn sử dụng các bộ từ vựng có sẵn, bạn chọn **Get Shared** (Nếu bạn chọn **Get Shared** thì Anki sẽ tự động mở trình duyệt và chuyển đến kho các bộ thẻ đã được làm sẵn bởi các người dùng khác).
 
-Anki là một ứng dụng học flashcard được Damien Elmes phát hành lần đầu tiên vào năm 2006. Chương này sẽ thảo luận về lý do tại sao Anki là ứng dụng học flashcard tốt nhất. Chúng ta sẽ thảo luận về tất cả những lợi ích mà Anki sẽ mang lại và tại sao Anki sẽ giúp bạn học tập và ghi nhớ hiệu quả hơn.
+### 2. Tạo bộ thẻ, tạo thẻ và Import bộ thẻ khác.
 
-Rất nhiều các nghiên cứu đã chỉ ra sự hiệu quả của việc sử dụng Flashcard. Với Active Recall và lặp lại ngắt quãng, việc sử dụng Flashcard trong các phần mềm SRS (Ở đây là Anki) đã khiến cho việc ghi nhớ trở thành một lựa chọn (Anki makes memory a choice).
+#### Tạo thẻ học
 
-#### Active Recall
+Trước khi tạo thẻ học bạn cần có một bộ Deck để lưu trữ các thẻ bạn tạo. Để tạo deck, bạn chỉ cần chọn **Create Deck** và nhập tên bộ thẻ bạn muốn tạo, bấm Ok là xong
 
-Active Recall (Dịch nôm na sang Tiếng Việt là "Nhớ lại một cách chủ động") là một trong hai kỹ thuật quan trọng nhất mà Anki sử dụng. Active Recall có nghĩa là khi bạn nhìn thấy một thẻ ghi nhớ, bạn phải **chủ động** tìm kiếm câu trả lời trong trí nhớ của mình. Đó là vì mỗi một thẻ ghi nhớ là một cặp câu hỏi và câu trả lời. Để trả lời câu hỏi trong mỗi thẻ ghi nhớ, bạn phải hiểu câu hỏi trước đã. Phải hiểu câu hỏi trước thì bạn mới có thể trả lời được. 
+![alt text](img/anki/create-deck.png)
 
-Việc hiểu được câu hỏi và tìm ra câu trả lời sẽ khiến bạn cần phải suy nghĩ khá nhiều. Nghe có vẻ đơn giản nhưng việc này hoàn toàn trái ngược với cách học truyền thống. Theo cách học truyền thống, bạn học bằng cách đọc một văn bản. Khi bạn đọc xong, khả năng cao là bạn sẽ không nhớ gì cả. Cách duy nhất để thực sự nhớ được nội dung là tự hỏi bản thân những câu hỏi về những gì đã được dạy. Việc tạo thẻ ghi nhớ từ những câu hỏi này chính là cách để bạn học được nhiều nhất. 
+Khi bấm **Add** thì sẽ hiện lên một cửa sổ:
 
-Nhiều nghiên cứu cũng đã chỉ ra rằng Active Recall thực sự có hiệu quả. Ví dụ, trong một cuộc nghiên cứu (không rõ nguồn), những học sinh học bằng phương pháp Active Recall có kết quả học tập tốt hơn đáng kể so với những học sinh sử dụng các kỹ thuật học thụ động, chẳng hạn như đọc lại ghi chú của họ.
+![alt text](img/anki/addcard.png)
 
-#### SRS - Hệ thống lặp lại ngắt quãng
+Ở góc trên bên trái màn hình sẽ hiện chữ **Type**, đó là kiểu thẻ của thẻ bạn muốn tạo và góc trên bên phải màn hình là **Deck**, là bộ thẻ mà bạn sẽ lưu thẻ này vào.
 
-Trong bài viết về SRS của Antimoon, Tom có viết rằng:
+Ở đây Type sẽ được đặt là **Basic** và sẽ chỉ hiện 2 trường (Field) là Front và Back, nội dung nhập vào Front sẽ hiện ở mặt trước của thẻ và Back sẽ hiện ở mặt sau của thẻ.
 
-> Ưu điểm cực lớn từ SRS là thay vì mỗi lần ôn lại tất cả từ vựng (như một số các phương pháp truyền thống như ghi chép, chép lại từ mới .v.v), bạn chỉ ôn lại một phần nhỏ trong số đó vì phần mềm lặp lại ngắt quãng biết từ nào bạn nhớ rõ và từ nào bạn nhớ kém nên nó sẽ giúp bạn không lãng phí thời gian vào những điều đã được biết rõ. Chỉ cần ôn lại những điều bạn thực sự cần ôn lại - những thứ có nguy cơ bị quên.
->
-> Kết quả khá ấn tượng: Bạn có thể ghi nhớ hàng nghìn từ và cụm từ dù chỉ cần 10 phút mỗi ngày để ôn tập. Nó giống như gắn thêm một ổ cứng vào đầu vậy.
+Bấm vào **Add** để thêm thẻ mới
 
-_Trích từ bài viết [Introduction to SRS](https://www.antimoon.com/how/srs-intro.htm) được viết bởi Tom trên Antimoon. [Bản dịch Tiếng Việt của bài viết](srs.md)_
+Điền thông tin vào thẻ. 1 thẻ ghi nhớ thường bao gồm 2 mặt:
 
-Mô hình bộ nhớ trong phần mềm lặp lại ngắt quãng dựa trên nghiên cứu khoa học về trí nhớ con người. **Ký ức trở nên mạnh mẽ hơn sau mỗi lần ôn lại**. Ví dụ: sau khi bạn học một từ mới, bạn có thể nhớ nó trong 2 ngày (với xác suất là 90%). Nếu bạn xem lại nó sau 2 ngày, bạn sẽ nhớ nó thêm 5 ngày nữa. Nếu bạn xem lại sau 5 ngày đó, bạn sẽ nhớ nó thêm 10 ngày nữa. Sau đó, thêm 20 ngày nữa. Và như thế. Thời gian giữa các lần ôn tập ngày càng dài hơn.
+- Front: Mặt trước của thẻ: đây là ghi nội dung truyền tải của nội cần học/ghi nhớ.
+- Back: Mặt ghi câu trả lời của mặt trước.
 
-Anki là sự kết hợp của Active Recall (Ôn tập chủ động) và Spaced Repetition (Lặp lại ngắt quãng), giúp xây dựng một quá trình học tập cực kỳ hiệu quả. Đồng thời, giảm đáng kể thời gian bạn cần dành cho việc học và tăng đáng kể lượng kiến ​​thức bạn biết nếu bạn dành cùng một lượng thời gian học như trước khi sử dụng các kỹ thuật này.
+Mỗi một thẻ từ vựng sẽ có hai mặt là mặt trước (Front) và mặt sau (Back)
 
-#### Chọn khoảng thời gian phù hợp
+Trong Anki sẽ có các Card Type (Hay "kiểu thẻ"), mỗi một kiểu thẻ sẽ bao gồm những Field khác nhau để bạn điền. Phần tiếp theo chúng ta sẽ nói thêm về các kiểu thẻ khác nhau. Ở phần này, chúng ta sẽ chỉ sử dụng kiểu thẻ Basic.
 
-Sẽ có những lựa chọn ôn tập sau:
+Sau khi nhập xong, các bạn có thể thêm tag cho từng thẻ nếu muốn. VD: khi xong thẻ và bạn muốn đánh dấu đây là thẻ về danh từ, có thể ghi **Danh từ**, **Từ chỉ cảm xúc** vào phần Tags để sau này có thể chọn ôn theo từng tag
 
-- Lựa chọn ôn tập 1 - Học nhồi nhét trước kỳ thi: Ngày 26, 27, 28, 29, 30, 31 tháng 12.
-- Lựa chọn ôn tập 2 - Thủ khoa Ivy League không bao giờ trì hoãn: Ôn tập vào ngày đầu tiên mỗi tháng - ngày 1 tháng 1, ngày 1 tháng 2, ngày 1 tháng 3, ngày 1 tháng 4, v.v.
-- Lựa chọn ôn tập 3 - Lặp lại cách quãng: Ngày 1 tháng 1, ngày 3 tháng 1, ngày 20 tháng 1, ngày 28 tháng 2, ngày 15 tháng 4, ngày 30 tháng 9.
+Sau đó bấm Add để lưu thẻ vào trong Deck.
 
-Lựa chọn ôn tập 3 (Lặp lại cách quãng) giúp bạn có khả năng ghi nhớ dài hạn cao nhất. Lý do cho điều này:
+### Sử dụng các bộ thẻ được làm sẵn (premade decks)
 
-- Việc nhồi nhét chỉ giúp bạn đưa kiến thức vào bộ nhớ ngắn hạn và sẽ bốc hơi ra khỏi đầu bạn nhanh thôi.
-- Lựa chọn số 2: Mỗi lần ôn tập là phải ôn tập toàn bộ nội dung.
-- Bộ não của chúng ta hoạt động tốt nhất thông qua các lần ôn tập ngắt quãng. Bởi:
+Bộ thẻ được tạo sẵn giúp giảm thời gian tạo thẻ để học. Có nhiều bộ thẻ được tạo sẵn cho các chủ đề khác nhau. Bạn có thể tải trên trang [Shared Decks của Anki](https://ankiweb.net/shared/decks/).
 
-> "Mô hình bộ nhớ trong phần mềm lặp lại ngắt quãng dựa trên nghiên cứu khoa học về trí nhớ con người. Ký ức sẽ trở nên mạnh mẽ hơn sau mỗi lần ôn lại [...] Vì thời gian giữa các lần lặp lại dài hơn nên khối lượng công việc của bạn (số lần lặp lại hàng ngày) ngày càng giảm. Bạn sử dụng SRS càng lâu thì càng mất ít thời gian để ghi nhớ một nhóm từ trong bộ nhớ".
+Tìm trên tranh tìm kiếm hoặc chọn các chủ đề ở trang Shared Decks, sau đó tìm trong danh sách bộ thẻ được chia sẻ cho đến khi bạn tìm thấy tiêu đề bộ thẻ mà bạn muốn sử dụng. Bạn cũng có thể bấm vào một bộ thẻ bất kì và xem một số thẻ ví dụ. 
 
-Hệ thống lặp lại ngắt quãng thực sự hiệu quả. Để tìm hiểu thêm, bạn có thể đọc thêm [Tìm hiểu cơ bản về SRS](srs.md).
+Sau khi đã chọn được một bộ thẻ, kéo xuống để tìm nút tải xuống màu xanh và bấm vào đó để tải bộ thẻ về. Sau khi tải xong, mở Anki và bấm vào "Import File" ở dưới màn hình chính để thêm bộ thẻ vào kho thẻ của bạn.
 
-### Tham khảo
+### Các phiên học
 
-Danh sách bài viết được tham khảo từ nhiều nguồn khác nhau:
+Sau khi tạo bộ thẻ và thêm các thẻ từ vựng (Hoặc bạn đã **Import** bộ thẻ bạn đã tải xuống trên mạng về), chúng ta có thể bắt đầu ôn tập. Bạn bấm vào bộ thẻ bạn cần học
 
-- [Guide to Anki](https://docs.google.com/document/d/1HiO1Fm3RLOmZiL0tsTXndY4TmzMiZFMQeENx5uCXVE0/edit?tab=t.0#heading=h.gjdgxs)
-- [Senrigan - Blog](http://web.archive.org/web/20240324210344/https://senrigan.io/blog/)
-- [Studying - Anki Manual](https://docs.ankiweb.net/studying.html)
-- [How to learn with Anki](https://a-tiny-improvement.notion.site/How-to-learn-with-Anki-8ce072133ae24b4b9d64c84a7f20b796)
+Bấm **Study Now** để bắt đầu.
+
+Khi card hiển thị, bạn phải tự "trả bài" cho mình về nghĩa của từ, loại từ, thường dùng trong ngữ cảnh nào, các từ liên quan hoặc word families của nó. Sau khi tự "trả bài" xong, bạn click vào "Show Answer" để xem nghĩa của từ.
+
+Sau khi đọc "Answer", bạn đánh giá độ khó của từ đối với bản thân.
+
+!!! info "Cách chấm điểm đơn giản"
+    Bấm "Again" nếu sai hoặc không biết, nếu đúng thì bấm "Good"
+    (Nếu bạn mới bắt đầu sử dụng Anki thì có thể học theo kiểu này)
+
+Sau khi chọn mức độ khó của từ rồi thì các từ kế tiếp cứ tiếp tục hiện ra và bạn chỉ việc làm theo trình tự như trên cho đến khi hết câu hỏi và đã review lại luôn những từ khó.
+
+Sau khi ôn tập lại các từ cũ và học xong khối lượng từ mới hàng ngày là hoàn thành một phiên học Anki.
+
+### Một số các hướng dẫn nhanh khác
+
+## Tìm hiểu thêm
+
+Bạn có thể học khóa [Anki cơ bản](https://hocanki.com/ii-anki-co-ban/020-anki-co-ban/) (Không biết có phải được làm bởi AnkiVN không, nhưng có khá nhiều bài hướng dẫn miễn phí nên mọi người có thể học)
+
+### Cài đặt Anki cho các nền tảng khác (MacOS, Linux, Android, iOS)
+
+- [Hướng dẫn học tiếng Anh qua Flashcard trên AnkiDroid chi tiết](https://www.thegioididong.com/game-app/huong-dan-hoc-tieng-anh-qua-flashcard-tren-ankidroid-chi-tiet-1378805)
+
+### Video
+
+- [Một video hướng dẫn nhanh cách sử dụng, học, thêm thẻ và tối ưu quá trình học trong Anki](https://www.youtube.com/watch?v=Om_1NECh8sQ) - Video nhà làm
+- [Video hướng dẫn của Đat Nguyễn trên Youtube](https://youtu.be/M9-qwsHyBrc)
+
+### Bài viết
+
+- [Cách mình học 500 từ mỗi ngày và tăng từ 7+ lên 9+ điểm thi tiếng anh THPTQG trong khoảng 2 tháng](https://spiderum.com/bai-dang/Cach-minh-hoc-500-tu-moi-ngay-va-tang-tu-7-len-9-diem-thi-tieng-anh-THPTQG-trong-khoang-2-thang-k8Pd390eNrS3)
+- [Cảm nhận sử dụng của một người dùng trên Spiderum](https://spiderum.com/bai-dang/Tron-1-nam-su-dung-Anki-de-nho-moi-thu-va-mot-so-ghi-chu-8pz)
+

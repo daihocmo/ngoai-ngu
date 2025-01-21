@@ -2,39 +2,32 @@ site_name: Tu luyện ngoại ngữ
 site_description: Phương pháp học (chắc là) mọi ngoại ngữ thông qua Immersion và Comprehensible Input, completely free.
 site_author: duykhanh471
 
-
 nav:
-  - 'Định hướng':
-      - 'Trang chủ': 'index.md'
-      - 'Tại sao cần tự học?': can-tu-hoc.md
-      - 'Trước khi bắt đầu học ngoại ngữ': 'truoc-khi-bat-dau.md'
-  - 'Hướng dẫn':
-      - 'Hướng dẫn tự hoc': guide.md
+  - 'Chuẩn bị hành trang':
+      - 'Điểm khởi đầu': 'index.md'
+      - 'Tại sao cần tự học ngoại ngữ?': 'phai-tu-hoc.md'
+      - 'Trước khi bắt đầu học': 'truoc-khi-bat-dau.md'
+  - 'Hướng dẫn học chính':
+      - 'Bắt đầu học': 'guide.md'
+      - 'Đầu vào dễ hiểu': 'input.md'
       - 'Nghe': nghe.md
       - 'Đọc': doc.md
       - 'Nói': noi.md
       - 'Viết': viet.md
-  - 'Anki':
-    - 'Tìm hiểu cơ bản về cách học tập và ôn tập Anki': anki.md
-    - 'Một bài viết về SRS': 'srs.md'
-    - 'Hướng dẫn cài đặt & sử dụng': 'how-to-anki.md'
-    - 'Mẹo và kĩ thuật sử dụng': 'ki-thuat-anki.md'
-    - '20 quy tắc xây dựng kiến thức': '20rules.md'
-  - 'Thiết lập':
-      - 'Từ điển': dictionary.md
-      - 'Các công cụ hỗ trợ cho việc học': cong-cu.md
-  - 'Đầu vào dễ hiểu':
-      - 'Tìm hiểu chung': 'comprehensible-input.md'
-      - 'Input': input.md
-  - 'Immersion':
-      - 'Tổng quan': overview.md
+      - 'Hướng dẫn đơn ngữ': 'huong-dan-don-ngu.md'
+  - 'Setup':
+      - 'Anki': 'anki.md'
+      - 'Yomitan': 'yomitan.md'
+      - 'Goldendict': 'goldendict.md'
+      - 'Hướng dẫn Mining': 'mining.md'
+      - 'Xây dựng môi trường ngoại ngữ cho riêng mình': setup.md
+  - 'Câu hỏi thường gặp': faq.md
+  - 'Hướng dẫn khác':
+      - 'Tổng quan về Immersion': overview.md
       - 'Sentence Mining': sentence-mining.md
-  - 'Một số chủ đề khác':
-      - 'Timeboxing': timeboxing.md
       - 'Language Domain': language-domain.md
-  - 'Tài nguyên tự học':
+  - 'Tài nguyên học & Gợi ý':
       - 'Tài nguyên': 'resources.md'
-      - 'Từ vựng & Ngữ pháp': 'resource-recommendations.md'
  
 theme:
   palette:

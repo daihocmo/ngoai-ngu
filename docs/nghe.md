@@ -1,6 +1,4 @@
-!!! info "Nguồn bài viết"
-    Bài viết này được lấy nguồn từ bài [](https://voz.vn/t/cach-luyen-nghe-tieng-anh-thu-đong-va-chu-đong-ban-can-phai-biet.503011/) trên diễn đàn Voz và mình đã chỉnh sửa + hiệu đính lại để phù hợp hơn với việc học ngoại ngữ chung.
-
+# Nghe ngoại ngữ
 Có hai loại nghe là **Nghe thụ động** và **nghe chủ động**.
 
 ### Nghe thụ động là gì?
@@ -32,3 +30,7 @@ Não bạn biết chắc rằng điều gì quan trọng và cần được ghi 
 4. Chọn từ mới và ném vào Anki để đưa từ vào bộ nhớ dài hạn.
 
 
+
+### Nguồn bài viết
+
+Bài viết này được lấy nguồn từ bài [Cách luyện nghe thụ động và chủ động](https://voz.vn/t/cach-luyen-nghe-tieng-anh-thu-đong-va-chu-đong-ban-can-phai-biet.503011/) trên diễn đàn Voz và mình đã chỉnh sửa + hiệu đính lại để phù hợp hơn với việc học ngoại ngữ chung.

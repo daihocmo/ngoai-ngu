@@ -51,7 +51,7 @@ Ví dụ: sau các chương trình truyền hình về cuộc sống, bạn có 
 
 ## Mở rộng
 
-Sự thành thạo trong một vùng ngôn ngữ cụ thể không nhất thiết đồng nghĩa với sự thành thạo trong một vùng ngôn ngữ khác. Ví dụ, hiểu phim hoạt hình bằng ngôn ngữ mục tiêu của bạn đòi hỏi từ vựng khác với hiểu văn học cổ điển. Để có được kiến ​​thức chuyên môn trong từng vùng ngôn ngữ mà bạn muốn tiếp thu, bạn sẽ phải thực sự đẩy mình vào vùng ngôn ngữ đó.
+Sự thành thạo trong một vùng ngôn ngữ cụ thể không nhất thiết đồng nghĩa với sự thành thạo trong một vùng ngôn ngữ khác. Ví dụ, hiểu phim hoạt hình bằng ngôn ngữ mục tiêu của bạn đòi hỏi từ vựng khác với hiểu văn học cổ điển. Để có được kiến thức chuyên môn trong từng vùng ngôn ngữ mà bạn muốn tiếp thu, bạn sẽ phải thực sự đẩy mình vào vùng ngôn ngữ đó.
 
 Sau khi bạn hiểu được các chương trình truyền hình hoặc phim hoạt hình về cuộc sống hàng ngày, hãy chuyển sang các vùng ngôn ngữ tương tự. Từ vựng được sử dụng trong các vùng ngôn ngữ liên quan chồng chéo lên nhau. Việc sử dụng một vùng tương tự đảm bảo rằng bạn sẽ không phải bắt đầu lại từ đầu khi chuyển sang vùng đó. Sự trùng lặp giữa vùng mới và vùng bạn đã thành thạo càng lớn thì việc làm chủ vùng mới càng đơn giản hơn. Khi bạn trở nên thành thạo trong nhiều vùng ngôn ngữ hơn, việc thử các vùng ngôn ngữ mới sẽ trở nên dễ dàng hơn vì có một bộ ngôn ngữ chung lớn hơn giữa những gì bạn đã học và những gì bạn sắp học.
 

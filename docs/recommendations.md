@@ -1,1 +1,0 @@
-Danh mục đề xuất sẽ tập trung vào gợi ý thêm các nguồn đọc và tài nguyên xoay quanh các phương pháp học ngoại ngữ được kể trên

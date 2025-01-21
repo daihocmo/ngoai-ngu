@@ -1,9 +1,7 @@
 # Hướng dẫn tự học mọi ngoại ngữ
 
-!!! info "Nguồn"
-    Hướng dẫn này được tổng hợp, dịch và hiệu đính lại từ: [Main Guide](https://donkuri.github.io/learn-japanese/guide/) được viết bởi Donkuri và [languageguide](https://sajforbes.nz/languageguide/)
-
 ## Chuẩn bị học
+
 ### Cần dành bao nhiêu thời gian
 Để đạt được trình độ cao trong một ngoại ngữ bất kì cần **rất nhiều thời gian**.
 
@@ -22,7 +20,7 @@ Trong lộ trình này, phần bạn sẽ dành nhiều thời gian nhất chín
 4. Tiêu thụ nội dung ngôn ngữ mục tiêu + Output.
 5. Thực hành Output nhiều hơn nữa và tập viết.
 
-Mình sẽ để một Flowchart ở phần này để bạn có thể theo để học ngoại ngữ. Ở mỗi giai đoạn, mình sẽ giải thích tương đối về những nhiệm vụ mà bạn cần thực hiện (Tất nhiên, tùy vào từng ngôn ngữ sẽ lại nảy sinh ra thêm nhiệm vụ mới, ví dụ như học Tiếng Trung thì bạn sẽ cần học một số lượng lớn Hán Tự). Phần hướng dẫn này sẽ tương đối ngắn và chỉ bao gồm những phần chính trong quá trình học ngoại ngữ thông qua Immersion. Nếu bạn cảm thấy chưa đủ và muốn đọc thêm để hiểu hơn về phương pháp học ngoại ngữ, bạn có thể đọc thêm các bài viết trên trang hoặc ghé trang [Hướng dẫn đề xuất](recommendations.md) để đọc thêm các hướng dẫn tương tự được viết bằng Tiếng Anh (Chắc chắn tốt hơn phần mình viết hoặc dịch lại nên nếu bạn có thể đọc Tiếng Anh đừng ngại qua đọc thêm nha). 
+Mình sẽ để một Flowchart ở phần này để bạn có thể theo để học ngoại ngữ. Ở mỗi giai đoạn, mình sẽ giải thích tương đối về những nhiệm vụ mà bạn cần thực hiện (Tất nhiên, tùy vào từng ngôn ngữ sẽ lại nảy sinh ra thêm nhiệm vụ mới, ví dụ như học Tiếng Trung thì bạn sẽ cần học một số lượng lớn Hán Tự). Phần hướng dẫn này sẽ tương đối ngắn và chỉ bao gồm những phần chính trong quá trình học ngoại ngữ thông qua Immersion. Nếu bạn cảm thấy chưa đủ và muốn đọc thêm để hiểu hơn về phương pháp học ngoại ngữ, bạn có thể đọc thêm các bài viết trên trang.
 
 ![roadmap](img/flowchart_ngoai_ngu.png)
 
@@ -36,14 +34,14 @@ Cách bắt đầu thì đơn giản là làm thao tác tìm kiếm trên Google
 
 Phần hướng dẫn cài đặt sẽ được chuyển qua các bài hướng dẫn riêng cho từng phần. Về cơ bản, bạn sẽ cần có một ứng dụng hỗ trợ hệ thống lặp lại ngắt quãng (spaced-repetition system) là Anki và một số các ứng dụng từ điển trên máy tính bao gồm Yomitan (Tiện ích trình duyệt) và Goldendict (Ứng dụng xem từ điển trên máy tính). Bạn sẽ học (ôn tập) từ vựng trên Anki thông qua những bộ deck, là một bộ thẻ ghi nhớ (flashcards) giúp bạn đưa thông tin (từ vựng, ngữ pháp .v.v.) vào bộ nhớ dài hạn.
 
-Trước đó bạn nên hiểu một cách cơ bản về SRS hay hệ thống lặp lại ngắt quãng, bạn có thể đọc [Hệ thống lặp lại ngắt quãng](srs.md) để tìm hiểu thêm.
+Bạn cần cài đặt những phần mềm sau (Bấm vào tên phần mềm để đọc hướng dẫn cách cài đặt):
 
-Hướng dẫn cài đặt cho từng phần một:
+- [Anki](anki.md)
+- [Yomitan](yomitan.md)
+- [Goldendict](goldendict.md)
 
-- [Hướng dẫn cài đặt và sử dụng Anki cơ bản](anki.md)
-- [Hướng dẫn cài đặt Yomitan](https://daihocmo.github.io/tieng-anh/yomitan/)
-- [Hướng dẫn cài đặt Goldendict](https://daihocmo.github.io/tieng-anh/goldendict/)
-- [Hướng dẫn Mining và chuẩn bị cài đặt cho Immersion](https://daihocmo.github.io/tieng-anh/setup/) 
+
+Để  [Hướng dẫn Mining và chuẩn bị cài đặt cho Immersion](https://daihocmo.github.io/tieng-anh/setup/) 
 
 Tham khảo thêm:
 
@@ -59,13 +57,13 @@ Bước đầu tiên sẽ giúp bạn chuẩn bị hành trang để ~~bước v
 3. Cách để hiểu ngữ pháp tốt nhất là có ngữ cảnh (bạn sẽ có được ngữ cảnh thông qua Immersion), và bạn vẫn nên học ngữ pháp trước khi bắt đầu Immersion
 4. Phần lớn các hướng dẫn ngữ pháp đều có những lỗi và vấn đề nhất định. Vì vậy, nếu bạn đọc trong một nguồn mà không thấy hiểu, thử chuyển qua các hướng dẫn ngữ pháp khác xem.
 
-Vì đây là hướng dẫn chung cho việc học ngoại ngữ nên các hướng dẫn ngữ pháp và bộ thẻ gợi ý sẽ được mình chuyển qua bên trang [Gợi ý tài nguyên học từ vựng và ngữ pháp](resource-recommendations.md)
+Vì đây là hướng dẫn chung cho việc học ngoại ngữ nên các hướng dẫn ngữ pháp và bộ thẻ gợi ý sẽ được mình chuyển qua bên trang [Gợi ý tài nguyên học từ vựng và ngữ pháp](resources.md)
 
 ### Tiêu thụ nội dung ngôn ngữ mục tiêu
 
 Nếu bạn đã hoàn thành (hoặc gần xong) bộ thẻ từ vựng cơ bản ở ngôn ngữ mục tiêu đồng thời có một lượng hiểu ngữ pháp tương đối, chúc mừng bạn nha. 
 
-Có thể hiện tại bạn đang cảm thấy gần như không hiểu bất kì nội dung nào ở ngoại ngữ mục tiêu của mình. Điều này là hoàn toàn bình thường. Bạn vẫn chưa tiếp thụ được nhiều kiến thức về ngôn ngữ đấy nhưng bạn đã học được tương đối rồi đấy. Bây giờ là lúc bắt đầu hành trình thực sự. Bước này về cơ bản sẽ không bao giờ kết thúc vì càng tiêu thụ nội dung ngôn ngữ mục tiêu thì kĩ năng của bạn sẽ càng trở nên tốt hơn. Phần việc chính của phần này là bạn cần bắt đầu xây dựng một bộ *mining deck* (bộ thẻ mining). Một bộ thẻ mining là một bộ thẻ Anki bạn tự tạo mà khi thông qua các nội dung mà bạn tiêu thụ, bạn sẽ "đào" từ vựng từ câu mà bạn tiếp xúc trong lúc immerse. Việc tạo một bộ thẻ mining là một chủ đề lớn và sẽ được giải thích kĩ hơn ở bài viết [](). Bạn nên bắt đầu nghe ngoại ngữ càng sớm càng tốt. Bạn có thể tìm gợi ý nội dung để tiêu thụ ở trong trang [Tài nguyên](resources.md) thông qua các hướng dẫn của Refold hoặc các trang gợi ý riêng. Tìm nội dung bạn thích, bất kì thứ gì miễn là ở ngôn ngữ mục tiêu của bạn. Ban đầu, khả năng nghe của bạn sẽ kém hơn khả năng đọc rất nhiều. Và nếu có thể, thử đi tìm người bản ngữ để thực hành output (nói, viết) cùng. Sẽ thích hơn rất nhiều và cũng sẽ giúp cho bạn có động lực học.
+Có thể hiện tại bạn đang cảm thấy gần như không hiểu bất kì nội dung nào ở ngoại ngữ mục tiêu của mình. Điều này là hoàn toàn bình thường. Bạn vẫn chưa tiếp thụ được nhiều kiến thức về ngôn ngữ đấy nhưng bạn đã học được tương đối rồi đấy. Bây giờ là lúc bắt đầu hành trình thực sự. Bước này về cơ bản sẽ không bao giờ kết thúc vì càng tiêu thụ nội dung ngôn ngữ mục tiêu thì kĩ năng của bạn sẽ càng trở nên tốt hơn. Phần việc chính của phần này là bạn cần bắt đầu xây dựng một bộ *mining deck* (bộ thẻ mining). Một bộ thẻ mining là một bộ thẻ Anki bạn tự tạo mà khi thông qua các nội dung mà bạn tiêu thụ, bạn sẽ "đào" từ vựng từ câu mà bạn tiếp xúc trong lúc immerse. Việc tạo một bộ thẻ mining là một chủ đề lớn và sẽ được giải thích kĩ hơn ở bài viết [Mining](mining.md). Bạn nên bắt đầu nghe ngoại ngữ càng sớm càng tốt. Bạn có thể tìm gợi ý nội dung để tiêu thụ ở trong trang [Tài nguyên](resources.md) thông qua các hướng dẫn của Refold hoặc các trang gợi ý riêng. Tìm nội dung bạn thích, bất kì thứ gì miễn là ở ngôn ngữ mục tiêu của bạn. Ban đầu, khả năng nghe của bạn sẽ kém hơn khả năng đọc rất nhiều. Và nếu có thể, thử đi tìm người bản ngữ để thực hành output (nói, viết) cùng. Sẽ thích hơn rất nhiều và cũng sẽ giúp cho bạn có động lực học.
 
 Ở giai đoạn này, có thể bạn sẽ muốn học thêm ngữ pháp nâng cao. Tùy vào ngôn ngữ bạn học mà có thể tìm được các hướng dẫn ngôn ngữ nâng cao. Cách mà cá nhân mình (là tác giả gốc của bài viết - donkuri) học ngữ pháp là:
 
@@ -86,10 +84,19 @@ Làm bất kì điều gì bạn muốn. Thi chứng chỉ ngoại ngữ thử x
 
 ### Danh sách nhiệm vụ
 
-Những thứ bạn cần làm
+Những thứ bạn cần làm:
+
 1.  Học bảng chữ cái
 2.  Hoàn thành bộ thẻ từ vựng cơ bản và một hướng dẫn ngữ pháp bất kì
 3.  Cài đặt các công cụ cần thiết, xây dựng môi trường học ngoại ngữ.
 4. Tạo một bộ thẻ mining sau khi hoàn thành bộ thẻ từ vựng cơ bản
 5. Nạp thêm thật nhiều Input
 6. Thử Output với người bản ngữ của ngôn ngữ mục tiêu của bạn.
+
+
+### Credit
+
+Hướng dẫn này được tổng hợp, dịch và hiệu đính lại từ: 
+
+- [Main Guide](https://donkuri.github.io/learn-japanese/guide/) được viết bởi Donkuri.
+- [languageguide](https://sajforbes.nz/languageguide/)
