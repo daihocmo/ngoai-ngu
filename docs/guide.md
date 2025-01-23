@@ -1,6 +1,9 @@
-# Hướng dẫn tự học mọi ngoại ngữ
+# Hướng dẫn tự học ngoại ngữ
 
 ## Chuẩn bị học
+### Trước khi bắt đầu
+
+Nếu bạn chưa đọc bài viết [Trước khi bắt đầu học ngoại ngữ](truoc-khi-bat-dau.md) trên trang thì có thể bạn sẽ muốn đọc trước khi đọc lộ trình tự học ngoại ngữ này.
 
 ### Cần dành bao nhiêu thời gian
 Để đạt được trình độ cao trong một ngoại ngữ bất kì cần **rất nhiều thời gian**.
@@ -36,12 +39,10 @@ Phần hướng dẫn cài đặt sẽ được chuyển qua các bài hướng 
 
 Bạn cần cài đặt những phần mềm sau (Bấm vào tên phần mềm để đọc hướng dẫn cách cài đặt):
 
-- [Anki](anki.md)
-- [Yomitan](yomitan.md)
-- [Goldendict](goldendict.md)
-
-
-Để  [Hướng dẫn Mining và chuẩn bị cài đặt cho Immersion](https://daihocmo.github.io/tieng-anh/setup/) 
+- [Anki](anki.md) - Một phần mềm giúp học và ghi nhớ từ vựng thông qua SRS và Active Recall. Bạn cần phải học cách sử dụng cơ bản trước khi bắt đầu dùng (**Quan trọng**, vì phần mềm này không dễ dùng).
+- [Yomitan](yomitan.md) - Tiện ích trình duyệt giúp tra từ trên trình duyệt cực xịn. Sử dụng được nhiều từ điển cùng một lúc và hỗ trợ nhiều ngôn ngữ. Bạn cần phải học cách cài đặt và tự tải từ điển để thêm vào trong tiện ích này. Chủ yếu hỗ trợ Tiếng Nhật nhưng có thể sử dụng cho các ngôn ngữ khác nếu có người làm từ điển cho Yomitan.
+- [Goldendict](goldendict.md) - Ứng dụng xem nhiều từ điển cùng một lúc. 
+- [Xây dựng một môi trường học ngoại ngữ cho riêng mình ngay tại nhà](setup.md) 
 
 Tham khảo thêm:
 
@@ -86,15 +87,15 @@ Làm bất kì điều gì bạn muốn. Thi chứng chỉ ngoại ngữ thử x
 
 Những thứ bạn cần làm:
 
-1.  Học bảng chữ cái
-2.  Hoàn thành bộ thẻ từ vựng cơ bản và một hướng dẫn ngữ pháp bất kì
-3.  Cài đặt các công cụ cần thiết, xây dựng môi trường học ngoại ngữ.
+1. Học bảng chữ cái
+2. Hoàn thành bộ thẻ từ vựng cơ bản và một hướng dẫn ngữ pháp bất kì
+3. Cài đặt các công cụ cần thiết, xây dựng môi trường học ngoại ngữ.
 4. Tạo một bộ thẻ mining sau khi hoàn thành bộ thẻ từ vựng cơ bản
 5. Nạp thêm thật nhiều Input
 6. Thử Output với người bản ngữ của ngôn ngữ mục tiêu của bạn.
 
 
-### Credit
+### Nguồn
 
 Hướng dẫn này được tổng hợp, dịch và hiệu đính lại từ: 
 

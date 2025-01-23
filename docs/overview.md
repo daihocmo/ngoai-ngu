@@ -1,11 +1,10 @@
-!!! info "Nguồn"
-    Dịch và hiệu đính từ [bài viết của Donkuri](https://donkuri.github.io/learn-japanese/immersion/)
+# Tất tần tật về Immersion
 
 Đây là tổng hợp một số các câu thường được hỏi về Immersion.
 
 ## Suy nghĩ về Immersion và việc học nói chung
 
-Trong phần này, tôi muốn thảo luận về sự ngâm mình một cách tổng thể. Một số vấn đề, một số lời khuyên và một số gợi ý nữa.
+Trong phần này, tôi muốn thảo luận về Immersion một cách tổng thể. Một số vấn đề, một số lời khuyên và một số gợi ý nữa.
 
 ### Làm cách nào để xây dựng thói quen học ngôn ngữ?
 
@@ -19,11 +18,11 @@ Lần đầu tiên ngồi xem một bộ Drama vậy, quá khó. Nhân vật nó
 
 ### Output từ sớm là không tốt?
 
-Sẽ chỉ tệ khi bạn không hiểu những gì bạn nói hoặc viết và không có cách nào kiểm tra xem điều đó có đúng hay không. Điều này có nghĩa là Output ĐÚNG đều ổn ở mọi giai đoạn của quá trình học tập. Điều tệ ở đây là buộc học sinh phải nói hoặc viết từ sớm và đây chính là điều mà giáo sư Stephen Krashen đã nói đến. Một hiểu nhầm tai hại rằng Output kém không liên quan gì đến giả thuyết đầu vào (Input Hypothesis) của Krashen và dường như bắt nguồn từ [bài báo này](https://www.antimoon.com/how/mistakes-damage.htm). 
+Sẽ chỉ tệ khi bạn không hiểu những gì bạn nói hoặc viết và không có cách nào kiểm tra xem điều đó có đúng hay không. Điều này có nghĩa là Output ĐÚNG đều ổn ở mọi giai đoạn của quá trình học tập. Điều tệ ở đây là buộc học sinh phải nói hoặc viết từ sớm và đây chính là điều mà giáo sư Stephen Krashen đã nói đến. 
 
 Dù vậy, Input vẫn là yếu tố chính cho sự thông hiểu ngoại ngữ của bạn. Nếu bạn không biết từ "wheel", thì bạn thực sự không thể sử dụng nó trong câu.
 
-### Không học từ sách giáo khoa?!!
+### Không nên học từ sách giáo khoa?
 
 KHÔNG! Nhiều cuốn sách giáo khoa được biên soạn tốt nhưng chúng không thể thay thế cho việc Immersion. Bạn vẫn cần phải đọc và nghe rất nhiều để tiếp thu ngôn ngữ. Nếu bạn tìm thấy sách học mà bạn thích thì hãy thử đọc, nhưng đừng quên Immersion và nạp thật nhiều Input nha.
 
@@ -57,10 +56,9 @@ Ngủ đủ giấc. Giữ nước. Hít thở không khí trong lành. Làm mộ
 
 Nếu bạn tham gia các cộng đồng học ngoại ngữ, bạn chắc chắn sẽ thấy một cuộc tranh luận về tính hiệu quả của phương pháp này so với phương pháp khác. Mặc dù có thể chúng ta sẽ cần cập nhật các phương pháp học tập, bạn không nên mất thời gian dể đi thuyết phục mọi người về điều đó. Theo mình nghĩ thì không có giải pháp nào nào "một cho tất cả" được. Một số người thích học thông qua sách giáo trình, một số thích xem phim.  
 
-
 ### Nghe thụ động và chủ động
 
-Nghe thụ động là nghe ngôn ngữ mà không chủ động chú ý đến điều bạn đang nghe. Không hoàn toàn rõ ràng việc nghe thụ động giúp bạn học ngôn ngữ ở mức độ nào. Tuy nhiên, việc lắng nghe _chủ động_ thực sự vô cùng có ích. Lắng nghe chủ động đòi hỏi bạn phải tập trung vào những gì đang được nói và cố gắng hiểu đúng những gì đang diễn ra. Bạn có thể phản biện lại rằng nghe thụ động có thể giúp bạn nhận biết âm thanh của ngôn ngữ tốt hơn, nhưng nhiều người hát bằng các ngôn ngữ khác và cách phát âm của họ nghe như **** hơn là phát âm chuẩn. Sau đó, bạn có thể lập luận rằng Input không phải là Output, nhưng tại thời điểm này, cả 2 chúng ta đều bối rối và không biết phải làm gì nên chúng ta bỏ cuộc tranh luận và kết luận rằng bạn nên lắng nghe thụ động nếu bạn thích, nhưng có lẽ bạn không nên mong đợi rằng việc nghe thụ động sẽ giúp ích nhiều cho bạn.
+Nghe thụ động là nghe ngôn ngữ mà không chủ động chú ý đến điều bạn đang nghe. Không hoàn toàn rõ ràng việc nghe thụ động giúp bạn học ngôn ngữ ở mức độ nào. Tuy nhiên, việc lắng nghe _chủ động_ thực sự vô cùng có ích. Lắng nghe chủ động đòi hỏi bạn phải tập trung vào những gì đang được nói và cố gắng hiểu đúng những gì đang diễn ra. Bạn có thể phản biện lại rằng nghe thụ động có thể giúp bạn nhận biết âm thanh của ngôn ngữ tốt hơn, nhưng nhiều người hát bằng các ngôn ngữ khác và cách phát âm của họ nghe như *** hơn là phát âm chuẩn. Sau đó, bạn có thể lập luận rằng Input không phải là Output, nhưng tại thời điểm này, cả 2 chúng ta đều bối rối và không biết phải làm gì nên chúng ta bỏ cuộc tranh luận và kết luận rằng bạn nên lắng nghe thụ động nếu bạn thích, nhưng có lẽ bạn không nên mong đợi rằng việc nghe thụ động sẽ giúp ích nhiều cho bạn.
 
 ### Tôi có nên đi học lớp học hay gia sư?
 
@@ -68,5 +66,9 @@ Do bạn chọn. Việc đi học ở các lớp học hay gia sư không thực
 
 ### Nếu bạn cảm thấy mình đọc chậm
 
-Bạn hãy thử đọc [cái này](https://learnjapanese.moe/readingtips/#reading-speed-tips-and-tricks). Nói tóm lại là bạn nên đọc thêm. Trên thực tế, đây hầu như luôn là giải pháp cho mọi vấn đề học ngoại ngữ mà bạn có thể gặp phải!
+Bạn hãy thử đọc [cái này](https://learnjapanese.moe/readingtips/#reading-speed-tips-and-tricks). Nói tóm lại là bạn nên đọc thêm. Trên thực tế, đây hầu như luôn là giải pháp cho mọi vấn đề học ngoại ngữ mà bạn có thể gặp phải.
 
+
+### Nguồn bài viết
+
+Bài viết được dịch và hiệu đính từ [bài viết của Donkuri](https://donkuri.github.io/learn-japanese/immersion/)

@@ -1,5 +1,5 @@
 # Nghe ngoại ngữ
-Có hai loại nghe là **Nghe thụ động** và **nghe chủ động**.
+Nghe là một trong những hình thức tiếp thụ ngoại ngữ (Input) đầu tiên và tự nhiên nhất. Có hai loại nghe là **Nghe thụ động** và **nghe chủ động**.
 
 ### Nghe thụ động là gì?
 
@@ -28,7 +28,6 @@ Não bạn biết chắc rằng điều gì quan trọng và cần được ghi 
 2. Nghe không cần phụ đề, bản dịch: Sau khi chọn được nguồn nghe, ta sẽ bắt đầu nghe đơn thuần (raw listening) mà không nhìn phụ đề hoặc bản dịch. Vì khi có bản dịch hay phụ đề, ta có xu hướng đọc nhiều hơn là nghe. Bạn có thể "nghe" lại nếu bạn muốn "nghe" lại, hoặc lại chuyển qua một nội dung khác mà mình thích. 
 3. Nghe lại với phụ đề hoặc transcript: Bạn có thể sử dụng phụ đề để khai thác thêm từ mới.
 4. Chọn từ mới và ném vào Anki để đưa từ vào bộ nhớ dài hạn.
-
 
 
 ### Nguồn bài viết

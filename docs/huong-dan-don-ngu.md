@@ -1,6 +1,7 @@
-# Việc sử dụng từ điển trong ngoại ngữ
+# Hướng dẫn đơn ngữ
+Bạn có thể đọc [Monolingual Guide](http://learnjapanese.moe/monolingual/).
 
-Việc sử dụng từ điển cho học ngôn ngữ là rất quan trọng. Không thể chỉ sài 1 từ điển là đủ. 
+Việc sử dụng từ điển cho học ngôn ngữ là rất quan trọng, nhất là trong bối cảnh học ngoại ngữ đơn ngữ. Không thể chỉ dùng 1 từ điển là đủ.
 
 Trong trường hợp từ điển dịch sang Tiếng Việt đôi khi cũng không sát nghĩa và đúng với cách dùng từ đó trong văn phong nước ngoài. Vì vậy, chúng ta cần tham khảo thêm những từ điển nước ngoài trong quá trình học từ vựng. Đôi khi những từ điển song ngữ sẽ hạn chế, không có dịch hay thông tin gì về từ ngoại ngữ mục tiêu hay những từ học thuật mà chúng ta cần tìm. Hoặc có thể, định nghĩa song ngữ vẫn còn mơ hồ hay nhiều từ ở ngôn ngữ mục đích lại có cùng một nghĩa Tiếng Việt khiến bạn không hình dung được trường hợp có thể sử dụng (Kể cả sau khi đọc câu ví dụ). Khi đó chúng ta phải cần tới những từ điển đơn ngữ.
 
@@ -35,6 +36,10 @@ Có thể bạn sẽ gặp một từ bạn không hiểu nữa trong định ng
 > Bilingual definitions, 90% of the time are very vague, and do not capture the true feeling of the word. You may not think so, but I’ve been using monolingual dictionaries for a long time now and I can confirm bilingual definitions (especially those from the JMdict) do not capture the true feel of the word.
 
 Sẽ có những từ điển có định nghĩa dễ hiểu hơn những từ điển khác. Bạn nên sử dụng song song nhiều từ điển cùng một lúc và sử dụng những phần mềm hỗ trợ tra nhiều từ điển cùng lúc như Yomitan hoặc Goldendict.
+
+### Đơn ngữ hay song ngữ?
+
+Do bạn chọn, mỗi loại đều có ưu nhược điểm riêng. Cá nhân mình thì dùng cả hai, nhưng dùng từ điển đơn ngữ thường xuyên hơn (với Tiếng Anh) vì nó rõ nghĩa hơn. Với những danh từ rõ ràng như *quả táo* hay *cây thông* thì mình dùng hình ảnh hoặc định nghĩa Tiếng Việt luôn.
 
 ### Chấm điểm thẻ từ vựng trên Anki
 Bạn chỉ cần nhớ ý chính của định nghĩa. Giả sử một thẻ từ vựng Tiếng Anh

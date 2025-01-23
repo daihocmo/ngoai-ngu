@@ -1,6 +1,26 @@
 # Đọc ngoại ngữ
 
-Để giỏi ngoại ngữ hơn, đọc sách gần như là cách hiệu quả nhất. “Đọc nhiều hơn” thường là lời khuyên đầu tiên trong việc học ngoại ngữ mà những người học ngoại ngữ ở trình độ cao gợi ý bất kỳ người mới bắt đầu nào, và điều gì cũng có lý do của nó.
+## Bắt đầu đọc ngoại ngữ
+
+Việc đọc ngoại ngữ khi học ngoại ngữ là một điều vô cùng QUAN TRỌNG. Có thể mọi người sẽ hỏi là "Mình có thể học ngoại ngữ mà không cần học cách đọc không?". Bạn hoàn toàn *có thể*, nếu bạn không muốn hiểu ngữ pháp cơ bản và có vốn từ vựng thấp sau nhiều năm học. 
+
+Khi mới bắt đầu học đọc ngoại ngữ, cảm giác khó đọc và đọc chậm sẽ *rất khó chịu*. Cần phải vượt qua rào cản ấy và theo thời gian, bạn sẽ trở nên tự tin hơn và đọc tốt hơn.
+
+Trước khi bắt đầu đọc, bạn nên học hoàn thành một bộ thẻ Anki cơ bản, chẳng hạn như "1500 Từ vựng cơ bản" và một hướng dẫn ngữ pháp *cơ bản*. Điều này sẽ giúp quá trình này bớt khó khăn hơn vì bạn sẽ biết tương đối nhiều từ trước khi bắt đầu đọc.
+
+Bạn cũng nên nghe nhiều từ trước để có thể có phát âm tốt và giúp khả năng phân tích câu tốt hơn khi đọc. 
+
+- **Học đọc sẽ luôn khó khăn khi mới bắt đầu**: Bạn không nên đợi "cho đến khi mình sẵn sàng" vì bạn sẽ không bao giờ sẵn sàng cho đến khi *bạn bắt đầu đọc*.
+- Bạn không nên bắt đầu đọc luôn khi chưa *nghe đủ nhiều*. Việc đọc sẽ là khi bạn tái tạo lại âm thanh của ngôn ngữ trong đầu nên hãy nghe tương đối nhiều để có định hình về âm của ngôn ngữ trước khi bắt đầu đọc nhiều.
+- Đừng lo lắng về việc không hiểu một câu kể cả sau nhiều lần đọc lại: Cần học cách để chấp nhận sự mơ hồ và khó hiểu. Mọi thứ sẽ trở nên rõ ràng hơn khi bạn đọc nhiều hơn.
+- Quyển sách đầu tiên bạn đọc là gì đi nữa thì sẽ đều là một thử thách. Hãy đọc hết nó bất kể nó nản đến mức nào hay mất bao lâu. 
+- Đừng nóng vàng: Hãy từ tốn và đọc theo tốc độ của mình. Đừng cố quá để rồi quá cố. Việc đọc là thói quen cần được duy trì hàng ngày.
+
+### Học cách đọc 
+
+Như đã đề cập trước đó, hãy đảm bảo rằng bạn có đủ vốn từ vựng (ví dụ, bạn đã hoàn thành bộ Anki cơ bản) và nắm vững ngữ pháp *cơ bản* trước khi đọc, điều này sẽ giúp mọi thứ dễ dàng hơn khá nhiều.
+
+Đọc sách gần như là cách hiệu quả nhất để cải thiện ngoại ngữ. “Đọc nhiều hơn” thường là lời khuyên đầu tiên trong việc học ngoại ngữ mà những người học ngoại ngữ ở trình độ cao gợi ý bất kỳ người mới bắt đầu nào, và điều gì cũng có lý do của nó.
   
 ## Mẹo đọc
 
@@ -8,18 +28,12 @@
 
 Nếu bạn muốn biết hoặc học điều gì đó, hãy đọc nội dung ấy bằng ngôn ngữ mục tiêu của bạn nếu có thể.
 
-
 ### Đọc và tra trực tiếp trên trình duyệt sử dụng Yomitan
-
-- [Tải Yomitan](https://daihocmo.github.io/tieng-anh/yomitan/)
-- Tải thêm sách bạn muốn đọc dưới định dạng EPUB.
-- [ッツ Reader](https://reader.ttsu.app/manage) - Ứng dụng đọc sách trực tuyến trên trình duyệt.  
+Như tiêu đề của phần này. Bạn nên sử dụng Yomitan thật nhiều trong quá trình đọc ngoại ngữ trên trình duyệt.
 
 ### Pomodoro / Timeboxing  
 
-Phương pháp Pomodoro yêu cầu bạn tập trung vào một nhiệm vụ trong một khoảng thời gian nhất định (thường là 25 phút), sau đó đồng hồ sẽ đổ chuông và bạn nghỉ giải lao ngắn (5 phút).
-
-Vì vậy, bạn sẽ đọc trong 25 phút.
+Phương pháp Pomodoro yêu cầu bạn tập trung vào một nhiệm vụ trong một khoảng thời gian nhất định (thường là 25 phút), sau đó đồng hồ sẽ đổ chuông và bạn nghỉ giải lao ngắn (5 phút). Vì vậy, bạn sẽ đọc trong 25 phút.
 
 Nghe thì có vẻ không nhiều nhưng đây lại là một phương pháp rất hữu ích.
 
@@ -37,7 +51,7 @@ Hãy đọc trong khoảng thời gian mà bạn sẵn sàng đọc trong ngày,
 
 ### Sự hữu ích của việc học ngữ pháp
 
-Việc học ngữ pháp thực sự cần thiết nếu bạn muốn đọc tốt. Nếu bạn chưa học ngữ pháp nhiều và chưa biết hết các cấu trúc ngữ pháp A1, A2, B1, B2, C1 thì bạn nên học chúng. Nhưng không phải là “học ngữ pháp trước khi đọc” mà là, “học ngữ pháp để cải thiện khả năng đọc của bạn, điều mà bạn nên làm ngay bây giờ”.
+Việc học ngữ pháp thực sự cần thiết nếu bạn muốn đọc tốt. Nếu bạn chưa học ngữ pháp nhiều thì bạn nên học, học những thứ như "các phần ngữ pháp phổ biến" hay "các cấu trúc ngữ pháp cơ bản" chẳng hạn. Nhưng không phải là “học ngữ pháp trước khi đọc” mà là, “học ngữ pháp để cải thiện khả năng đọc của bạn, điều mà bạn nên làm ngay bây giờ”.
 
 Đừng quan tâm liệu ngữ pháp trong sách có phải là “ngữ pháp thực sự” hay không. Chúng rất hữu ích vì chúng là những cụm từ và cấu trúc mà không thực sự có ý nghĩa rõ ràng khi đứng một mình, và bạn có thể sẽ bỏ qua chúng khi thực hiện Immersion. Việc học ngữ pháp như trên hoàn toàn là một lựa chọn ĐÚNG.
 
@@ -45,21 +59,11 @@ Nếu bạn chưa hiểu được từ điển đơn ngữ, hãy vẫn giữ ch�
 
 ### Tốc độ đọc
 
-Thành thật thì
-
-Bạn chỉ đọc nhanh hơn bằng cách đọc nhiều hơn.
-
-Bạn chỉ có thể đọc với tốc độ bạn đang đọc hiện tại bởi vì đó là tốc độ mà một người nào đó, người đã đọc số lượng và tài liệu bạn có, sẽ đọc trong một tình huống hoàn toàn bình thường.
+Bạn chỉ đọc nhanh hơn bằng cách đọc nhiều hơn. Bạn chỉ có thể đọc với tốc độ bạn đang đọc hiện tại bởi vì đó là tốc độ mà một người nào đó, người đã đọc số lượng và tài liệu bạn có, sẽ đọc trong một tình huống hoàn toàn bình thường.
 
 ### Cách tốt nhất để tăng tốc độ đọc
 
-Cách tốt nhất để tăng tốc độ đọc của bạn là đọc nhiều hơn.
-
-Tốc độ đọc là khả năng hiểu. Khi bạn đọc nhiều hơn, bạn sẽ hiểu nhiều hơn.
-
-Đừng lo về tốc độ đọc nếu bạn chưa hiểu nhiều/biết tất cả các từ trong hầu hết các cuốn sách.
-
-Và mình đã phải đối mặt với tất cả cho đến khi mình nhận ra tất cả những gì bạn cần là một cuốn sách đủ hay và sử dụng timeboxing (hộp thời gian).
+Cách tốt nhất để tăng tốc độ đọc của bạn là đọc nhiều hơn. Tốc độ đọc là khả năng hiểu. Khi bạn đọc nhiều hơn, bạn sẽ hiểu nhiều hơn. Đừng lo về tốc độ đọc nếu bạn chưa hiểu nhiều/biết tất cả các từ trong hầu hết các cuốn sách.
 
 ### Cần phải đọc bao nhiêu?
 

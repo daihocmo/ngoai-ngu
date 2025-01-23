@@ -1,10 +1,5 @@
 # Hướng dẫn cài đặt Yomitan
 
-## Thông báo
-
-!!! info "Nhắc nhỏ"
-	Bài viết là bản dịch và hiệu đính lại từ bài [Yomitan Setup Tutorial](https://learnjapanese.moe/yomichan/) của TheMoeWay.
-
 ### Yomitan là gì?
 Yomitan là một extension (tiện ích mở rộng) trên trình duyệt (Chrome, Chromium-based hoặc Firefox) cho phép bạn tra cứu các từ Tiếng Anh cả nghĩa lẫn cách đọc trên trang web một cách dễ dàng.
 
@@ -22,22 +17,14 @@ Sau khi cài xong nó sẽ mở một tab mới, bạn đóng trang đó lại v
 
 Khi bạn mới cài Yomitan lần đầu, bạn sẽ cần cài từ điển để có thể sử dụng nó.
 
-Những tệp này sử dụng phần mở rộng `.zip` (file extension) và **bạn không được giải nén nó ra.**
+Những tệp này sử dụng phần mở rộng `.zip` (đuôi tệp hay file extension) và **bạn không được giải nén nó ra.**
 
-Bạn có thể di chuyển đến trang [MarvNC/yomitan-dictionaries](https://github.com/MarvNC/yomitan-dictionaries?tab=readme-ov-file#english-english) để cài đặt từ điển cho Yomitan. Bên dưới sẽ có gợi ý từ điển nên dùng và cách cài đặt từ điển vào Yomitan.
- 
-Các từ điển gợi ý:
+Do Yomitan vẫn chưa có quá nhiều từ điển (Yomitan hoàn toàn mã nguồn mở và cần có người dùng khác làm từ điển cho các ngôn ngữ khác nhau) nên bạn có thể tìm thử từ điển cho ngôn ngữ bạn cần trong các trang sau:
 
-- Từ điển Lạc-Việt (Cho những người mới học hoặc những người chưa quen với việc đọc định nghĩa đơn ngữ) (Tìm trong đường dẫn mình để ở trên là có đó)
-- Longman Dictionary of Contemporary English (LDOCE) - Về mặt định nghĩa thì Longman có ưu thế hơn so với Oxford. Longman định nghĩa dễ hiểu, ngắn gọn, và nhiều ví dụ. (Gợi ý của bác [Black7](https://voz.vn/u/black7.1242890/))
-- Cambridge Advanced Learner’s Dictionary
-- Collins COBUILD
-- Oxford Advanced Learner’s Dictionary (OALD)
+- [MarvNC/yomitan-dictionaries](https://github.com/MarvNC/yomitan-dictionaries)
+- [Dictionaries - Yomitan Wiki](https://yomitan.wiki/dictionaries/)
 
-Các tệp từ điển cho Yomitan:
-
-- [Oxford Advanced Learner's Dictionary](https://github.com/MarvNC/yomichan-dictionaries/files/14957647/oald-release-yomitan.zip) - Bạn bấm vào luôn để tải. Bạn cần giải nén tệp .zip ra rồi mới thêm các tệp .zip trong như mục giải nén. Sẽ có 4 tệp `.zip` là: `oald.zip` (Từ điển Oxford chỉ có định nghĩa từ, `oald-extra.zip` (Như trên nhưng bao gồm câu ví dụ) và một từ điển IPA và `yzk-freq-en.zip` (Đo độ phổ biến của từ)). Bạn hãy tự chọn từ điển mà bạn muốn dùng. Đọc thêm bên dưới để biết cách thêm vào Yomitan.
-- [apple-en-vi](https://drive.proton.me/urls/XZRWCKDM54#Bnq28tvMixEm) - Với những bạn muốn có từ điển Anh - Việt cho Yomitan, mình chỉ tìm được có bộ này. Bạn bấm vào tên bộ từ điển để di chuyển đến trang tải xuống. Bạn bấm vào thư mục `English`, rồi kéo xuống và tìm `apple-en-vi.zip`.
+(Có nhiều từ điển Tiếng Nhật, các ngôn ngữ khác vẫn còn chưa nhiều)
 
 
 ### Cài đặt từ điển và sử dụng cơ bản
@@ -67,14 +54,6 @@ Nếu bạn thấy phần hướng dẫn khó hiểu thì bạn có thể xem h�
 
 Yomitan hỗ trợ từ điển tần suất để cho bạn biết độ phổ biến của từ.
 
-Một số các từ điển đo độ phổ biến từ:
-
-(Các tên từ điển dưới đây được mình tổng hợp từ các từ điển đo độ phổ biến mà mình có thể tìm được và cũng không có thông tin là họ dựa vào thang đo gì để đo độ phổ biến. Nhưng mình nghĩ vẫn có thể sử dụng để tham khảo)
-
-
-- **yzk-freq-en**: Từ điển đo độ phổ biến được làm bởi yzk
-- **Frequency-FLT**: Không biết nữa
-
 **Thế nào là từ phổ biến?**  
 
 Rất phổ biến: 1-10,000  
@@ -85,6 +64,6 @@ Không phổ biến: 40,001-50,000
 Hàng hiếm: 50,001-80,000  
 Người-bản-ngữ-chắc-cũng-không-biết: 80,000+  
 
-### Cài đặt với Anki
+### Nguồn
 
-Bạn hãy đọc bài [Setup](setup.md) để tìm hiểu thêm cách thiết lập Yomitan với Anki để tự động thêm thẻ cho Anki trong lúc tra từ bằng Yomitan trên trình duyệt.
+Bài viết là bản dịch và hiệu đính lại từ bài [Yomitan Setup Tutorial](https://learnjapanese.moe/yomichan/) của TheMoeWay.

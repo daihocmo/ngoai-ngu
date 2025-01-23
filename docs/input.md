@@ -1,14 +1,13 @@
-## Bài viết chính
-> Bài viết là bản dịch của bài [Input](https://www.antimoon.com/how/input-intro.htm), đồng thời được hiệu đính lại nhiều phần để phù hợp với người học ngoại ngữ nói chung.
+# Input trong việc học ngoại ngữ
  
-## Mô hình của việc học ngoại ngữ
+### Mô hình học ngoại ngữ
 
 Có khi nào bạn tự hỏi rằng sao bạn có thể nói ngôn ngữ mẹ đẻ của bạn dễ dàng đến vậy không? Bạn muốn nói một điều gì đó (Thể hiện ý nghĩa nào đó) và những cụm từ và mẫu câu đúng (về mặt ngữ pháp và cả về nghĩa) xuất hiện trong đầu bạn. Phần lớn quá trình là vô thức: điều gì đó xuất hiện trong đầu bạn. Bạn không chắc rằng "chúng" đến từ đâu. Mô hình này sẽ giải thích tại sao:
 
 1. Bạn thu nhận **_input_** (Ở đây input được hiểu là "đầu vào" trong ngôn ngữ, tức những gì bạn thu nhận, thu nạp được) - bạn đọc và nghe những mẫu câu ở những ngôn ngữ nhất định. Nếu bạn hiểu những câu này, nó sẽ được lưu trữ trong đầu bạn. Cụ thể hơn, chúng được lưu trữ trong phần não chịu trách nhiệm về mặt ngôn ngữ của bạn.
 2. Khi bạn muốn nói hoặc viết điều gì đó ở ngôn ngữ đấy (Khi bạn muốn tạo ra **_output_** - tức đầu ra ngôn ngữ, bao gồm nói và viết), bộ não của bạn sẽ tìm kiếm mẫu câu mà bạn đã nghe hoặc đọc trước đây - một mẫu câu tương ứng với điều bạn muốn thể hiện. Sau đó, nó bắt chước câu nói (Tạo ra một câu giống hệt hoặc tương tự vậy) và bạn nói câu của "chính bạn" ở ngôn ngữ đó. Quá trình này diễn ra trong vô thức: bộ não của bạn đảm đương nó một cách tự động.
 
-### Mô hình học ngoại ngữ
+### Bàn về mô hình học ngoại ngữ
 
 Mô hình này thực sự rất đơn giản. Bộ não không thực sự tìm kiếm cả câu mà chỉ tìm kiếm các phần của câu. Nó có thể tự tạo lên những mẫu câu dài và phức tạp từ những phần nhỏ đó. Vậy nên, nó không chỉ "bắt chước" một mẫu câu tại thời điểm đó, ngược lại, nó sử dụng rất nhiều mẫu câu cùng lúc để xây dựng lên các câu mới.
 
@@ -35,3 +34,7 @@ Bạn có biết sự khác nhau giữa một người học và một người 
 ### Vậy thì đơn giản là?
 
 Nạp Input nhiều hơn!
+
+### Nguồn bài viết
+
+Bài viết là bản dịch của bài [Input](https://www.antimoon.com/how/input-intro.htm), đồng thời được hiệu đính lại nhiều phần để phù hợp với người học ngoại ngữ nói chung.

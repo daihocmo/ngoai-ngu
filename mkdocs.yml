@@ -1,6 +1,8 @@
 site_name: Tu luyện ngoại ngữ
 site_description: Phương pháp học (chắc là) mọi ngoại ngữ thông qua Immersion và Comprehensible Input, completely free.
 site_author: duykhanh471
+repo_name: Chỉnh sửa trang
+repo_url: https://github.com/daihocmo/ngoai-ngu
 
 nav:
   - 'Chuẩn bị hành trang':
@@ -9,7 +11,7 @@ nav:
       - 'Trước khi bắt đầu học': 'truoc-khi-bat-dau.md'
   - 'Hướng dẫn học chính':
       - 'Bắt đầu học': 'guide.md'
-      - 'Đầu vào dễ hiểu': 'input.md'
+      - 'Input': 'input.md'
       - 'Nghe': nghe.md
       - 'Đọc': doc.md
       - 'Nói': noi.md
@@ -28,6 +30,7 @@ nav:
       - 'Language Domain': language-domain.md
   - 'Tài nguyên học & Gợi ý':
       - 'Tài nguyên': 'resources.md'
+      - 'Gợi ý': 'goi-y.md'
  
 theme:
   palette:
@@ -55,26 +58,7 @@ theme:
     - search.highlighting
     - search.share
   name: material
-
-markdown_extensions:
-  - pymdownx.emoji:
-      emoji_index: !!python/name:material.extensions.emoji.twemoji
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg
-  - meta
-  - admonition
-  - attr_list
-  - pymdownx.critic
-  - pymdownx.caret
-  - pymdownx.mark
-  - pymdownx.tilde
-  - pymdownx.details
-  - pymdownx.keys
-  - pymdownx.superfences
-  - pymdownx.tabbed:
-      alternate_style: true
-  - toc:
-      permalink: true
-      
+  
 plugins:
   - search
   - open-in-new-tab:

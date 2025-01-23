@@ -2,7 +2,7 @@
 
 Anki là phần mềm cho phép bạn học từ vựng thông qua các flashcards. Các flashcards này có thể có sẵn hoặc do bạn tự tạo. Mỗi một bộ chứa các flashcards được gọi là "Deck", mình tạm dịch là Bộ Từ Vựng. 
 
-Các bạn nên tự tạo bộ từ vựng riêng cho mình vì mỗi người có nhu cầu học khác nhau cũng như trình độ khác nhau. Mình đã thử vài bộ từ có sẵn và đều không cảm thấy thoải mái vì có bộ thì quá dễ, có bộ lại quá khó.
+Các bạn nên tự tạo bộ từ vựng riêng cho mình vì mỗi người có nhu cầu học khác nhau cũng như trình độ khác nhau. Nếu bạn mới bắt đầu học thì nên học một bộ thẻ từ vựng cơ bản khoảng 1500 -> 3000 từ vựng.
 
 ## Sử dụng Anki cơ bản
 
@@ -73,15 +73,14 @@ Khi card hiển thị, bạn phải tự "trả bài" cho mình về nghĩa củ
 
 Sau khi đọc "Answer", bạn đánh giá độ khó của từ đối với bản thân.
 
-!!! info "Cách chấm điểm đơn giản"
-    Bấm "Again" nếu sai hoặc không biết, nếu đúng thì bấm "Good"
-    (Nếu bạn mới bắt đầu sử dụng Anki thì có thể học theo kiểu này)
+**Cách chấm điểm đơn giản**: Bấm "Again" nếu sai hoặc không biết, nếu đúng thì bấm "Good" (Nếu bạn mới bắt đầu sử dụng Anki thì có thể học theo kiểu này).
 
 Sau khi chọn mức độ khó của từ rồi thì các từ kế tiếp cứ tiếp tục hiện ra và bạn chỉ việc làm theo trình tự như trên cho đến khi hết câu hỏi và đã review lại luôn những từ khó.
 
 Sau khi ôn tập lại các từ cũ và học xong khối lượng từ mới hàng ngày là hoàn thành một phiên học Anki.
 
 ### Một số các hướng dẫn nhanh khác
+Hướng dẫn của mình chỉ nhắc đến những phần rất cơ bản và vừa đủ dùng để sử dụng Anki. Nếu bạn muốn sử dụng Addons, thiết lập nâng cao hay sử dụng các phương pháp tạo thẻ nhanh (subs2srs, Yomitan, asbplayer hoặc các thứ) thì bạn nên đi tìm hiểu thêm bên ngoài.
 
 ## Tìm hiểu thêm
 

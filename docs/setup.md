@@ -2,6 +2,15 @@
 
 Đọc là cách nhanh nhất để cải thiện ngoại ngữ, đọc bất cứ thứ gì và không chỉ giới hạn trong sách.
 
+## Một kho nội dung mình yêu thích
+Bạn có thể sưu tầm nội dung ngoại bạn thích dưới dạng vật lý: sách giấy (Có thể mua một số đầu sách ngoại ngữ (không phải sách học) cũ giá rẻ trên mạng), Blu-ray, đĩa CD .v.v..
+
+Còn với các nội dung điện tử thì bạn nên có các công cụ riêng để quản lý các nội dung tương ứng. Máy đọc sách để quản lý sách điện tử hay máy nghe nhạc để lưu trữ các bài nghe, Podcast, sách nói hay bất cứ nội dung nghe nào.
+
+Bạn có thể đọc [Awesome ngôn ngữ](https://daihocmo.github.io/awesome-ngon-ngu/) để tìm các gợi ý nội dung tiêu thụ cho các ngoại ngữ khác nhau.
+
+Dưới đây sẽ là một số thiết bị và phần mềm gợi ý của mình.
+
 ## Máy đọc sách
 
 Bạn có thể chọn giữa sách giấy hoặc máy đọc sách. Cá nhân mình gợi ý máy đọc sách hơn vì sách ngoại ngữ khá khó mua, với một số ngôn ngữ như Tiếng Nhật hoặc Tiếng Trung, việc sử dụng máy đọc sách sẽ giúp bạn tra từ trực tiếp. 
@@ -40,7 +49,10 @@ Một trang mà tổng hợp Condensed Audio mà bạn có thể thử là trang
 
 ### Nghe Podcast/Audiobook
 
-Bạn có thể tải Podcast về dưới dạng mp3.
+Bạn có thể tải Podcast về dưới dạng mp3 sử dụng một số phần mềm như [Podcast Bulk Downloader](https://github.com/cnovel/PodcastBulkDownloader/releases) (Phần mềm này chỉ hỗ trợ Windows)
 
-- [Podcast Bulk Downloader](https://github.com/cnovel/PodcastBulkDownloader/releases) - Chỉ hỗ trợ Windows
 
+## Các phần mềm gợi ý
+- [Calibre](https://calibre-ebook.com/) - Phần mềm quản lý thư viện sách điện tử và chuyển đổi định dạng sách
+- [ッツ Ebook Reader](https://reader.ttsu.app/manage) - Đọc EPUB trực tuyến và sử dụng Yomitan.
+- [mpv](https://mpv.io/) - Một trình phát video và âm thanh. Có thể tự cài thêm nhiều tiện ích để hỗ trợ cho việc học ngoại ngữ. Bạn có thể xem thử video [mpv: The Best Video Player for Language Learning](https://www.youtube.com/watch?v=bbg6ztWecbU) của Matt

@@ -3,13 +3,15 @@
 ### Tại sao lại lựa chọn Goldendict?
 Mình thường hay gợi ý Yomitan vì có thể tra từ trực tiếp trên trình duyệt và có thể tự chia động từ, nhưng có một số vấn đề:
 
-- Yomitan hỗ trợ Tiếng Nhật là chủ yếu: Hay nói đúng hơn là khối lượng từ điển trên Yomitan chủ yếu là Tiếng Nhật và có không quá nhiều từ điển Tiếng Anh.
-- Số lượng từ điển Tiếng Anh rất hạn chế, phần lớn là từ điển Anh - Anh (Để làm được một từ điển Anh - Việt cho Yomitan mà có thể tự động chia động từ thì cần người biết lập trình và khả năng xử lý dữ liệu từ điển).
+- Yomitan hỗ trợ Tiếng Nhật là chủ yếu: Hay nói đúng hơn là khối lượng từ điển trên Yomitan chủ yếu là Tiếng Nhật và có không quá nhiều từ điển cho ngôn ngữ khác.
+- Số lượng từ điển các ngôn ngữ khác cho Yomitan vẫn còn hạn chế.
 
-!!! info "Goldendict hay Goldendict-ng"
-    Về cơ bản thì Goldendict-ng là bản cải tiến của Goldendict và có hỗ trợ tạo thẻ Anki. Bạn có thể đọc thêm [Anki Integration](https://xiaoyifang.github.io/goldendict-ng/topic_anki/) từ chính phần Documentation của ứng dụng để tham khảo cách cài đặt
+### Goldendict hay Goldendict-ng
+
+Về cơ bản thì Goldendict-ng là bản cải tiến của Goldendict và có hỗ trợ tạo thẻ Anki. Bạn có thể đọc thêm [Anki Integration](https://xiaoyifang.github.io/goldendict-ng/topic_anki/) từ chính phần Documentation của ứng dụng để tham khảo cách cài đặt.
 
 ### Hướng dẫn cài đặt cơ bản
+
 Một phần trong mục này mình lấy từ [Hướng dẫn Goldendict của AnkiVN cũ](https://ankivn.blogspot.com/2020/09/goldendict.html) và hiệu đính lại.
 
 Có thể gọi GoldenDict là dạng Data Viewer - bản thân Goldendict là ứng dụng đọc data từ điển - cho nên mình có thể dùng data của nhiều loại từ điển khác nhau. Đây là điểm mạnh nhất của Goldendict vì có thể dùng data của các từ điển nổi tiếng như MDict, Lingvo, Babylon...
@@ -64,14 +66,3 @@ và LẠC VIỆT
 
 ### Tích hợp Goldendict với Anki
 Cá nhân mình vẫn chưa bao giờ thử nên sẽ viết về phần này sau.
-
-### Danh sách các từ điển gợi ý
-Bạn có thể chọn bất cứ các từ điển nào bạn muốn và cá nhân mình gợi ý nên có ít nhất một từ điển cho mỗi phần sau:
-
-- Từ vựng
-- Phrasal Verbs
-- Synonyms, Thesaurus
-- Idioms
-- Ngữ pháp
-
-(Mình sẽ bổ sung các lựa chọn gợi ý sau)
