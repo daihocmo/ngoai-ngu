@@ -1,4 +1,7 @@
-# Hướng dẫn tự học ngoại ngữ
+# Ngoại ngữ - Khu học mở
+
+![](img/cover.webp)
+
 Đây là một trang hướng dẫn tự học ngoại ngữ dựa trên Comprehensible Input và Immersion.
 
 Nếu bạn là một người mới học ngoại ngữ, đang tìm một lộ trình hoặc hướng dẫn để bắt đầu học hay là muốn định hướng lại việc học thì đây là một trang (có lẽ) dành cho bạn.

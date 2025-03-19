@@ -1,4 +1,4 @@
-site_name: Tu luyện ngoại ngữ
+site_name: Ngoại ngữ - Khu học mở
 site_description: Phương pháp học (chắc là) mọi ngoại ngữ thông qua Immersion và Comprehensible Input, completely free.
 site_author: duykhanh471
 repo_name: Chỉnh sửa trang
@@ -17,13 +17,14 @@ nav:
       - 'Nói': noi.md
       - 'Viết': viet.md
       - 'Hướng dẫn đơn ngữ': 'huong-dan-don-ngu.md'
+  - 'Câu hỏi thường gặp': 
+    - 'FAQ': faq.md
   - 'Setup':
       - 'Anki': 'anki.md'
       - 'Yomitan': 'yomitan.md'
       - 'Goldendict': 'goldendict.md'
       - 'Hướng dẫn Mining': 'mining.md'
       - 'Xây dựng môi trường ngoại ngữ cho riêng mình': setup.md
-  - 'Câu hỏi thường gặp': faq.md
   - 'Hướng dẫn khác':
       - 'Tổng quan về Immersion': overview.md
       - 'Sentence Mining': sentence-mining.md
@@ -37,7 +38,7 @@ theme:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: indigo
+      primary: white
       accent: grey
       toggle:
         icon: material/brightness-7
@@ -46,14 +47,16 @@ theme:
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: indigo
+      primary: black
       accent: grey
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+  logo: img/logo.svg
+  favicon: img/logo.png
   features:
     - navigation.instant
-    - navigation.tabs
+    - navigation.sections
     - search.suggest
     - search.highlighting
     - search.share
@@ -61,8 +64,8 @@ theme:
   
 plugins:
   - search
-  - open-in-new-tab:
-      add_icon: true
+  - open-in-new-tab
   
 extra:
   generator: false
+  homepage: https://daihocmo.github.io/
