@@ -7,15 +7,11 @@ repo_url: https://github.com/daihocmo/ngoai-ngu
 nav:
   - 'Trang chủ': 'index.md'
   - 'Hướng dẫn tân thủ':
-      - 'Tại sao cần tự học ngoại ngữ?': 'phai-tu-hoc.md'
-      - 'Trước khi bắt đầu học': 'truoc-khi-bat-dau.md'
-  - 'Hướng dẫn học chính':
-      - 'Bắt đầu học': 'guide.md'
+      - 'Lộ trình': 'guide.md'
       - 'Input': 'input.md'
-      - 'Nghe': nghe.md
-      - 'Đọc': doc.md
       - 'Nói': noi.md
-      - 'Đơn ngữ': 'huong-dan-don-ngu.md'
+      - 'Đọc': doc.md
+      - 'Hướng dẫn đơn ngữ': 'huong-dan-don-ngu.md'
   - 'Câu hỏi thường gặp': 
     - 'FAQ': faq.md
   - 'Xây dựng môi trường học':
@@ -62,7 +58,7 @@ theme:
   
 plugins:
   - search
-  - open-in-new-tab
+  # - open-in-new-tab
   
 extra:
   generator: false
