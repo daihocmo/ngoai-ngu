@@ -5,6 +5,7 @@ Trước khi bạn có thể bắt đầu nói và viết bằng ngoại ngữ, 
 Hầu hết người học ngoại ngữ đều học từ trường lớp hoặc trung tâm. Bài viết này sẽ giả định rằng trường lớp không cho bạn đủ số lượng input đủ để có thể nói một cách thành thạo và mình cần phải tự nạp Input bên ngoài.
 
 ### Số lượng input
+
 > 1.000.000 câu ở đây là nói về Tiếng Anh và có thể với các ngôn ngữ khác thì nó sẽ khác nhưng điểm chung của tất cả ngoại ngữ là nạp càng nhiều input thì bạn càng giỏi.
 
 Để nói ngoại ngữ thành thạo, bạn cần rất [nhiều input](https://www.antimoon.com/how/input-howmuch.htm). cần khoảng 1.000.000 câu trong 3 năm - trung bình, 6400 câu mỗi tuần --- để chuyển từ kỹ năng đọc cơ bản và kỹ năng nói/viết rất kém sang thành thạo, tương đương với 60 trang và 6 giờ nghe mỗi tuần.
@@ -60,4 +61,5 @@ Lý do cuối cùng để bắt tay vào công cuộc tự học ngoại ngữ l
 Ngược lại, sách giáo khoa được sử dụng trong các lớp học ngoại ngữ thường cố gắng dạy ngoại ngữ "đúng chuẩn", loại bỏ các cách diễn đạt không đúng chuẩn mực (VD: bên Tiếng Anh thì có như crap, sucks hoặc stuff). Nếu bạn muốn có được bức tranh toàn cảnh về ngoại ngữ thực dụng, bạn sẽ cần phải vượt ra ngoài các lớp học ngoại ngữ và bắt đầu tự mình tiếp thu kiến thức thực tế.
 
 ### Nguồn bài viết
+
 Bài viết này là bản dịch của mình cho bài [Why you need to take charge of your English learning](https://www.antimoon.com/how/input-own.htm). Bài viết này được viết dành cho người học ngoại ngữ, và nó cũng có thể áp dụng cho việc học ngoại ngữ nói chung. Mình xin phép được hiệu đính lại bài viết để phù hợp hơn với người đọc.

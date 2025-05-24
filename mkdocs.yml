@@ -1,12 +1,12 @@
-site_name: Ngoại ngữ - Khu học mở
-site_description: Phương pháp học (chắc là) mọi ngoại ngữ thông qua Immersion và Comprehensible Input, completely free.
+site_name: Tự học ngoại ngữ - Khu học mở
+site_description: Phương pháp tự học (chắc là) mọi ngoại ngữ thông qua Immersion và Comprehensible Input, completely free.
 site_author: duykhanh471
 repo_name: Chỉnh sửa trang
 repo_url: https://github.com/daihocmo/ngoai-ngu
 
 nav:
-  - 'Chuẩn bị hành trang':
-      - 'Điểm khởi đầu': 'index.md'
+  - 'Trang chủ': 'index.md'
+  - 'Hướng dẫn tân thủ':
       - 'Tại sao cần tự học ngoại ngữ?': 'phai-tu-hoc.md'
       - 'Trước khi bắt đầu học': 'truoc-khi-bat-dau.md'
   - 'Hướng dẫn học chính':
@@ -15,23 +15,21 @@ nav:
       - 'Nghe': nghe.md
       - 'Đọc': doc.md
       - 'Nói': noi.md
-      - 'Viết': viet.md
-      - 'Hướng dẫn đơn ngữ': 'huong-dan-don-ngu.md'
+      - 'Đơn ngữ': 'huong-dan-don-ngu.md'
   - 'Câu hỏi thường gặp': 
     - 'FAQ': faq.md
-  - 'Setup':
+  - 'Xây dựng môi trường học':
       - 'Anki': 'anki.md'
       - 'Yomitan': 'yomitan.md'
       - 'Goldendict': 'goldendict.md'
       - 'Hướng dẫn Mining': 'mining.md'
-      - 'Xây dựng môi trường ngoại ngữ cho riêng mình': setup.md
-  - 'Hướng dẫn khác':
+      - 'Xây dựng môi trường học': setup.md
+  - 'Các bài viết khác':
       - 'Tổng quan về Immersion': overview.md
       - 'Sentence Mining': sentence-mining.md
       - 'Language Domain': language-domain.md
-  - 'Tài nguyên học & Gợi ý':
-      - 'Tài nguyên': 'resources.md'
-      - 'Gợi ý': 'goi-y.md'
+  - 'Tài nguyên học':
+      - 'Tông hợp': 'resources.md'
  
 theme:
   palette:
