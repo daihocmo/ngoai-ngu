@@ -6,7 +6,7 @@ repo_url: https://github.com/daihocmo/ngoai-ngu
 
 nav:
   - 'Trang chủ': 'index.md'
-  - 'Hướng dẫn tân thủ':
+  - 'Hướng dẫn':
       - 'Lộ trình': 'guide.md'
       - 'Input': 'input.md'
       - 'Nói': noi.md
@@ -19,11 +19,10 @@ nav:
       - 'Yomitan': 'yomitan.md'
       - 'Goldendict': 'goldendict.md'
       - 'Hướng dẫn Mining': 'mining.md'
-      - 'Xây dựng môi trường học': setup.md
+      - 'Xây dựng môi trường học ngoại ngữ tại nhà': setup.md
   - 'Các bài viết khác':
       - 'Tổng quan về Immersion': overview.md
       - 'Sentence Mining': sentence-mining.md
-      - 'Language Domain': language-domain.md
   - 'Tài nguyên học':
       - 'Tông hợp': 'resources.md'
  
@@ -58,7 +57,7 @@ theme:
   
 plugins:
   - search
-  # - open-in-new-tab
+  - open-in-new-tab
   
 extra:
   generator: false

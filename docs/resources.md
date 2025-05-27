@@ -35,7 +35,6 @@ Trong trang tổng hợp tài nguyên này sẽ tổng hợp các lộ trình t�
 - [Hành trình từ A1 –> B2 French - Tài nguyên học, cách học và lời khuyên](https://reddit.com/r/learnfrench/comments/nzf9zq/a1_b2_french_how_i_did_it_and_my_resources/)
 - [Lộ trình học Tiếng Pháp của cộng đồng Refold](https://docs.google.com/document/d/1lcc5v2y8m-s7b5P6OI5xtvZiPUULohxyP1rN8hrtuig/edit#heading=h.u5sjchklxrt0)
 
-
 ### Tiếng Thái
 - [Lộ trình của Refold cho Tiếng Thái](https://refold.link/thai)
 

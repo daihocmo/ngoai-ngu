@@ -4,7 +4,7 @@
 
 Trước khi bắt đầu vào đọc lộ trình học ngoại ngữ, có thể bạn sẽ muốn làm một bài khởi động để bắt đầu làm quen dần với phương pháp học tập được định hướng trong trang.
 
-### 1.1. Nhiều người học ngoại ngữ "thất bại" do đâu?
+### Nhiều người học ngoại ngữ "thất bại" do đâu?
 
 Hiện nay có rất nhiều người đã bắt đầu học các ngoại ngữ khác nhau vì những mục tiêu khác nhau. Dù vậy, không ít người sau nhiều năm học vẫn không thể đạt được mục tiêu ấy. Do việc học ngoại ngữ quá khó? Hay do chưa đủ chăm?
 
@@ -21,7 +21,7 @@ Ví dụ:
 
 Để tìm hiểu thêm về xây dựng hệ thống học tập, bạn có thể đọc cuốn [Atomic Habit](https://jamesclear.com/atomic-habits) hoặc bắt đầu đọc cuốn [Không mục tiêu, một hệ thống](https://duy103zxc.github.io/kmtmht/) do mình viết.
 
-### 1.2. Vấn đề với phương pháp truyền thống
+### Vấn đề với phương pháp truyền thống
 
 Học ngoại ngữ theo phương pháp "truyền thống" thì nó thường sẽ kiểu như này:
 
@@ -43,8 +43,7 @@ Tuy nhiên, cần ngừng sử dụng tài liệu cho người mới học càng
 
 Chủ nghĩa cầu toàn có thể là con dao hai lưỡi trong việc học ngôn ngữ. Tốn quá nhiều thời gian và công sức mà không đạt được nhiều kết quả, cố ghi nhớ từng chi tiết nhỏ nhất của những thứ không thực sự quan trọng trong cả quá trình học dài đấy.
 
-
-### 1.3. Để thành thạo một ngôn ngữ
+### Để thành thạo một ngôn ngữ
 
 > **Để học 1 ngoại ngữ, phải thu thập thật nhiều đầu vào (INPUT), nói cách khác là phải nghe và đọc thật nhiều nội dung như tin tức, phim, video, sách, truyện tranh.. bằng ngôn ngữ đó**. (Trích từ [Học ngoại ngữ bằng cách xem phim? - Immersion learning](https://spiderum.com/bai-dang/Hoc-ngoai-ngu-bang-cach-xem-phim-Immersion-learning-zcsVw4rK9I3y)).
 
@@ -56,7 +55,7 @@ Học ngôn ngữ là một quá trình ghi nhớ các thành phần trong vô t
 
 Tại sao lại không nói về "biết ngữ pháp" hay "nhớ từ vựng"? Bởi đây không phải là cách xử lý ngôn ngữ tự nhiên.
 
-### 1.4. Chấp nhận cảm giác khó chịu và mù mờ
+### Chấp nhận cảm giác khó chịu và mù mờ
 
 Trong việc học ngôn ngữ và trong bất cứ lĩnh vực nào đòi hỏi kỹ năng, bạn sẽ luôn gặp khó khăn trong một thời gian dài cho đến khi bạn tiến bộ hơn. Như đã nói ở trên, nhiều người học (mình cũng đã từng như vậy) cứ cố gắng học thật tốt một thứ gì đó trước khi sử dụng thực tế.
 
@@ -73,7 +72,7 @@ Những người học ở trên dễ cảm thấy nản vì không hiểu đư�
 
 Chúng ta không *chỉ* thực hiện Immersion mà không làm gì khác. Cũng cần học những thứ như ngữ pháp và từ vựng. Đồng thời, sử dụng từ điển để học từ trong quá trình Immersion.
 
-### 1.5 Bạn tiến bộ như thế nào
+### Bạn tiến bộ như thế nào
 
 Có thể bạn chưa biết: Bạn hoàn toàn có thể học được đến cấp độ trung cấp của một ngoại ngữ bất kì mà không gặp quá nhiều khó khăn. Lúc tiến bộ nhanh nhất sẽ là khoảng sau giai đoạn mới bắt đầu học một chút. Tuy nhiên, sau khi đạt đến trình độ trung cấp, tiến trình bắt đầu bị chậm lại. Nó sẽ trông như biểu đồ này:
 
@@ -84,8 +83,6 @@ Từ trình độ trung cấp lên cao cấp sẽ cần rất nhiều thời gia
 > Hãy nhớ rằng bạn có thể hiểu khoảng 80% các nội dung mình thực hiện Immersion với khoảng 2000 từ. Bạn có thể hiểu là 90% với 10.000. Nó giống như đi dường dốc vậy, càng ngày càng trở nên dốc hơn. 20.000 bạn hiểu là 95%. 30.000 thì cuối cùng bạn cũng có thể đạt gần 100%. Cảm giác này khá tệ, nhưng bạn vẫn phải tiếp tục thôi.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j0OotbfBAA0?si=B1p9LnDi1BAPQK-W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-## Lộ trình học
 
 ### Cần dành bao nhiêu thời gian
 Để đạt được trình độ cao trong một ngoại ngữ bất kì cần **rất nhiều thời gian**.

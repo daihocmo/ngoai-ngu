@@ -3,7 +3,7 @@
 ### Mining là gì?
 Mình đã viết một [bài viết về Sentence Mining](sentence-mining.md) trong trang. Bạn nên đọc bài viết để tìm hiểu thêm về kĩ thuật học này.
 
-Hiểu một cách cơ bản và theo đúng nghĩa đen, bạn sẽ *đào* ~~vàng~~ nội dung bạn muốn học từ nội dung bạn tiêu thụ, đào từ vựng, mẫu câu, cách diễn đạt .v.v... Nhưng thường là *đào* từ vựng.
+Hiểu một cách cơ bản và theo đúng nghĩa đen, bạn sẽ *đào* kiến thức ngoại ngữ từ nội dung bạn tiêu thụ, đào từ vựng, mẫu câu, cách diễn đạt .v.v... Nhưng thường là *đào* từ vựng.
 
 Thử lấy một câu Tiếng Anh này làm ví dụ:
 

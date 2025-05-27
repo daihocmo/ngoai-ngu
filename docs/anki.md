@@ -1,90 +1,10 @@
 # Hướng dẫn sử dụng Anki cho việc học ngoại ngữ
 
-Anki là phần mềm cho phép bạn học từ vựng thông qua các flashcards. Các flashcards này có thể có sẵn hoặc do bạn tự tạo. Mỗi một bộ chứa các flashcards được gọi là "Deck", mình tạm dịch là Bộ Từ Vựng. 
+Anki là phần mềm cho phép bạn học từ vựng thông qua các thẻ ghi nhớ (kết hợp phương pháp lặp lại ngắt quãng & active recall giúp ghi nhớ lâu hơn). Đã có không ít các hướng dẫn trên Internet giúp bạn bắt đầu học cách sử dụng phần mềm này.
 
-Các bạn nên tự tạo bộ từ vựng riêng cho mình vì mỗi người có nhu cầu học khác nhau cũng như trình độ khác nhau. Nếu bạn mới bắt đầu học thì nên học một bộ thẻ từ vựng cơ bản khoảng 1500 -> 3000 từ vựng.
+Một cách báo nho nhỏ: Phần mềm này tương đối khó dùng, nhưng rất đáng bỏ thời gian ra học.
 
-## Sử dụng Anki cơ bản
-
-### 1. Cách tải xuống, cài đặt và học bộ từ vựng
-
-Bạn có thể tải xuống Anki tại [trang chủ của Anki](https://apps.ankiweb.net/).
-
-Khi bấm "Download" thì nó sẽ tự chuyển xuống mục Tải xuống ở cuối trang
-
-![alt text](img/anki/download-page.png)
-
-Sau khi tải xuống hoàn tất, bạn nhấp đúp chuột vào tệp cài đặt của phần mềm, bấm Next liên tục là xong (Nếu bạn sử dụng Windows).
-
-Sau khi cài đặt xong bạn sẽ thấy biểu tượng Anki hiện trên Desktop. Khi mở ứng dụng lần đầu tiên bạn sẽ được yêu cầu chọn ngôn ngữ, bạn có thể để mặc định là **English**.
-
-![alt text](img/anki/main-screen1.png)
-
-Để tự tạo bộ từ vựng cho mình, bạn chọn **Create Deck**. 
-
-Nếu muốn sử dụng các bộ từ vựng có sẵn, bạn chọn **Get Shared** (Nếu bạn chọn **Get Shared** thì Anki sẽ tự động mở trình duyệt và chuyển đến kho các bộ thẻ đã được làm sẵn bởi các người dùng khác).
-
-### 2. Tạo bộ thẻ, tạo thẻ và Import bộ thẻ khác.
-
-#### Tạo thẻ học
-
-Trước khi tạo thẻ học bạn cần có một bộ Deck để lưu trữ các thẻ bạn tạo. Để tạo deck, bạn chỉ cần chọn **Create Deck** và nhập tên bộ thẻ bạn muốn tạo, bấm Ok là xong
-
-![alt text](img/anki/create-deck.png)
-
-Khi bấm **Add** thì sẽ hiện lên một cửa sổ:
-
-![alt text](img/anki/addcard.png)
-
-Ở góc trên bên trái màn hình sẽ hiện chữ **Type**, đó là kiểu thẻ của thẻ bạn muốn tạo và góc trên bên phải màn hình là **Deck**, là bộ thẻ mà bạn sẽ lưu thẻ này vào.
-
-Ở đây Type sẽ được đặt là **Basic** và sẽ chỉ hiện 2 trường (Field) là Front và Back, nội dung nhập vào Front sẽ hiện ở mặt trước của thẻ và Back sẽ hiện ở mặt sau của thẻ.
-
-Bấm vào **Add** để thêm thẻ mới
-
-Điền thông tin vào thẻ. 1 thẻ ghi nhớ thường bao gồm 2 mặt:
-
-- Front: Mặt trước của thẻ: đây là ghi nội dung truyền tải của nội cần học/ghi nhớ.
-- Back: Mặt ghi câu trả lời của mặt trước.
-
-Mỗi một thẻ từ vựng sẽ có hai mặt là mặt trước (Front) và mặt sau (Back)
-
-Trong Anki sẽ có các Card Type (Hay "kiểu thẻ"), mỗi một kiểu thẻ sẽ bao gồm những Field khác nhau để bạn điền. Phần tiếp theo chúng ta sẽ nói thêm về các kiểu thẻ khác nhau. Ở phần này, chúng ta sẽ chỉ sử dụng kiểu thẻ Basic.
-
-Sau khi nhập xong, các bạn có thể thêm tag cho từng thẻ nếu muốn. VD: khi xong thẻ và bạn muốn đánh dấu đây là thẻ về danh từ, có thể ghi **Danh từ**, **Từ chỉ cảm xúc** vào phần Tags để sau này có thể chọn ôn theo từng tag
-
-Sau đó bấm Add để lưu thẻ vào trong Deck.
-
-### Sử dụng các bộ thẻ được làm sẵn (premade decks)
-
-Bộ thẻ được tạo sẵn giúp giảm thời gian tạo thẻ để học. Có nhiều bộ thẻ được tạo sẵn cho các chủ đề khác nhau. Bạn có thể tải trên trang [Shared Decks của Anki](https://ankiweb.net/shared/decks/).
-
-Tìm trên tranh tìm kiếm hoặc chọn các chủ đề ở trang Shared Decks, sau đó tìm trong danh sách bộ thẻ được chia sẻ cho đến khi bạn tìm thấy tiêu đề bộ thẻ mà bạn muốn sử dụng. Bạn cũng có thể bấm vào một bộ thẻ bất kì và xem một số thẻ ví dụ. 
-
-Sau khi đã chọn được một bộ thẻ, kéo xuống để tìm nút tải xuống màu xanh và bấm vào đó để tải bộ thẻ về. Sau khi tải xong, mở Anki và bấm vào "Import File" ở dưới màn hình chính để thêm bộ thẻ vào kho thẻ của bạn.
-
-### Các phiên học
-
-Sau khi tạo bộ thẻ và thêm các thẻ từ vựng (Hoặc bạn đã **Import** bộ thẻ bạn đã tải xuống trên mạng về), chúng ta có thể bắt đầu ôn tập. Bạn bấm vào bộ thẻ bạn cần học
-
-Bấm **Study Now** để bắt đầu.
-
-Khi card hiển thị, bạn phải tự "trả bài" cho mình về nghĩa của từ, loại từ, thường dùng trong ngữ cảnh nào, các từ liên quan hoặc word families của nó. Sau khi tự "trả bài" xong, bạn click vào "Show Answer" để xem nghĩa của từ.
-
-Sau khi đọc "Answer", bạn đánh giá độ khó của từ đối với bản thân.
-
-**Cách chấm điểm đơn giản**: Bấm "Again" nếu sai hoặc không biết, nếu đúng thì bấm "Good" (Nếu bạn mới bắt đầu sử dụng Anki thì có thể học theo kiểu này).
-
-Sau khi chọn mức độ khó của từ rồi thì các từ kế tiếp cứ tiếp tục hiện ra và bạn chỉ việc làm theo trình tự như trên cho đến khi hết câu hỏi và đã review lại luôn những từ khó.
-
-Sau khi ôn tập lại các từ cũ và học xong khối lượng từ mới hàng ngày là hoàn thành một phiên học Anki.
-
-### Một số các hướng dẫn nhanh khác
-Hướng dẫn của mình chỉ nhắc đến những phần rất cơ bản và vừa đủ dùng để sử dụng Anki. Nếu bạn muốn sử dụng Addons, thiết lập nâng cao hay sử dụng các phương pháp tạo thẻ nhanh (subs2srs, Yomitan, asbplayer hoặc các thứ) thì bạn nên đi tìm hiểu thêm bên ngoài.
-
-## Tìm hiểu thêm
-
-Bạn có thể học khóa [Anki cơ bản](https://hocanki.com/ii-anki-co-ban/020-anki-co-ban/) (Không biết có phải được làm bởi AnkiVN không, nhưng có khá nhiều bài hướng dẫn miễn phí nên mọi người có thể học)
+Bạn có thể học khóa [Anki cơ bản](https://hocanki.com/ii-anki-co-ban/020-anki-co-ban/) (Không biết có phải được làm bởi AnkiVN không, nhưng có khá nhiều bài hướng dẫn miễn phí nên mọi người có thể học). Hoặc sử dụng các nguồn tài nguyên ở bên dưới đây:
 
 ### Cài đặt Anki cho các nền tảng khác (MacOS, Linux, Android, iOS)
 
