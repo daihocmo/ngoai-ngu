@@ -1,28 +1,55 @@
 site_name: Tự học ngoại ngữ - Khu học mở
 site_description: Phương pháp tự học (chắc là) mọi ngoại ngữ thông qua Immersion và Comprehensible Input, completely free.
 site_author: duykhanh471
-repo_name: Chỉnh sửa trang
+site_url: https://daihocmo.github.io
+repo_name: Đóng góp & Chỉnh sửa trang
 repo_url: https://github.com/daihocmo/ngoai-ngu
 
 nav:
   - 'Trang chủ': 'index.md'
   - 'Hướng dẫn':
-      - 'Lộ trình': 'guide.md'
-      - 'Input': 'input.md'
+      - 'Hướng dẫn chính': 'guide.md'
       - 'Nói': noi.md
       - 'Đọc': doc.md
-      - 'Hướng dẫn đơn ngữ': 'huong-dan-don-ngu.md'
-  - 'Câu hỏi thường gặp': 
-    - 'FAQ': faq.md
+  - 'Immersion & Sentence Mining':
+      - 'Tổng quan về Immersion': overview.md
+      - 'Sentence Mining': sentence-mining.md
   - 'Xây dựng môi trường học':
       - 'Anki': 'anki.md'
       - 'Yomitan': 'yomitan.md'
       - 'Goldendict': 'goldendict.md'
       - 'Hướng dẫn Mining': 'mining.md'
       - 'Xây dựng môi trường học ngoại ngữ tại nhà': setup.md
-  - 'Các bài viết khác':
-      - 'Tổng quan về Immersion': overview.md
-      - 'Sentence Mining': sentence-mining.md
+  - 'Danh sách ngôn ngữ':
+    - 'Tiếng Ả Rập': 
+      - 'Hướng dẫn': 'ngon-ngu/tieng-a-rap/index.md'
+      - 'Tài nguyên & Gợi ý': 'ngon-ngu/tieng-a-rap/resources.md'
+    - 'Tiếng Nga': 
+      - 'Hướng dẫn': 'ngon-ngu/tieng-nga/index.md'
+      - 'Tài nguyên & Gợi ý': 'ngon-ngu/tieng-nga/resources.md'
+    - 'Tiếng Pháp':
+      - 'Hướng dẫn': 'ngon-ngu/tieng-phap/index.md'
+      - 'Tài nguyên & Gợi ý': 'ngon-ngu/tieng-phap/resources.md'
+    - 'Tiếng Đức':
+      - 'Hướng dẫn': 'ngon-ngu/tieng-duc/index.md'
+      - 'Tài nguyên học': 'ngon-ngu/tieng-duc/resources.md'
+      - 'Tổng hợp': 'ngon-ngu/tieng-duc/recommendations.md'
+    - 'Tiếng Tây Ban Nha':
+      - 'Hướng dẫn': 'ngon-ngu/tieng-tbn/index.md'
+      - 'Tài nguyên & Gợi ý': 'ngon-ngu/tieng-tbn/resources.md'
+    - 'Tiếng Bồ Đào Nha':
+      - 'Hướng dẫn': 'ngon-ngu/tieng-bdn/index.md'
+      - 'Tài nguyên học': 'ngon-ngu/tieng-bdn/resources.md'
+      - 'Tổng hợp': 'ngon-ngu/tieng-bdn/recommendations.md'
+    - 'Tiếng Ý':
+      - 'Hướng dẫn': 'ngon-ngu/tieng-y/index.md'
+      - 'Tài nguyên & Gợi ý': 'ngon-ngu/tieng-y/resources.md'
+    - 'Tiếng Thái Lan':
+      - 'Hướng dẫn': 'ngon-ngu/tieng-thai/index.md'
+      - 'Tài nguyên & Gợi ý': 'ngon-ngu/tieng-thai/resources.md'
+    - 'Tiếng Indonesia':
+      - 'Hướng dẫn': 'ngon-ngu/tieng-indonesia/index.md'
+      - 'Tài nguyên & Gợi ý': 'ngon-ngu/tieng-indonesia/resources.md'
   - 'Tài nguyên học':
       - 'Tông hợp': 'resources.md'
  
@@ -45,7 +72,7 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
-  logo: img/logo.svg
+  logo: img/logo.png
   favicon: img/logo.png
   features:
     - navigation.instant
@@ -54,7 +81,26 @@ theme:
     - search.highlighting
     - search.share
   name: material
-  
+
+markdown_extensions:
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - meta
+  - admonition
+  - attr_list
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.details
+  - pymdownx.keys
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - toc:
+      permalink: true
+      
 plugins:
   - search
   - open-in-new-tab

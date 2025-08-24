@@ -130,7 +130,7 @@ Tham khảo thêm:
 
 ### Học từ vựng và ngữ pháp cơ bản
 
-Bước đầu tiên sẽ giúp bạn chuẩn bị hành trang để ~~bước vào lớp 1~~ bắt đầu tiêu thụ nội dung ngôn ngữ mục tiêu của bạn. Có một số người cho rằng nên bắt đầu thực hành Immersion từ ngày đầu tiên, nhưng cá nhân mình gợi ý bạn nên dành một vài tuần đầu học từ vựng và ngữ pháp cơ bản. Trước hết sẽ có một số hướng dẫn/gợi ý sau đây: 
+Bước đầu tiên sẽ giúp bạn chuẩn bị hành trang để bắt đầu tiêu thụ nội dung ngôn ngữ mục tiêu của bạn. Có một số người cho rằng nên bắt đầu thực hành Immersion từ ngày đầu tiên, nhưng cá nhân mình gợi ý bạn nên dành một vài tuần đầu học từ vựng và ngữ pháp cơ bản. Trước hết sẽ có một số hướng dẫn/gợi ý sau đây: 
 
 1. Bạn không cần phải ghi nhớ hết toàn bộ tài liệu (resourcce) ngữ pháp mà bạn đang sử dụng để có thể bắt đầu immerse.
 2. Bạn không cần phải hoàn thành bộ thẻ từ vựng trong Anki để bắt đầu immerse, có thể bắt đầu immerse khi bạn cảm thấy bây giờ bạn có thể (Càng sớm càng tốt).

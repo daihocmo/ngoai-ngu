@@ -1,23 +1,29 @@
 # Ngoại ngữ - Khu học mở
 
-Đây là một trang hướng dẫn tự học ngoại ngữ dựa trên Comprehensible Input và Immersion.
+Trước khi bắt đầu học môn ngôn ngữ bất kì, bạn có thể đọc hướng dẫn tự học ngoại ngữ trước nha.
 
-![](img/cover.webp)
+[:book:  Đọc hướng dẫn](guide.md){: .md-button }  
 
-Nếu bạn là một người mới học ngoại ngữ, đang tìm một lộ trình hoặc hướng dẫn để bắt đầu học hay là muốn định hướng lại việc học thì đây là một trang (có lẽ) dành cho bạn.
+## Danh sách ngoại ngữ
 
-Mục tiêu tập trung của trang sẽ là vào việc học ngoại ngữ chung thông qua [Comprehensible Input](https://www.youtube.com/watch?v=J_EQDtpYSNM) và Immersion. Phương pháp này có thể áp dụng cho nhiều ngoại ngữ và (có lẽ) được sử dụng chủ yếu bởi người học Tiếng Nhật (AJATT, MIA .etc.).
+[:flag_us: Tiếng Anh ](https://daihocmo.github.io/tieng-anh/){: .md-button }  [:flag_jp: Tiếng Nhật ](https://daihocmo.github.io/tieng-nhat/){: .md-button }  
 
-Trong trang sẽ bao gồm lộ trình tự học ngoại ngữ, các bài viết về các kĩ năng ngoại ngữ khác nhau với các mẹo và công cụ sử dụng trong việc học để giúp cho quá trình và trải nghiệm học được tối ưu hơn (và vui hơn nữa). Các tài nguyên và công cụ học ngoại ngữ được gợi ý trên trang phần lớn là hoàn toàn miễn phí trên Internet.
+[:flag_cn: Tiếng Trung ](https://daihocmo.github.io/tieng-trung/){: .md-button } 
 
-Mong là nội dung trong trang sẽ có ích cho bạn.
+[:flag_kr: Tiếng Hàn ](https://daihocmo.github.io/tieng-han/){: .md-button }  
 
-## Chọn ngoại ngữ học
-Trước khi bạn bắt đầu đọc các trang ngoại ngữ riêng dưới đây, bạn nên đọc nội dung trong trang này trước để hiểu cách học ngoại ngữ của trang:
+[:flag_br: Tiếng Bồ Đào Nha](ngon-ngu/tieng-bdn/index.md){: .md-button } 
 
-- [Tiếng Anh](https://daihocmo.github.io/tieng-anh/)
-- [Tiếng Nhật](https://daihocmo.github.io/tieng-nhat/)
-- [Tiếng Trung](https://daihocmo.github.io/tieng-trung/)
+[:flag_es: Tiếng Tây Ban Nha](ngon-ngu/tieng-tbn/index.md){: .md-button }
+
+[:flag_ru: Tiếng Nga](ngon-ngu/tieng-nga/index.md){: .md-button }  [:flag_fr: Tiếng Pháp](ngon-ngu/tieng-phap/index.md){: .md-button }
+
+[:flag_de: Tiếng Đức](ngon-ngu/tieng-duc/index.md){: .md-button } [:flag_th: Tiếng Thái](ngon-ngu/tieng-thai/index.md){: .md-button }
+
+[:flag_cn: Tiếng Ả Rập ](ngon-ngu/tieng-a-rap/index.md){: .md-button } [:flag_it: Tiếng Ý](ngon-ngu/tieng-y/index.md){: .md-button }
+
+[:flag_id: Tiếng Indonesia](ngon-ngu/tieng-indonesia/index.md){: .md-button }
+
 
 ## Lời cảm ơn
 Mình muốn gửi lời cảm ơn đến tất cả những trang dưới đây đã tạo cảm hứng cho mình xây dựng trang này cũng như những trang khác:
