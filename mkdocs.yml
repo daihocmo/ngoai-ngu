@@ -20,36 +20,6 @@ nav:
       - 'Goldendict': 'goldendict.md'
       - 'Hướng dẫn Mining': 'mining.md'
       - 'Xây dựng môi trường học ngoại ngữ tại nhà': setup.md
-  - 'Danh sách ngôn ngữ':
-    - 'Tiếng Ả Rập': 
-      - 'Hướng dẫn': 'ngon-ngu/tieng-a-rap/index.md'
-      - 'Tài nguyên & Gợi ý': 'ngon-ngu/tieng-a-rap/resources.md'
-    - 'Tiếng Nga': 
-      - 'Hướng dẫn': 'ngon-ngu/tieng-nga/index.md'
-      - 'Tài nguyên & Gợi ý': 'ngon-ngu/tieng-nga/resources.md'
-    - 'Tiếng Pháp':
-      - 'Hướng dẫn': 'ngon-ngu/tieng-phap/index.md'
-      - 'Tài nguyên & Gợi ý': 'ngon-ngu/tieng-phap/resources.md'
-    - 'Tiếng Đức':
-      - 'Hướng dẫn': 'ngon-ngu/tieng-duc/index.md'
-      - 'Tài nguyên học': 'ngon-ngu/tieng-duc/resources.md'
-      - 'Tổng hợp': 'ngon-ngu/tieng-duc/recommendations.md'
-    - 'Tiếng Tây Ban Nha':
-      - 'Hướng dẫn': 'ngon-ngu/tieng-tbn/index.md'
-      - 'Tài nguyên & Gợi ý': 'ngon-ngu/tieng-tbn/resources.md'
-    - 'Tiếng Bồ Đào Nha':
-      - 'Hướng dẫn': 'ngon-ngu/tieng-bdn/index.md'
-      - 'Tài nguyên học': 'ngon-ngu/tieng-bdn/resources.md'
-      - 'Tổng hợp': 'ngon-ngu/tieng-bdn/recommendations.md'
-    - 'Tiếng Ý':
-      - 'Hướng dẫn': 'ngon-ngu/tieng-y/index.md'
-      - 'Tài nguyên & Gợi ý': 'ngon-ngu/tieng-y/resources.md'
-    - 'Tiếng Thái Lan':
-      - 'Hướng dẫn': 'ngon-ngu/tieng-thai/index.md'
-      - 'Tài nguyên & Gợi ý': 'ngon-ngu/tieng-thai/resources.md'
-    - 'Tiếng Indonesia':
-      - 'Hướng dẫn': 'ngon-ngu/tieng-indonesia/index.md'
-      - 'Tài nguyên & Gợi ý': 'ngon-ngu/tieng-indonesia/resources.md'
   - 'Tài nguyên học':
       - 'Tông hợp': 'resources.md'
  
@@ -108,3 +78,6 @@ plugins:
 extra:
   generator: false
   homepage: https://daihocmo.github.io/
+
+copyright: |
+  <a href="https://daihocmo.github.io">Một dự án của Khu học mở</a>

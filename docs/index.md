@@ -6,23 +6,23 @@ Trước khi bắt đầu học môn ngôn ngữ bất kì, bạn có thể đ�
 
 ## Danh sách ngoại ngữ
 
-[:flag_us: Tiếng Anh ](https://daihocmo.github.io/tieng-anh/){: .md-button }  [:flag_jp: Tiếng Nhật ](https://daihocmo.github.io/tieng-nhat/){: .md-button }  
+[:flag_us: Tiếng Anh ](/tieng-anh/){: .md-button }  [:flag_jp: Tiếng Nhật ](/tieng-nhat/){: .md-button }  
 
-[:flag_cn: Tiếng Trung ](https://daihocmo.github.io/tieng-trung/){: .md-button } 
+[:flag_cn: Tiếng Trung ](/tieng-trung/){: .md-button } 
 
-[:flag_kr: Tiếng Hàn ](https://daihocmo.github.io/tieng-han/){: .md-button }  
+[:flag_kr: Tiếng Hàn ](/tieng-han/){: .md-button }  
 
-[:flag_br: Tiếng Bồ Đào Nha](ngon-ngu/tieng-bdn/index.md){: .md-button } 
+[:flag_br: Tiếng Bồ Đào Nha](/tieng-bdn/){: .md-button } 
 
-[:flag_es: Tiếng Tây Ban Nha](ngon-ngu/tieng-tbn/index.md){: .md-button }
+[:flag_es: Tiếng Tây Ban Nha](/tieng-tbn/){: .md-button }
 
-[:flag_ru: Tiếng Nga](ngon-ngu/tieng-nga/index.md){: .md-button }  [:flag_fr: Tiếng Pháp](ngon-ngu/tieng-phap/index.md){: .md-button }
+[:flag_ru: Tiếng Nga](/tieng-nga/){: .md-button }  [:flag_fr: Tiếng Pháp](/tieng-phap/){: .md-button }
 
-[:flag_de: Tiếng Đức](ngon-ngu/tieng-duc/index.md){: .md-button } [:flag_th: Tiếng Thái](ngon-ngu/tieng-thai/index.md){: .md-button }
+[:flag_de: Tiếng Đức](/tieng-duc/){: .md-button } [:flag_th: Tiếng Thái](/tieng-thai/){: .md-button }
 
-[:flag_cn: Tiếng Ả Rập ](ngon-ngu/tieng-a-rap/index.md){: .md-button } [:flag_it: Tiếng Ý](ngon-ngu/tieng-y/index.md){: .md-button }
+[:flag_cn: Tiếng Ả Rập ](/tieng-a-rap/){: .md-button } [:flag_it: Tiếng Ý](/tieng-y/){: .md-button }
 
-[:flag_id: Tiếng Indonesia](ngon-ngu/tieng-indonesia/index.md){: .md-button }
+[:flag_id: Tiếng Indonesia](/tieng-indonesia/){: .md-button }
 
 
 ## Lời cảm ơn
