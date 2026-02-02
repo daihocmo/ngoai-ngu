@@ -8,20 +8,26 @@ repo_url: https://github.com/daihocmo/ngoai-ngu
 nav:
   - 'Trang chủ': 'index.md'
   - 'Hướng dẫn':
-      - 'Hướng dẫn chính': 'guide.md'
-      - 'Nói': noi.md
-      - 'Đọc': doc.md
-  - 'Immersion & Sentence Mining':
-      - 'Tổng quan về Immersion': overview.md
-      - 'Sentence Mining': sentence-mining.md
-  - 'Xây dựng môi trường học':
-      - 'Anki': 'anki.md'
-      - 'Yomitan': 'yomitan.md'
-      - 'Goldendict': 'goldendict.md'
-      - 'Hướng dẫn Mining': 'mining.md'
-      - 'Xây dựng môi trường học ngoại ngữ tại nhà': setup.md
+    - 'Giới thiệu phương pháp': 'orca/index.md'
+    - 'Giai đoạn 0': 'orca/giai-doan-0.md'
+    - 'Giai đoạn 1': 'orca/giai-doan-1.md'
+    - 'Giai đoạn 2': 'orca/giai-doan-2.md'
+    - 'Giai đoạn 3': 'orca/giai-doan-3.md'
+    - 'Giai đoạn 4': 'orca/giai-doan-4.md'
+  - 'Các bài viết khác':
+    - 'Hướng dẫn tự học ngoại ngữ (Cũ)': 'guide.md'
+    - 'Đọc': doc.md
+    - 'Nói': noi.md
+    - 'Tổng quan về Immersion': overview.md
+    - 'Sentence Mining': sentence-mining.md
+  - 'Setup':
+    - 'Anki': 'anki.md'
+    - 'Yomitan': 'yomitan.md'
+    - 'Goldendict': 'goldendict.md'
+    - 'Hướng dẫn Mining': 'mining.md'
+    - 'Xây dựng môi trường học ngoại ngữ tại nhà': setup.md
   - 'Tài nguyên học':
-      - 'Tông hợp': 'resources.md'
+    - 'Tông hợp': 'resources.md'
  
 theme:
   palette:

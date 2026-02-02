@@ -1,5 +1,7 @@
 # Hướng dẫn sử dụng Anki cho việc học ngoại ngữ
 
+*Lưu ý (02/02/2026): Hướng dẫn này đã cũ rồi nên bạn từ mò cách tải nhé :)) về cơ bản Anki đã cập nhật lại trang web rùi. Nhưng mà để tải thì vẫn cứ bấm vào tệp tải xuống rồi bấm Enter liên tục là được nghen :>*
+
 Anki là phần mềm cho phép bạn học từ vựng thông qua các thẻ ghi nhớ (kết hợp phương pháp lặp lại ngắt quãng & active recall giúp ghi nhớ lâu hơn). Đã có không ít các hướng dẫn trên Internet giúp bạn bắt đầu học cách sử dụng phần mềm này.
 
 Một cách báo nho nhỏ: Phần mềm này tương đối khó dùng, nhưng rất đáng bỏ thời gian ra học.
