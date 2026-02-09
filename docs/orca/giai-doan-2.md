@@ -730,3 +730,5 @@ Trong suốt giai đoạn 2, chúng tôi khuyên nên tập trung học từ ở
 Luôn nhớ rằng danh sách thống kê mà bạn sử dụng sẽ không hoàn toàn chính xác (hay đại diện cho chính việc immerse của bạn). Nếu danh sách nói từ đó không thông dụng nhưng cảm năng của bạn mách bảo rằng bạn nên học thì cứ học thôi.
 
 Nếu bạn không thể tìm thấy danh sách thống kê cho ngôn ngữ bạn đang học, hoặc bạn không thích tham khảo một danh sách giống vậy thì cũng hoàn toàn không sao. Bạn có thể dựa vào cảm năng để chọn lựa từ nào để học. Từ nào quan trọng thì sớm hay muộn gì cũng phải học, thỉnh thoảng học vài từ cũ, từ hiếm cũng chẳng có hại gì cả.
+
+[:book: Chuyển qua giai đoạn 3](giai-doan-3.md){: .md-button }

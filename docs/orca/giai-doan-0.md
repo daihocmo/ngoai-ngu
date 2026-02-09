@@ -99,3 +99,5 @@ Khi bạn đã STUDY một từ và nhìn thấy nó nhiều lần trong quá tr
 Một khi bạn đã HẤP THỤ được một từ. Để lưu giữ các từ ấy lâu dài, bạn cần xem lại chúng khoảng một hai lần mỗi năm thông qua việc immerse hoặc study.
 
 Để ghi nhớ một từ trong trí nhớ dài hạn của bạn, bạn cần phải thỉnh thoảng xem lại từ đó. Mức độ thường xuyên phụ thuộc vào mức độ bạn đã nhớ về nó.
+
+[:book: Bắt đầu đọc giai đoạn 1](giai-doan-1.md){: .md-button }

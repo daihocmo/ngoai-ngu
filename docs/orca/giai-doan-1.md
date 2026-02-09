@@ -132,3 +132,5 @@ Anki chỉ đóng vai trò phụ trợ giúp quá trình học nhanh hơn một 
 3. Tạo thẻ cực kỳ đơn giản bằng chức năng có sẵn của Anki. Chỉ cần một câu văn bất kỳ có một từ bạn muốn học, và nghĩa của từ đó trong từ điển đa ngữ/đơn ngữ (hoặc không có cũng được).
 
 Rất nhiều người trên thế giới học ngoại ngữ thành công mà không cần Anki, và ngay cả tạo Anki bằng cách sơ sài như cách 3, cũng đã có người học lên trình độ cực cao chỉ trong vòng một thời gian rất ngắn, rồi họ cũng xoá Anki. Nên bạn hãy nhớ là, có Anki và Migaku thì tốt, nhưng nếu không có thì bạn vẫn nên tin tưởng vào phương pháp. Bằng mọi giá phải ưu tiên thời lượng và chất lượng của việc chìm mình vào ngôn ngữ đang học!
+
+[:book: Chuyển qua giai đoạn 2](giai-doan-2.md){: .md-button }

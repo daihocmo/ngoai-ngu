@@ -1,4 +1,4 @@
-# **Con đường từ giai đoạn 3 tới giai đoạn 4**
+# Con đường từ giai đoạn 3 tới giai đoạn 4
 
 _Đi từ từ sẽ thảnh thơi, nhưng muốn nhanh thì gian khó_
 
@@ -77,3 +77,5 @@ Tuy nhiên, Anki vẫn đóng một vai trò lớn nhất định, và cần ph�
 ## Chạm tới giai đoạn 4
 
 Là bất chợt một ngày đẹp trời, bạn nhận ra đối với những thể loại mình hay xem, thì lúc nào bạn cũng có thể hiểu 50% 70% 90% tuỳ vào việc có phụ đề hay không. Với những tiểu thuyết ở trong thể loại hay đọc, bạn có thể hiểu hơn 50%. Bạn có thể nghe và kéo dài cuộc nói chuyện với người bản địa hàng giờ đồng hồ. Bạn có thể đọc truyện tranh tương đối dễ dàng, ít tra từ, mặc dù không hẳn là bạn hiểu được 100%. Với những từ nào mới gặp, bạn cũng có thể đại khái đoán được ý nghĩa của nó từ ngữ cảnh và điểm chung với những từ khác. Dù là bất kể thứ gì, bạn cũng có thể nghe hay đọc bằng ngôn ngữ bạn đang học dù không cần phải hiểu 100%, vì bạn đang sống trong thứ ngôn ngữ đó. Mức độ nghe hiểu đọc hiểu của bạn đã trở nên rất cao, tạo thành nền móng để bạn “hoàn hảo hoá” ngoại ngữ của mình trên con đường tới giai đoạn 5, giai đoạn mà khả năng của bạn gần như tương đương với một người bản địa, bạn có thể nghe hiểu đọc hiểu 90% tất cả mọi nội dung ở mọi chủ đề, và có thể nói viết về gần như tất cả mọi vấn đề nằm trong sự hiểu biết của bạn.
+
+[:book: Chuyển qua giai đoạn 4](giai-doan-4.md){: .md-button }

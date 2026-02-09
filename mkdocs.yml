@@ -7,7 +7,7 @@ repo_url: https://github.com/daihocmo/ngoai-ngu
 
 nav:
   - 'Trang chủ': 'index.md'
-  - 'Hướng dẫn':
+  - 'Hướng dẫn (Orca)':
     - 'Giới thiệu phương pháp': 'orca/index.md'
     - 'Giai đoạn 0': 'orca/giai-doan-0.md'
     - 'Giai đoạn 1': 'orca/giai-doan-1.md'
@@ -15,17 +15,19 @@ nav:
     - 'Giai đoạn 3': 'orca/giai-doan-3.md'
     - 'Giai đoạn 4': 'orca/giai-doan-4.md'
   - 'Các bài viết khác':
-    - 'Hướng dẫn tự học ngoại ngữ (Cũ)': 'guide.md'
+    - 'Guide': 'guide.md'
     - 'Đọc': doc.md
     - 'Nói': noi.md
-    - 'Tổng quan về Immersion': overview.md
+    - 'Immersion': overview.md
     - 'Sentence Mining': sentence-mining.md
-  - 'Setup':
+    - 'SRS': srs.md
+    - 'Language Domain': 'language-domain.md'
+  - 'Công cụ':
     - 'Anki': 'anki.md'
     - 'Yomitan': 'yomitan.md'
     - 'Goldendict': 'goldendict.md'
-    - 'Hướng dẫn Mining': 'mining.md'
-    - 'Xây dựng môi trường học ngoại ngữ tại nhà': setup.md
+    - 'Mining': 'mining.md'
+    - 'Setup': setup.md
   - 'Tài nguyên học':
     - 'Tông hợp': 'resources.md'
  

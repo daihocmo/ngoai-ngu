@@ -1,3 +1,5 @@
+# Giai đoạn 4
+
 Để bước vào giai đoạn 4, bạn sẽ phải dùng kiếm bổ đôi hòn đá này. Muốn biết cụ thể phải làm thế nào, hãy xem hết tập 3 của phim Demon Slayer: Kimetsu no Yaiba (鬼滅の刃) bằng thứ tiếng bạn đang học. Nếu bạn đã từng xem rồi, hãy xem lại một lần nữa, xem tới bao giờ hiểu hết 90% tập 3 này mới thôi. Nếu xem mà không hiểu nhiều, quay đầu lại, bạn vẫn đang ở giai-đoạn-3.
 
 ### Bắt đầu Output

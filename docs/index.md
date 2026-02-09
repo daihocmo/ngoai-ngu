@@ -2,7 +2,7 @@
 
 Trước khi bắt đầu học môn ngôn ngữ bất kì, bạn có thể đọc hướng dẫn tự học ngoại ngữ trước nha.
 
-[:book: Đọc hướng dẫn](guide.md){: .md-button }
+[:book: Đọc hướng dẫn](orca/index.md){: .md-button }
 
 ## Danh sách ngoại ngữ
 
@@ -16,15 +16,11 @@ Trước khi bắt đầu học môn ngôn ngữ bất kì, bạn có thể đ�
 
 [:flag_th: Tiếng Thái](/tieng-thai/){: .md-button }
 
-_Những ngoại ngữ bên dưới đây vẫn chưa được hoàn chỉnh (Thực ra mấy cái ở trên cũng chưa, nhưng được cập nhật lại rồi nên cũng ở mức dùng được :>)_
-
 [:flag_br: Tiếng Bồ Đào Nha](/tieng-bdn/){: .md-button }
 
 [:flag_ru: Tiếng Nga](/tieng-nga/){: .md-button }
 
-[:flag_cn: Tiếng Ả Rập ](/tieng-a-rap/){: .md-button } [:flag_it: Tiếng Ý](/tieng-y/){: .md-button }
-
-[:flag_id: Tiếng Indonesia](/tieng-indonesia/){: .md-button }
+[:flag_sa: Tiếng Ả Rập ](/tieng-a-rap/){: .md-button } [:flag_it: Tiếng Ý](/tieng-y/){: .md-button }
 
 ## Lời cảm ơn
 
