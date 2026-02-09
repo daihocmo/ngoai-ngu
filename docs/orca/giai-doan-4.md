@@ -10,3 +10,5 @@ Có thể nhiều người sẽ nói với bạn rằng để output được th
 
 Khi ở đạt tới giai đoạn 4, có thể bạn sẽ quan tâm đến chuyện thành quả học của mình ra sao, mình đang ở đâu. Sau đây là những người học tiếng Nhật theo từng trình độ khác nhau để các bạn đối chiếu (Tất cả đều đã đạt đến giai đoạn 4). Nếu khả năng của bạn tương đương người kém nhất ở đây, thì bạn cũng vẫn ở mức giỏi.
 Mình có được thông tin về trình độ của những người này, nhờ việc xem video Youtube của người Nhật đánh giá trình độ, hoặc là hỏi ý kiến thực tế của bạn bè mình người Nhật. Nó có thể không chính xác 100%, nhưng tất cả chỉ là để tham khảo, nếu bạn đang suy sụp hay chán nản, bạn có thể noi gương họ. Hoặc nếu bạn giỏi hơn họ, thì bạn nên tự tin hơn về khả năng của mình.
+
+[:book: Chuyển qua giai đoạn 5](giai-doan-5.md){: .md-button }

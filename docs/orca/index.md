@@ -7,3 +7,7 @@
 - [Giai đoạn 2](giai-doan-2.md)
 - [Giai đoạn 3](giai-doan-3.md)
 - [Giai đoạn 4](giai-doan-4.md)
+- [Giai đoạn 5](giai-doan-5.md)
+
+!!! warning "Lưu ý"
+    Các hướng dẫn này được viết chủ yếu cho người học Tiếng Nhật, nhưng tư duy về việc học ngôn ngữ được giới thiệu trong hướng dẫn vẫn có thể áp dụng được cho việc học các ngôn ngữ khác.

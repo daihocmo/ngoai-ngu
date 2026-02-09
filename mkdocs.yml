@@ -14,6 +14,7 @@ nav:
     - 'Giai đoạn 2': 'orca/giai-doan-2.md'
     - 'Giai đoạn 3': 'orca/giai-doan-3.md'
     - 'Giai đoạn 4': 'orca/giai-doan-4.md'
+    - 'Giai đoạn 5': 'orca/giai-doan-5.md'
   - 'Các bài viết khác':
     - 'Guide': 'guide.md'
     - 'Đọc': doc.md
@@ -26,6 +27,7 @@ nav:
     - 'Anki': 'anki.md'
     - 'Yomitan': 'yomitan.md'
     - 'Goldendict': 'goldendict.md'
+    - 'ASBPlayer': 'asbplayer.md'
     - 'Mining': 'mining.md'
     - 'Setup': setup.md
   - 'Tài nguyên học':
