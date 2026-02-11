@@ -1,9 +1,7 @@
 # Hướng dẫn đào câu trên Netflix và Youtube bằng asbplayer
 
 !!! info "Nguồn hướng dẫn"
-Bài hướng dẫn sau đây được dịch bởi Sugor từ [Ngoại ngữ phim và game](http://discord.gg/VW2sAuY). Hướng dẫn gốc bằng Tiếng Anh: [Sentence mining from Netflix and YouTube with asbplayer](https://soyuz18.notion.site/Sentence-mining-from-Netflix-and-YouTube-with-asbplayer-83a03590cd8349ba81ca10340645b565).
-
-    Mình đã cập nhật lại một số thông tin hướng dẫn cài đặt.
+    Bài hướng dẫn sau đây được dịch bởi Sugor từ [Ngoại ngữ phim và game](http://discord.gg/VW2sAuY). Hướng dẫn gốc bằng Tiếng Anh: [Sentence mining from Netflix and YouTube with asbplayer](https://soyuz18.notion.site/Sentence-mining-from-Netflix-and-YouTube-with-asbplayer-83a03590cd8349ba81ca10340645b565). Mình cũng đã cập nhật lại một số thông tin hướng dẫn cài đặt nhất định.
 
 ### Tổng quan
 
